@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "f099ec31a996f9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "039e61c2ccb62e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031802d2a2c0ac30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesiones"
+            }
+          },
+          {
+            "id": "8a1d2b79ae128d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "6de718129b1b7198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "47949f7c15843c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 14"
+            }
+          },
+          {
+            "id": "dff405a654191d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Manada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Manada"
+            }
+          },
+          {
+            "id": "684c823e18fd9e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesion 17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesion 17"
+            }
+          },
+          {
+            "id": "b8d2f361af83d433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 10"
+            }
+          },
+          {
+            "id": "a90b426ff5b2d640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallestad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vallestad"
+            }
+          },
+          {
+            "id": "154e949253350555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reliquias de Karr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliquias de Karr"
+            }
+          },
+          {
+            "id": "84ca13dacc71a99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Manada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Manada"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03e0bb47eb741a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f73d5cae283898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b353cff00ba9875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2115bdbdaf74cff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vallestad",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd2a43c242cdb24b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f1ad780388b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5244ba3a2f67bf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4faf317d1990929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sesión 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sesión 1"
+            }
+          },
+          {
+            "id": "5bf0912a0eec883f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "e0892440e57fbf69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78195de018466e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a1d2b79ae128d33",
+  "lastOpenFiles": [
+    "Ruinas de Valgramoth.md",
+    "Frostborn.md",
+    "Lomamar.md",
+    "Elaria.md",
+    "Torre Arcáz.md",
+    "Sesiones/Sesion 17.md",
+    "Lorias Larmagnar.md",
+    "Hermano Krill.md",
+    "Segrún de la Luz Cálida.md",
+    "Sesion 17.md",
+    "Sesiones/Sesiones.md",
+    "Downtime.md",
+    "Vallestad.md",
+    "Sesiones/Sesión 10.md",
+    "Sesiones/Sesión 15.md",
+    "Untitled.md",
+    "Sesiones/Sesión 16.md",
+    "Reliquias de Karr.md",
+    "Sesiones/Sesión 14.md",
+    "Characters/Dunar Dorin.md",
+    "Sesiones/Sesión 1.md",
+    "Sesiones/Sesión 2.md",
+    "Characters/Gran Jarl.md",
+    "Creaciones de Karr.md",
+    "La Manada.md",
+    "Hermanos de Sangre.md",
+    "Pasted image 20250603182156.png",
+    "Pasted image 20250603182144.png",
+    "Pasted image 20250603181932.png",
+    "Pasted image 20250603181706.png",
+    "Pasted image 20250603171823.png",
+    "Pasted image 20250603171820.png",
+    "Pasted image 20250603171527.png",
+    "Images/Pasted image 20250520173039.png",
+    "Images/Pasted image 20250520173030.png",
+    "Images/Pasted image 20250506174643.png",
+    "Creatures",
+    "Places",
+    "Characters",
+    "Sesiones",
+    "Images"
+  ]
+}

@@ -1,0 +1,1 @@
+http://dnd2024.wikidot.com/magic-item:staff-of-the-woodlands

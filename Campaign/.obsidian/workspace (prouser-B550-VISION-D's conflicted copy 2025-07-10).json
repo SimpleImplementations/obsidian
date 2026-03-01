@@ -1,0 +1,375 @@
+{
+  "main": {
+    "id": "f099ec31a996f9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "38947ab8acf699e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6bd14968ad383f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesiones"
+            }
+          },
+          {
+            "id": "6b61c93983b7f116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darilotio's Book of Rituals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Darilotio's Book of Rituals"
+            }
+          },
+          {
+            "id": "ac50d0ad6515b840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "abb34b2491458fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesión 21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 21"
+            }
+          },
+          {
+            "id": "f74147ac393eaa40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tromvas"
+            }
+          },
+          {
+            "id": "ebbfa7475d3a3c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shield Guardians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shield Guardians"
+            }
+          },
+          {
+            "id": "c72d5318fa31d3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Experience table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experience table"
+            }
+          },
+          {
+            "id": "078468688d7f5411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nombres Enanos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nombres Enanos"
+            }
+          },
+          {
+            "id": "f74b5cf7242a7a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tromvas"
+            }
+          },
+          {
+            "id": "4b7c2873f830e12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shield Guardians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shield Guardians"
+            }
+          },
+          {
+            "id": "46c5b2d49f2a0db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valdebruma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valdebruma"
+            }
+          },
+          {
+            "id": "31629bc575655445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03e0bb47eb741a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f73d5cae283898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b353cff00ba9875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2115bdbdaf74cff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "down",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd2a43c242cdb24b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f1ad780388b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5244ba3a2f67bf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4faf317d1990929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sesión 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sesión 1"
+            }
+          },
+          {
+            "id": "5bf0912a0eec883f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "e0892440e57fbf69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78195de018466e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac50d0ad6515b840",
+  "lastOpenFiles": [
+    "Darilotio's Book of Rituals.md",
+    "Sesiones/Sesiones.md",
+    "Tromvas.md",
+    "Sesión 21.md",
+    "Shield Guardians.md",
+    "Pasted image 20250707164241.png",
+    "Nombres Enanos.md",
+    "Tools/Experience table.md",
+    "high_res_map.png",
+    "Pasted image 20250707163657.png",
+    "Valdebruma.md",
+    "Sesiones/Sesion 17.md",
+    "Sesiones/Sesión 20.md",
+    "Sesiones/Sesión 15.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Mechanics/Downtime.md",
+    "Feign Death.md",
+    "Sesiones/Sesión 19.md",
+    "Hag.md",
+    "Carta a Goldnar Ironvein.md",
+    "Batalla de Translagorn.md",
+    "Characters/Character.md",
+    "Characters/Lenzo.md",
+    "Characters/Bulzar.md",
+    "Ysolt Stonehammer.md",
+    "Lore/Gods.md",
+    "Tools/Nombres.md",
+    "Troll.md",
+    "Pasted image 20250624011157.png",
+    "Pasted image 20250624002850.png",
+    "Pasted image 20250624002910.png",
+    "Screenshot from 2025-06-21 15-35-53.png",
+    "Pasted image 20250617182345.png",
+    "Lore",
+    "Tools",
+    "items",
+    "Mechanics",
+    "Images/Pasted image 20250603182144.png",
+    "Images/Pasted image 20250603171820.png",
+    "Creatures",
+    "Places",
+    "Characters",
+    "Sesiones",
+    "Images"
+  ]
+}

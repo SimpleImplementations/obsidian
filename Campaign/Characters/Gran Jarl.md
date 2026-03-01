@@ -1,0 +1,1 @@
+El gran Jarl actual es [[Lorias Larmagnar]]

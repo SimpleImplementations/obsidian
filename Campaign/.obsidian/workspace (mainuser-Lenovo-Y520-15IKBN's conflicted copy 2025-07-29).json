@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "f099ec31a996f9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0080ed83b409a151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44782519d01bbaad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesiones"
+            }
+          },
+          {
+            "id": "38b2d9e6947871b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 22"
+            }
+          },
+          {
+            "id": "705a5bb818edaf86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 24"
+            }
+          },
+          {
+            "id": "2dd5f4dc354db556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Gibbering Mouther.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gibbering Mouther"
+            }
+          },
+          {
+            "id": "2a1f67cd9f5f8cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piercer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piercer"
+            }
+          },
+          {
+            "id": "97a517bbb2b1a072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verdant Living Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verdant Living Armor"
+            }
+          },
+          {
+            "id": "88c4e88ee629747e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harnak Deepdelver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harnak Deepdelver"
+            }
+          },
+          {
+            "id": "4ce7d79106cbb550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harnak Deepdelver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harnak Deepdelver"
+            }
+          },
+          {
+            "id": "af7b9fef58605772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warrior_lvl_3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warrior_lvl_3"
+            }
+          },
+          {
+            "id": "5b5a2872498369d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesiones"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03e0bb47eb741a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f73d5cae283898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b353cff00ba9875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2115bdbdaf74cff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "norma",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd2a43c242cdb24b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f1ad780388b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5244ba3a2f67bf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4faf317d1990929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sesión 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sesión 1"
+            }
+          },
+          {
+            "id": "5bf0912a0eec883f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "e0892440e57fbf69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78195de018466e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "705a5bb818edaf86",
+  "lastOpenFiles": [
+    "Creatures/Gibbering Mouther.md",
+    "Pasted image 20250729180239.png",
+    "Sesiones/Sesión 24.md",
+    "Piercer.md",
+    "Pasted image 20250729175928.png",
+    "Pasted image 20250729175920.png",
+    "Verdant Living Armor.md",
+    "Pasted image 20250729175422.png",
+    "Harnak Deepdelver.md",
+    "Warrior_lvl_3.md",
+    "Pasted image 20250729174719.png",
+    "Creatures/Commoner.md",
+    "Tools/Nombres Enanos.md",
+    "Sesiones/Sesión 23.md",
+    "Tools/Experience table.md",
+    "Giant Boar.md",
+    "Pasted image 20250729161022.png",
+    "Pasted image 20250729161012.png",
+    "Characters/Aira.md",
+    "Characters/Norman.md",
+    "Pluma de Musa.md",
+    "items/Shield of Lathander.md",
+    "Pasted image 20250725000801.png",
+    "Characters/Haldor, el asesino de demonios.md",
+    "Lore/Charla entre Vorg y Lathander.md",
+    "Places/Tumba de Haldor.md",
+    "Tromvas.md",
+    "Minas Profundas.md",
+    "high_res_map.png",
+    "Sesiones/Sesiones.md",
+    "Sesiones/Sesión 22.md",
+    "Ylga Coinbraid.md",
+    "Pasted image 20250722160651.png",
+    "Varnak Runeweaver.md",
+    "Darilotio's Book of Rituals.md",
+    "Mechanics/Downtime.md",
+    "Untitled.canvas",
+    "Lore",
+    "Tools",
+    "items",
+    "Mechanics",
+    "Creatures",
+    "Places",
+    "Characters",
+    "Sesiones",
+    "Images"
+  ]
+}

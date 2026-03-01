@@ -1,0 +1,361 @@
+{
+  "main": {
+    "id": "f099ec31a996f9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "039e61c2ccb62e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031802d2a2c0ac30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Vallestad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vallestad"
+            }
+          },
+          {
+            "id": "b47fe8dc8d5c9ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 16"
+            }
+          },
+          {
+            "id": "c056d8f7f770cf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Delaken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delaken"
+            }
+          },
+          {
+            "id": "9edbfdb4bd0636a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Norman Quinn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norman Quinn"
+            }
+          },
+          {
+            "id": "9a27932edf945daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Norman Quinn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norman Quinn"
+            }
+          },
+          {
+            "id": "3e3a2843ef7501c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Norman Quinn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norman Quinn"
+            }
+          },
+          {
+            "id": "e9a953d02eb765b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Experiencie table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiencie table"
+            }
+          },
+          {
+            "id": "d05bf6e31ad778ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesion 17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesion 17"
+            }
+          },
+          {
+            "id": "465fbbbb2b188263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darilotio's Book of Rituals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Darilotio's Book of Rituals"
+            }
+          },
+          {
+            "id": "b5bb2a95bb9e9fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "71cf7dd0248fe5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Norman Quinn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norman Quinn"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03e0bb47eb741a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f73d5cae283898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b353cff00ba9875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2115bdbdaf74cff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fros",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd2a43c242cdb24b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f1ad780388b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5244ba3a2f67bf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4faf317d1990929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sesión 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sesión 1"
+            }
+          },
+          {
+            "id": "5bf0912a0eec883f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "e0892440e57fbf69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78195de018466e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2115bdbdaf74cff8",
+  "lastOpenFiles": [
+    "Pasted image 20250624011157.png",
+    "Pasted image 20250624002850.png",
+    "Attract Beasts.md",
+    "Pasted image 20250624002910.png",
+    "Feign Death.md",
+    "Sesiones/Sesión 19.md",
+    "Paso del Cruce.md",
+    "Tools/Nombres2.md",
+    "Hag.md",
+    "Valdebruma.md",
+    "Attract Monstrosities.md",
+    "Screenshot from 2025-06-21 15-35-53.png",
+    "Mechanics/Downtime.md",
+    "Darilotio's Book of Rituals.md",
+    "Sesiones/Sesion 17.md",
+    "Characters/Delaken.md",
+    "Sesiones/Sesión 18.md",
+    "Characters/Norman Quinn.md",
+    "Sesiones/Sesión 15.md",
+    "Sesiones/Sesión 16.md",
+    "Sesiones/Sesión 13.md",
+    "Sesiones/Sesión 14.md",
+    "Places/Vallestad.md",
+    "Sesiones/Sesiones.md",
+    "Tools/Experiencie table.md",
+    "Creatures/Will-o’-Wisp.md",
+    "Pasted image 20250617182345.png",
+    "Places/Orfanato.md",
+    "items/Shield of Lathander.md",
+    "Tools/ideas.md",
+    "Lore",
+    "Tools",
+    "items",
+    "Mechanics",
+    "Images/Pasted image 20250603182144.png",
+    "Images/Pasted image 20250603171820.png",
+    "Images/Pasted image 20250603171823.png",
+    "Images/Pasted image 20250603171527.png",
+    "Images/Pasted image 20250603181706.png",
+    "Images/Pasted image 20250603182156.png",
+    "Creatures",
+    "Places",
+    "Characters",
+    "Sesiones",
+    "Images"
+  ]
+}

@@ -1,0 +1,1 @@
+https://www.aidedd.org/spell/feign-death

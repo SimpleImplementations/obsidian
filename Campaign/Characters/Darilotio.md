@@ -1,0 +1,1 @@
+Mago Gnomo creador de [[Darilotio's Book of Rituals]]
