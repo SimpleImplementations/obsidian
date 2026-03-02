@@ -1,4 +1,4 @@
-Encuentros/situaciones 2d6 en la subregión **[[Últimas Hojas]]** ([[Traslagorn]]). Por rellenar.
+Encuentros/situaciones 2d6 en la subregión **[[Espinazo de Piedra]]** ([[Traslagorn]]). Por rellenar.
 
 | 2d6 | Situación |
 | :-: | :-------- |

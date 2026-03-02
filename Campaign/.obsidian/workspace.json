@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "4907c469543ef642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a52bef9be593e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas Por Hacer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tareas Por Hacer"
+            }
+          }
+        ]
+      },
+      {
         "id": "2df915a78e0a66ed",
         "type": "tabs",
         "children": [
@@ -13,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Traslagorn/Traslagorn.md",
+                "file": "Places/Traslagorn/Últimas Hojas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Traslagorn"
+              "title": "Últimas Hojas"
             }
           },
           {
@@ -27,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Traslagorn/Picos del Norte.md",
-                "mode": "source",
+                "file": "Tablas Random/Tabla Últimas Hojas.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Picos del Norte"
+              "title": "Tabla Últimas Hojas"
             }
           },
           {
@@ -50,6 +70,62 @@
             }
           },
           {
+            "id": "1d29e0618b62fd5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn/Picos del Norte.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Picos del Norte"
+            }
+          },
+          {
+            "id": "6638b17a46b3b3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Arendil.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Arendil"
+            }
+          },
+          {
+            "id": "6d407ce620d1bc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn/Espinazo de Piedra.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Espinazo de Piedra"
+            }
+          },
+          {
+            "id": "1b1bea1d9a7e059b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn/Últimas Hojas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Últimas Hojas"
+            }
+          },
+          {
             "id": "f6fa1ca7043699a5",
             "type": "leaf",
             "state": {
@@ -64,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pseudo",
+                "query": "arendi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Traslagorn/Traslagorn.md",
+                "file": "Places/Traslagorn/Últimas Hojas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Traslagorn"
+              "title": "Outline of Últimas Hojas"
             }
           }
         ],
@@ -213,15 +289,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84417a4cbb3a4826",
+  "active": "1b1bea1d9a7e059b",
   "lastOpenFiles": [
-    "Places/Traslagorn/Ultimas Hojas.md",
-    "Places/Traslagorn/Traslagorn.md",
-    "Places/Traslagorn/Picos del Norte.md",
-    "Places/Traslagorn/Pared de Hielo.md",
-    "Places/Traslagorn/Espinazo de Piedra.md",
-    "Characters/Bulzar.md",
     "Tareas Por Hacer.md",
+    "Places/Traslagorn/Espinazo de Piedra.md",
+    "Places/Traslagorn/Últimas Hojas.md",
+    "Tablas Random/Tabla Picos del Norte.md",
+    "Tablas Random/Tabla Pared de Hielo.md",
+    "Tablas Random/Tabla Espinazo de Piedra.md",
+    "Characters/Player Characters/Arendil.md",
+    "Places/Traslagorn/Pared de Hielo.md",
+    "Places/Traslagorn/Picos del Norte.md",
+    "Places/Traslagorn/Traslagorn.md",
+    "Tablas Random/Tabla Últimas Hojas.md",
+    "Tablas Random/Tablas Random Camino.md",
+    "Places/Traslagorn/Ultimas Hojas.md",
+    "Characters/Bulzar.md",
     "Places/Cálimba.md",
     "Places/Calimba.md",
     "Places/Traslagorn",
@@ -239,13 +322,6 @@
     "Characters/Harnak Deepdelver.md",
     "Characters/Eryndor Celestia.md",
     "Characters/Gran Jarl.md",
-    "Characters/Balin.md",
-    "Characters/Bjor.md",
-    "Characters/Player Characters/Arendil.md",
-    "Characters/Astrid de las Nueve Llamas.md",
-    "Characters/Aliraen Glaciel.md",
-    "Lore/Reliquias de Karr.md",
-    "Untitled 1.md",
     "Images/Pasted image 20250707164241.png",
     "Images/Pasted image 20250714173736.png",
     "Images/Pasted image 20250312165354.png",

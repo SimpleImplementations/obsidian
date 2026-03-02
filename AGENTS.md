@@ -21,6 +21,8 @@
 - **Formato**: Cuando pida que mejores el formato, modifica lo menos posible el texto; ser fiel a lo que yo escribí es lo más importante.
 - **Config de Obsidian**: `.obsidian/` contiene ajustes, plugins, themes, snippets; modificar solo cuando lo pida o al arreglar algo en lo que estemos trabajando. No tocar la config de `.obsidian` por tu cuenta; úsala solo como referencia.
 - **Datos que se actualizan**: Las notas de campaña pueden quedar desactualizadas respecto a cómo avanzó la historia (p. ej. nombres de NPCs, relaciones, eventos). Puede ser necesario actualizar datos viejos con información nueva. **Siempre consultar antes** de actualizar o reemplazar contenido por "versiones más nuevas"; no hacerlo por cuenta propia sin confirmación.
+- **Regiones y subregiones**: Las regiones (p. ej. Traslagorn) se dividen en subregiones con sus propias notas; el mismo criterio se usa para desarrollar regiones y subregiones en el futuro.
+- **Título duplicado**: En Obsidian el nombre del archivo ya se muestra como título de la nota. Evitar repetir ese mismo texto como `# Título` al inicio del contenido, para que no se vea el título dos veces. No aplicar este criterio de forma masiva en notas existentes; corregir solo cuando se cree o edite una nota.
 
 ## Obsidian docs
 

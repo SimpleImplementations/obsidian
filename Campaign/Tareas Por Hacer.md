@@ -43,3 +43,6 @@ Cartas de itmes
 mejorar Briella
 mejorar bulzar, armar bien su historia, la idea de que también sea warlock del beholder pero para el eso sea ser más debil
 
+reglas de descanso
+reglas de caminata
+reglas de criticos de ventaja de enemigos
