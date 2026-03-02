@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=CMRU7d9c22c&list=PL99czue-ivEsJxQLcNglKygJ6QQT1P
 [[Converted Elf Lieutenant]]
 [[Converted Elven Sylvaine]] 
 [[Converted Goliath]]
-[[Bone Seer of the Withered Glade (Ascendant) Elorien]]
+[[Bone Seer of the Withered Glade Elorien]]
 [[Converted High Sorcerers]]
 
 

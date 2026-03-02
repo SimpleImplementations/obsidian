@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted image 20250305170346.png"
+                "file": "Images/Pasted image 20250805050944.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250305170346"
+              "title": "Pasted image 20250805050944"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arendi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20250305170346.png",
+                "file": "Images/Pasted image 20250805050944.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250305170346"
+              "title": "Outline of Pasted image 20250805050944"
             }
           }
         ],
@@ -170,42 +170,41 @@
   },
   "active": "c7dbd1e059276ba4",
   "lastOpenFiles": [
-    "Images/Pasted image 20250212004617.png",
-    "Images/Pasted image 20250212000437.png",
-    "Images/Pasted image 20250212000435.png",
+    "Images/Pasted image 20250805050829.png",
+    "Images/Pasted image 20250312163953.png",
+    "Images/Pasted image 20250305175012.png",
+    "Creatures/Yak.md",
+    "Creatures/Will-o'-Wisp (Susurros de la nieve).md",
+    "Creatures/Warrior nivel 3.md",
+    "Creatures/Vine Blight.md",
+    "Creatures/Tree Blight.md",
+    "Images/Pasted image 20250305171320.png",
+    "Images/Pasted image 20250305171307.png",
+    "Creatures/Swarm of bone creapers.md",
+    "Creatures/Skeleton.md",
+    "Creatures/Worg.md",
+    "Creatures/Troll.md",
+    "Creatures/Tiger.md",
+    "Creatures/Shield Guardian.md",
+    "Creatures/Roper.md",
+    "Creatures/Salamander.md",
+    "Creatures/Piercer.md",
+    "Creatures/Minotaur Skeleton.md",
+    "Creatures/Monsters.md",
+    "Creatures/Magma Mephit.md",
+    "Creatures/Imp.md",
+    "Creatures/Hag.md",
+    "Creatures/Grik.md",
+    "Creatures/Goliath.md",
+    "Creatures/Goblin.md",
+    "Creatures/Gibbering Mouther.md",
+    "Creatures/Giant Boar.md",
     "Images/Pasted image 20250212000423.png",
     "Images/lago_helado.jpg",
     "Images/high_res_map.png",
     "Images/goblin.png",
     "Images/giant_spider.png",
     "Images/frost_goblin_sorcerer.jpeg",
-    "Images/frost_goblin.png",
-    "Images/Pasted image 20260120174955.png",
-    "Creatures/Animated armor.md",
-    "Creatures/Converted Elven Sylvaine.md",
-    "Creatures/Converted Elf Lieutenant.md",
-    "Creatures/Converted elf.md",
-    "Creatures/Araña Gigante.md",
-    "Mechanics/Attract Beasts.md",
-    "Creatures/Bandit Captain.md",
-    "Tools/Experience table.md",
-    "Tools/Equipo de Enanos para Underdark.md",
-    "Tablas Random/Tablas random Traslagorn.md",
-    "Tablas Random/Tablas Random Camino.md",
-    "Places/Orden del Círculo de la nieve.md",
-    "Characters/Sylvaine.md",
-    "Characters/Sariel.md",
-    "Characters/Ivellios.md",
-    "Characters/Caelith.md",
-    "Characters/Naelwyn.md",
-    "Characters/Laeral.md",
-    "Characters/Thaladir.md",
-    "Characters/Faelind.md",
-    "Places/Traslagorn.md",
-    "Places/Traslagorn/Traslagorn.md",
-    "Places/Traslagorn/Pared de Hielo.md",
-    "Tablas Random/Tabla Pared de Hielo.md",
-    "Tablas Random/Tabla Espinazo de Piedra.md",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",

@@ -33,5 +33,5 @@ Delaken tirada de Religión cuando ataque o castee
 ## Enemigos 
 
 [[Converted elf]] x6
-[[Bone Seer of the Withered Glade (Ascendant) Elorien]] x1
+[[Bone Seer of the Withered Glade Elorien]] x1
 [[Converted High Sorcerers]] x3

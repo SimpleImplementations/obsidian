@@ -11,7 +11,7 @@ barco chico
 1 remando velocidad lenta
 
 
-van a aparecer durante la noche [[Will-o’-Wisp]]
+van a aparecer durante la noche [[Will-o'-Wisp (Susurros de la nieve)]]
 #### Combate
 
 [[Hag]] manda un [[Troll]] 

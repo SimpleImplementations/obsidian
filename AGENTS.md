@@ -24,6 +24,7 @@
 - **Regiones y subregiones**: Las regiones (p. ej. Traslagorn) se dividen en subregiones con sus propias notas; el mismo criterio se usa para desarrollar regiones y subregiones en el futuro.
 - **Título duplicado**: En Obsidian el nombre del archivo ya se muestra como título de la nota. Evitar repetir ese mismo texto como `# Título` al inicio del contenido, para que no se vea el título dos veces. No aplicar este criterio de forma masiva en notas existentes; corregir solo cuando se cree o edite una nota.
 - **Apellidos por raza**: Orcos y goliaths no usan apellido; no asignarles apellido al crear o editar personajes.
+- **Enlaces existentes**: No eliminar enlaces (p. ej. a spells, monstruos o referencias externas) que ya estén en una nota; conservarlos al reformatear o reestructurar. Si se agregan referencias nuevas, se pueden enlazar igual.
 
 ## Obsidian docs
 

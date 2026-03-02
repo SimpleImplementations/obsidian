@@ -42,5 +42,5 @@ barco chico
 
 [[Hag]] manda un [[Troll]] 
 
-también van a aparecer durante la noche [[Will-o’-Wisp]]
+también van a aparecer durante la noche [[Will-o'-Wisp (Susurros de la nieve)]]
 

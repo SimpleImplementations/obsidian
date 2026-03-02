@@ -22,7 +22,7 @@ con 5 enanos.
 - **Rurik Forgehorn** - Hermano menor de Balin, más astuto que fuerte, pero igualmente decidido.
 
 - **Grimnar Stonefist** - Primo de los Forgehorn, conocido por su capacidad de resistir golpes y defender con valentía.
-[[Warrior_lvl_3]]
+[[Warrior nivel 3]]
 
 1 asistente
 4. **Odrik Brightstone** - Enano meticuloso y observador, especialista en rastrear habilidades y talentos.

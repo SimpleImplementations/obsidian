@@ -18,7 +18,7 @@ La manada sabe sobre la bruja y la están siguiendo
 ### **Viaje a [[Paso del Cruce]]** 
 Hay bastante niebla por la nieve fina y el viento
 -> si se refugian se suman [[Goblin]] 3
-atacan 4 [[Will-o’-Wisp]] 
+atacan 4 [[Will-o'-Wisp (Susurros de la nieve)]] 
 Freya
 ### LLegada a [[Paso del Cruce]]
 #### Parados los viajes debido a la bruma

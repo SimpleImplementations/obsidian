@@ -19,7 +19,7 @@ Al alcanzar por fin la cima de la ladera, donde deberían ver la tumba a pocos m
 
 Tirada de perseption permitirá:
 
-_Pueden ver que los [[Goblin]]s tienen dos prisioneros: un [[goliath]], arrodillado en el suelo, maniatado y amordazado, y un "inserte raza de jugador", atado de manos, pies y boca.
+_Pueden ver que los [[Goblin]]s tienen dos prisioneros: un [[Goliath]], arrodillado en el suelo, maniatado y amordazado, y un "inserte raza de jugador", atado de manos, pies y boca.
 Los goblins obligan a uno de ellos a cruzar el pozo sobre una cuerda, intentando alcanzar la entrada de la [[Tumba de Haldor]]. Sin embargo, cuando está a mitad de camino, la oscuridad del pozo se agita de repente. Un par de ojos brillantes se abren en la penumbra, seguidos de unas patas peludas y afiladas que emergen de las sombras.
 En un instante, una [[Araña Gigante]] salta desde la profundidad, atrapando a su presa con un movimiento veloz. Sus colmillos se clavan en el prisionero mientras sus patas comienzan a envolverlo con destreza. Luego, con un movimiento inverso al que utilizó para salir de la grieta, la criatura se retira hacia las profundidades.
 #### Background

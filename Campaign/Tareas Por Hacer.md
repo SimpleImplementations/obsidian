@@ -134,7 +134,7 @@ definir nombre de regiones
 definir asentamientos conocidos y no conocidos
 imprimir hexagonos
 
-muyyy importantes los fantasmas [[Will-o’-Wisp]]
+muyyy importantes los fantasmas [[Will-o'-Wisp (Susurros de la nieve)]]
 
 armar tablas random interesantes
 

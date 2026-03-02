@@ -30,7 +30,7 @@ shadow of intent elegy instrumental disco 2 de elegy
 [[Converted Elf Lieutenant]]
 [[Converted Elven Sylvaine]] 
 [[Converted Goliath]]
-[[Bone Seer of the Withered Glade (Ascendant) Elorien]]
+[[Bone Seer of the Withered Glade Elorien]]
 [[Converted High Sorcerers]]
 
 

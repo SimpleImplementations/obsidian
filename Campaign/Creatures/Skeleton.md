@@ -1,1 +1,44 @@
-![[Pasted image 20250603181932.png]]
+---
+tags:
+  - creature
+---
+
+> [!infobox|left clean wmed static]
+> # Skeleton
+>
+> *Medium Undead, Lawful Evil*
+>
+> | |
+> | - |
+>
+> **AC** 14
+> **Initiative** +3 (13)
+> **HP** 13 (2d8 + 4)
+> **Speed** 30 ft.
+>
+> | | | MOD | SAVE | | | MOD | SAVE |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> | **STR** | 10 | +0 | +0 | **INT** | 6 | -2 | -2 |
+> | **DEX** | 16 | +3 | +3 | **WIS** | 8 | -1 | -1 |
+> | **CON** | 15 | +2 | +2 | **CHA** | 5 | -3 | -3 |
+>
+> **Vulnerabilities** Bludgeoning
+> **Immunities** Poison; Exhaustion, Poisoned
+> **Gear** Shortbow, Shortsword
+> **Senses** Darkvision 60 ft., Passive Perception 9
+> **Languages** Understands Common plus one other language but can't speak
+> **CR** 1/4 (XP 50; PB +2)
+>
+> | |
+> | - |
+>
+> **Habitat**
+> **Treasure**
+
+Skeleton warriors are reanimated Humanoid bones bearing the equipment they had in life. They have greater agility and rudimentary faculties than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
+
+### Actions
+
+***Shortsword.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage.
+
+***Shortbow.*** *Ranged Attack Roll:* +5, range 80/320 ft. *Hit:* 6 (1d6 + 3) Piercing damage.

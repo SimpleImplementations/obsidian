@@ -56,6 +56,6 @@ Traen a un Goliath undead muerto
 ### Posible viaje 
 Viento fuerte nieve intensa
 -> si se refugian se suman goblins
-atacan [[Will-o’-Wisp]]
+atacan [[Will-o'-Wisp (Susurros de la nieve)]]
 
 **Hat of Vermin**

@@ -1,6 +1,0 @@
-[[Goblin]]
-[[Araña Gigante]]
-[[Espectros]]
-[[Bandits]]
-[[Yak]]
-[[Worg]]
