@@ -23,6 +23,7 @@
 - **Datos que se actualizan**: Las notas de campaña pueden quedar desactualizadas respecto a cómo avanzó la historia (p. ej. nombres de NPCs, relaciones, eventos). Puede ser necesario actualizar datos viejos con información nueva. **Siempre consultar antes** de actualizar o reemplazar contenido por "versiones más nuevas"; no hacerlo por cuenta propia sin confirmación.
 - **Regiones y subregiones**: Las regiones (p. ej. Traslagorn) se dividen en subregiones con sus propias notas; el mismo criterio se usa para desarrollar regiones y subregiones en el futuro.
 - **Título duplicado**: En Obsidian el nombre del archivo ya se muestra como título de la nota. Evitar repetir ese mismo texto como `# Título` al inicio del contenido, para que no se vea el título dos veces. No aplicar este criterio de forma masiva en notas existentes; corregir solo cuando se cree o edite una nota.
+- **Apellidos por raza**: Orcos y goliaths no usan apellido; no asignarles apellido al crear o editar personajes.
 
 ## Obsidian docs
 

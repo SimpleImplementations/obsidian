@@ -1,0 +1,1 @@
+**Naelwyn Silmarien.** Druida elfa de la [[Orden del Círculo de la nieve]]. Vigía y mensajera del santuario. En la ofensiva antigua de Translagorn algunos del Círculo estuvieron allí junto con [[Eryndor Celestia]] y [[Aliraen Glaciel]]; Naelwyn mantiene viva la memoria de esos hechos.

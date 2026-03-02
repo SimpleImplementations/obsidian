@@ -18,6 +18,6 @@ Non Player Characters
 - [[Talidero]]
 - [[Marina]]  Humana. Marina es la madre de Lenzo
 - [[Bulzar]] Humano. Hechicero
-- [[Thalrik]]: Un druida enano de temperamento volcánico pero con una sabiduría forjada en las tierras heladas.
-- [[Sylvaine]]:Una druida humana de cabello oscuro como la noche. puede tirar regenerate
+- [[Thalrik]] — Druida enano; fallecido (se quitó la vida en Elaria para no convertirse en no-muerto).
+- [[Sylvaine]] — Druida elfa; fallecida (convertida en no-muerta por la dama de Elaria; la party la dio por terminada).
 - 

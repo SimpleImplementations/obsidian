@@ -24,9 +24,9 @@ Cuando la Orden decidió unirse a la causa de Vallestad frente a la amenaza de O
 - **[[Aira]]** — Su única hija; la expectativa de la Orden recae en ella.
 - **[[Calmela]]** — No la ha nombrado desde su partida. Quienes lo conocen creen que en su silencio guarda pensamientos que no confiesa y que su recuerdo lo acompaña, aunque lo oculte con orgullo.
 - **[[Bjor]]** — Miembro del Círculo; quiere ir con Eryndor. Junto con Calmela insistiría en acompañar a Aira para no decepcionar a Eryndor.
-- **[[Sylvaine]]** — Druida humana del Círculo; será cercana a Eryndor.
+- **[[Sylvaine]]** — Druida elfa del Círculo, cercana a Eryndor. Murió; la dama de Elaria la convirtió en no-muerta y la party la dio por terminada.
 
-Otros miembros del Círculo: [[Thalrik]]. Lugares vinculados: [[Varek]] (El Baúl de Hielo), [[Ylsa]] (La Piedra Rota).
+Otros miembros del Círculo: [[Thalrik]] (fallecido; se quitó la vida en Elaria para no convertirse en no-muerto). Lugares vinculados: [[Varek]] (El Baúl de Hielo), [[Ylsa]] (La Piedra Rota).
 
 ## Notas
 

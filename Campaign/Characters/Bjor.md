@@ -1,5 +1,4 @@
-Druida Orco de muy poco tacto
-*Bjor no usar apellido en orcosEarthmaw, Orc Beast-Druid*  
+Druida orco de la [[Orden del Círculo de la nieve]]. Poco tacto; lealtad inquebrantable al círculo.  
 *Large humanoid (orc), neutral primal*  
 
 **AC** 14 (hide armor)  
@@ -65,4 +64,4 @@ Bjor opens with **Barkskin → Wild Shape**, then commits to **one form at a tim
 He retreats only if forced out of Wild Shape twice.
 
 ### **Description**
-Bjor Earthmaw believes beasts are the purest expression of the land’s will. Civilization is weakness; tooth, tusk, and claw are truth. When he fights, he abandons speech entirely and lets the wild speak for him.
+Bjor believes beasts are the purest expression of the land's will. Civilization is weakness; tooth, tusk, and claw are truth. When he fights, he abandons speech entirely and lets the wild speak for him.

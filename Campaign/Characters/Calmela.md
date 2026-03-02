@@ -1,4 +1,4 @@
-Druida Elfa amable
+**Calmela Stellarien.** Druida elfa de la [[Orden del Círculo de la nieve]]. Amable; calma animales y compañeros con la palabra.
 
 dispell magic, lesser restoration, cure woulds
 
