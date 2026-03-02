@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00) Vault Information/00) Vault Information.md",
+                "file": "03) Monsters/03) Monsters.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00) Vault Information"
+              "title": "03) Monsters"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00) Vault Information/00) Vault Information.md",
+                "file": "03) Monsters/03) Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00) Vault Information"
+              "title": "Outline of 03) Monsters"
             }
           }
         ],
@@ -166,11 +166,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f7271180a8476498",
+  "active": "ae5f8849f862fad5",
   "lastOpenFiles": [
+    "03) Monsters/Crab.md",
+    "03) Monsters/Bandit Captain.md",
+    "03) Monsters/Barbed Devil.md",
+    "03) Monsters/Aboleth.md",
+    "04) Backlink Glossary/Actions/Disengage.md",
+    "04) Backlink Glossary/Actions/Dash.md",
+    "04) Backlink Glossary/Actions/Attack.md",
+    "MysticArtsExamples/Skinwalker.png",
+    "MysticArtsExamples/Chubacabra.png",
+    "00) Vault Information/00) Vault Information.md",
+    "MysticArtsExamples/Chubacabra.md",
+    "MysticArtsExamples/Skinwalker.md",
+    "MysticArtsExamples/Wendigo.md",
+    "MysticArtsExamples/Wendigo.png",
+    "MysticArtsExamples",
     "04) Backlink Glossary/Equipment/Weapons/Simple Melee/Spear.md",
     "04) Backlink Glossary/Equipment/Weapons/Simple Melee/Sickle.md",
     "04) Backlink Glossary/Equipment/Weapons/Simple Melee/Quarterstaff.md",
@@ -186,17 +202,6 @@
     "04) Backlink Glossary/Equipment/Weapons/Martial Melee/War Pick.md",
     "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Longsword.md",
     "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Trident.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Shortsword.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Scimitar.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Rapier.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Pike.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Morningstar.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Maul.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Lance.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Halberd.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Greatsword.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Greataxe.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Glaive.md",
     "05) Homebrew Alley/Attachments/Pasted image 20251018090309.png",
     "05) Homebrew Alley/Attachments/Pasted image 20251018073453.png",
     "04) Backlink Glossary/Classes/Wizard.zip",
@@ -210,13 +215,9 @@
     "04) Backlink Glossary/Level 8",
     "04) Backlink Glossary/Level 7",
     "04) Backlink Glossary/Level 6",
-    "04) Backlink Glossary/Level 5",
     "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Slaughterhouse/The Slaughterhouse.png",
     "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Slaughterhouse/The Slaughterhouse - Creatures.png",
     "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Ivory Throne/The Ivory Throne.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Ivory Throne/The Ivory Throne - Creatures.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Faceless Tabernacle/The Faceless Tabernacle.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Faceless Tabernacle/The Faceless Tabernacle - Creatures.png",
     "06) The Corvid Compendium/Monsters/Untitled.canvas",
     "01) Players/03) Character Classes/Untitled.canvas"
   ]

@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e27195242d485ba6",
+            "id": "a60109eb26f08dd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -166,8 +168,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e27195242d485ba6",
+  "active": "a60109eb26f08dd1",
   "lastOpenFiles": [
+    "MysticArtsExamples/Chubacabra.md",
+    "Converted elf.md",
+    "MysticArtsExamples/Wendigo.png",
+    "MysticArtsExamples/Wendigo.md",
+    "MysticArtsExamples/Skinwalker.png",
+    "MysticArtsExamples/Skinwalker.md",
+    "MysticArtsExamples/Chubacabra.png",
+    "MysticArtsExamples",
+    "Vine Blight.md",
+    "Velumhaze.md",
+    "Ylsa.md",
     "Ultimas Hojas.md",
     "Untitled 2.base",
     "Untitled 1.base",
@@ -189,12 +202,6 @@
     "items/Darilotio's Book of Rituals.md",
     "Characters/Darilotio.md",
     "Characters/Character.md",
-    "Characters/Marlavir.md",
-    "Characters/Penumbra.md",
-    "Characters/Bjor.md",
-    "Characters/Briella.md",
-    "Tools/Equipo de Enanos para Underdark.md",
-    "Characters/Aliraen Glaciel.md",
     "Untitled.base",
     "Pasted image 20251230181313.png",
     "Pasted image 20251230181310.png",
@@ -204,15 +211,11 @@
     "Images/Pasted image 20251118174018.png",
     "Images/high_res_map.png",
     "Images/Pasted image 20251027165309.png",
-    "Images/Pasted image 20250916172842.png",
-    "Images/Pasted image 20250916171211.png",
-    "Images/Pasted image 20250916171150.png",
     "Untitled.canvas",
     "Lore",
     "Tools",
     "items",
     "Mechanics",
-    "Creatures",
-    "Places"
+    "Creatures"
   ]
 }
