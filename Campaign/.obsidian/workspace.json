@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesiones.md",
+                "file": "Lore/Reliquias de Karr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesiones"
+              "title": "Reliquias de Karr"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sesiones",
+                "query": "Pasted image 20250226170638",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesiones.md",
+                "file": "Lore/Reliquias de Karr.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sesiones"
+              "title": "Backlinks for Reliquias de Karr"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesiones.md",
+                "file": "Lore/Reliquias de Karr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sesiones"
+              "title": "Outgoing links from Reliquias de Karr"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesiones.md",
+                "file": "Lore/Reliquias de Karr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesiones"
+              "title": "Outline of Reliquias de Karr"
             }
           }
         ],
@@ -170,17 +170,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b353cff00ba9875",
+  "active": "6bc5ee755d230943",
   "lastOpenFiles": [
-    "Sesiones/Untitled.md",
+    "Untitled 1.md",
+    "Lore/Reliquias de Karr.md",
+    "Lore/Los tres Corruptos.md",
+    "Lore/Libro rituales Druidricos.md",
+    "Lore/Libro demoníaco de orígen Misterioso.md",
+    "Lore/La Manada.md",
+    "Lore/Jarl.md",
+    "Lore/Gods.md",
+    "Lore/Corazón del Infierno.md",
+    "Lore/Charla entre Vorg y Lathander.md",
+    "Lore/Carta a Calmela.md",
+    "Lore/Batalla de Translagorn.md",
+    "Creatures/Bandit Captain.md",
+    "Creatures/Bandits.md",
+    "Creatures/Attract Beasts.md",
+    "Creatures/Araña Gigante.md",
+    "Creatures/Animated armor.md",
+    "Characters/Bjor.md",
+    "Characters/Balin.md",
+    "Characters/Astrid de las Nueve Llamas.md",
+    "Characters/Arendil.md",
+    "Characters/Aliraen Glaciel.md",
+    "Characters/Aira.md",
+    "Images/Pasted image 20250707164241.png",
+    "Images/Pasted image 20250714173736.png",
+    "Images/Pasted image 20250312165354.png",
+    "Images/Pasted image 20250312165228.png",
+    "Images/Pasted image 20250312163953.png",
+    "Images/Pasted image 20250305175012.png",
+    "Images/Pasted image 20250305174937.png",
+    "Images/Pasted image 20250305171320.png",
+    "Images/Pasted image 20250305171307.png",
+    "Images/Pasted image 20250305170346.png",
+    "Sesiones/Sesión 3.md",
     "Sesiones/Sesiones.md",
-    "Sesiones/Sesiones_general.md",
-    "Sesiones/Sesiones (prouser-B550-VISION-D's conflicted copy 2026-01-21).md",
-    "Tools/Index.md",
-    "Untitled.md",
-    "Sesiones/Untitled 1.md",
-    "Places/Archivum Ingranatus.md",
-    "Tools/Music.md",
+    "Sesiones/Untitled.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
@@ -188,36 +215,9 @@
     "Tablas/Untitled 1.base",
     "Tablas/Untitled.base",
     "Tablas",
-    "Characters/Thorinder.md",
-    "Characters/Thalrik.md",
-    "Characters/Thalanor.md",
-    "Tareas Por Hacer.md",
-    "Tablas Random/Tabla Últimas Hojas.md",
     "Tablas Random",
-    "items/Staff of the Woodlands.md",
-    "Characters/Silvyr.md",
-    "Characters/Nymor.md",
-    "Characters/Kereska.md",
-    "Creatures/Converted elf.md",
-    "Special Notes/Combate en Elaria contra Elorien.md",
     "Special Notes",
-    "Sesiones/Sesion 46.md",
-    "Sesiones/Sesión 43.md",
-    "Sesión 43 (prouser-B550-VISION-D's conflicted copy 2026-01-21).md",
-    "Sesiones/Sesión 40.md",
-    "items/Pasted image 20251223172749.png",
-    "Creatures/Converted Elven Sylvaine.md",
-    "Mechanics/Attract Monstrosities.md",
-    "MysticArtsExamples/Wendigo.png",
-    "MysticArtsExamples/Skinwalker.png",
-    "MysticArtsExamples/Chubacabra.png",
     "MysticArtsExamples",
-    "items/Pasted image 20251230181313.png",
-    "items/Pasted image 20251230181310.png",
-    "Images/Pasted image 20251118175059.png",
-    "Images/Pasted image 20251118174018.png",
-    "Images/high_res_map.png",
-    "Images/Pasted image 20251027165309.png",
     "Untitled.canvas"
   ]
 }

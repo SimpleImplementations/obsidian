@@ -6,9 +6,9 @@ son 4 días de viaje más (3 a paso forzado)
 #### Tabla de tiradas
 fue generada con llm. las q no cuadran, ir a la siguiente
 
-|   |   |
-|---|---|
-|01-05|**Frozen Tracks** – You find fresh **wolf tracks** in the snow. A **Wisdom (Survival) DC 10** check determines if they're circling prey or just passing.|
+|       |                                                                                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-05 | **Frozen Tracks** – You find fresh **wolf tracks** in the snow. A **Wisdom (Survival) DC 10** check determines if they're circling prey or just passing. |
 
 |   |   |
 |---|---|
