@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03) Monsters/03) Monsters.md",
+                "file": "04) Backlink Glossary/Actions/Actions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03) Monsters"
+              "title": "Actions"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03) Monsters/03) Monsters.md",
+                "file": "04) Backlink Glossary/Actions/Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03) Monsters"
+              "title": "Outline of Actions"
             }
           }
         ],
@@ -170,8 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae5f8849f862fad5",
+  "active": "f7271180a8476498",
   "lastOpenFiles": [
+    "03) Monsters/03) Monsters.md",
+    "04) Backlink Glossary/Actions/Actions.md",
+    "03) Monsters/Adult Copper Dragon.md",
+    "MysticArtsExamples/Chubacabra.png",
     "03) Monsters/Crab.md",
     "03) Monsters/Bandit Captain.md",
     "03) Monsters/Barbed Devil.md",
@@ -180,7 +184,6 @@
     "04) Backlink Glossary/Actions/Dash.md",
     "04) Backlink Glossary/Actions/Attack.md",
     "MysticArtsExamples/Skinwalker.png",
-    "MysticArtsExamples/Chubacabra.png",
     "00) Vault Information/00) Vault Information.md",
     "MysticArtsExamples/Chubacabra.md",
     "MysticArtsExamples/Skinwalker.md",
@@ -199,9 +202,6 @@
     "04) Backlink Glossary/Equipment/Weapons/Simple Melee/Club.md",
     "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Whip.md",
     "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Warhammer.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/War Pick.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Longsword.md",
-    "04) Backlink Glossary/Equipment/Weapons/Martial Melee/Trident.md",
     "05) Homebrew Alley/Attachments/Pasted image 20251018090309.png",
     "05) Homebrew Alley/Attachments/Pasted image 20251018073453.png",
     "04) Backlink Glossary/Classes/Wizard.zip",
