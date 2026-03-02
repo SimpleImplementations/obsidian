@@ -4,143 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4907c469543ef642",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a52bef9be593e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas Por Hacer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tareas Por Hacer"
-            }
-          }
-        ]
-      },
-      {
         "id": "2df915a78e0a66ed",
         "type": "tabs",
         "children": [
-          {
-            "id": "9fc60a5e3508494c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Últimas Hojas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Últimas Hojas"
-            }
-          },
           {
             "id": "c7dbd1e059276ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tablas Random/Tabla Últimas Hojas.md",
+                "file": "Tablas Random/Tablas random Traslagorn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tabla Últimas Hojas"
-            }
-          },
-          {
-            "id": "84417a4cbb3a4826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traslagorn"
-            }
-          },
-          {
-            "id": "1d29e0618b62fd5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Picos del Norte.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Picos del Norte"
-            }
-          },
-          {
-            "id": "6638b17a46b3b3fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Arendil.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arendil"
-            }
-          },
-          {
-            "id": "6d407ce620d1bc75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Espinazo de Piedra.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Espinazo de Piedra"
-            }
-          },
-          {
-            "id": "1b1bea1d9a7e059b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Últimas Hojas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Últimas Hojas"
-            }
-          },
-          {
-            "id": "f6fa1ca7043699a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn/Pared de Hielo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Pared de Hielo"
+              "title": "Tablas random Traslagorn"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Traslagorn/Últimas Hojas.md",
+                "file": "Tablas Random/Tablas random Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Últimas Hojas"
+              "title": "Outline of Tablas random Traslagorn"
             }
           }
         ],
@@ -289,18 +170,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b1bea1d9a7e059b",
+  "active": "c7dbd1e059276ba4",
   "lastOpenFiles": [
-    "Tareas Por Hacer.md",
-    "Places/Traslagorn/Espinazo de Piedra.md",
-    "Places/Traslagorn/Últimas Hojas.md",
-    "Tablas Random/Tabla Picos del Norte.md",
+    "Places/Traslagorn.md",
+    "Places/Traslagorn/Traslagorn.md",
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Places/Traslagorn/Pared de Hielo.md",
     "Tablas Random/Tabla Pared de Hielo.md",
     "Tablas Random/Tabla Espinazo de Piedra.md",
-    "Characters/Player Characters/Arendil.md",
-    "Places/Traslagorn/Pared de Hielo.md",
+    "Places/Traslagorn/Espinazo de Piedra.md",
+    "Tablas Random/Tabla Picos del Norte.md",
     "Places/Traslagorn/Picos del Norte.md",
-    "Places/Traslagorn/Traslagorn.md",
+    "Sesiones/Sesion 46.md",
+    "Tareas Por Hacer.md",
+    "Templates/Sesión.md",
+    "Criatura o statblock.md",
+    "Places/Traslagorn/Últimas Hojas.md",
+    "Templates",
+    "Characters/Player Characters/Arendil.md",
     "Tablas Random/Tabla Últimas Hojas.md",
     "Tablas Random/Tablas Random Camino.md",
     "Places/Traslagorn/Ultimas Hojas.md",
@@ -316,12 +203,7 @@
     "Images/Pasted image 20250305174937.png",
     "Characters/Player Characters/Lucke.md",
     "Characters/Player Characters/Aira.md",
-    "Characters/Player Characters/Lenzo.md",
     "Images/Pasted image 20260120175033.png",
-    "Characters/Hermano Krill.md",
-    "Characters/Harnak Deepdelver.md",
-    "Characters/Eryndor Celestia.md",
-    "Characters/Gran Jarl.md",
     "Images/Pasted image 20250707164241.png",
     "Images/Pasted image 20250714173736.png",
     "Images/Pasted image 20250312165354.png",
@@ -336,7 +218,6 @@
     "Tablas/Untitled 2.base",
     "Tablas/Untitled 1.base",
     "Tablas/Untitled.base",
-    "Tablas",
     "Untitled.canvas"
   ]
 }

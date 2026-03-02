@@ -2,22 +2,7 @@
 fecha:
 número:
 ---
-mirar los downtime de todos
-	delaken tiradas de Lathander. separar religión por lathander y religión
-		Lucke libro
-		aira terimnar libro de Darilotio
 
-Lenzo
-definir ideas de redención lenzo
-Delaken
-Dote cocina
-definir tiradas de Lathander. vamos a llamarlo tiradas Divinas
-
-
-
-Inicializar Armadura de lathander y crear mazo y collar
-
-Historia de Bulzar
 ## Referencias
 
 Lugares y NPCs relevantes para esta sesión.
@@ -116,36 +101,3 @@ _Narración para leer en voz alta (cursiva)._
 *(Rellenar durante o después de la sesión: desvíos, decisiones de los jugadores, cosas a recordar para la próxima.)*
 
 - 
-
-Historia Guerra
-Historia Circulo
-Historia Duergar
-Historia Velumhaze
-
-
-Definir terrenos
-	Musica para terrenos
-	monstruos
-
-Ver plantillas para monstruos en obsidian
-
-MAPA creación
-definir nombre de regiones
-definir asentamientos conocidos y no conocidos
-imprimir hexagonos
-
-muyyy importantes los fantasmas [[Will-o’-Wisp]]
-
-armar tablas random interesantes
-
-
-
-Cartas de personajes
-Cartas de itmes
-
-mejorar Briella
-mejorar bulzar, armar bien su historia, la idea de que también sea warlock del beholder pero para el eso sea ser más debil
-
-reglas de descanso
-reglas de caminata
-reglas de criticos de ventaja de enemigos
