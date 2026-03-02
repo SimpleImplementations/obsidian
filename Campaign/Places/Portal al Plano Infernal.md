@@ -1,3 +1,3 @@
-![[Pasted image 20250916164735.png]]
+![[portal-plano-infernal-1.png]]
 
-![[Pasted image 20250916165335.png]]
+![[portal-plano-infernal-2.png]]

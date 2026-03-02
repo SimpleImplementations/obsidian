@@ -1,4 +1,4 @@
-![[high_res_map.png]]
+![[tromvas-mapa.png]]
 
 https://www.youtube.com/watch?v=9GxqP0JDBUk&t=755s # llegada
 

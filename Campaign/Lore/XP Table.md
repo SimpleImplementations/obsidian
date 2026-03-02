@@ -1,3 +1,3 @@
-![[Pasted image 20250506150447.png]]
+![[xp-table.png]]
 
 lvl3 = 675

@@ -15,4 +15,4 @@ Personajes importantes
  - [[Jarl]] [[Ulfgar Dientelobo]], noble guerrero Humano Un líder sabio y fiero, respetado tanto por su astucia como por su brutal destreza en combate.
 - [[Talidero]]: Semielfo huérfano 
 
-![[lago_helado.jpg]]
+![[lago-helado.jpg]]

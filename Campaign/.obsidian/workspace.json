@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2df915a78e0a66ed",
+        "id": "b6f16748e9dad0e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c7dbd1e059276ba4",
+            "id": "d11e057aaac75fc9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250805050944.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250805050944"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20250805050944.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250805050944"
+              "title": "Outline"
             }
           }
         ],
@@ -168,18 +165,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7dbd1e059276ba4",
+  "active": "d11e057aaac75fc9",
   "lastOpenFiles": [
-    "Images/Pasted image 20250805050829.png",
-    "Images/Pasted image 20250312163953.png",
-    "Images/Pasted image 20250305175012.png",
+    "Images/Pasted image 20250212000423.png",
+    "Images/Pasted image 20250805050944.png",
+    "Images/tumba-haldor.png",
+    "Images/lago-helado.jpg",
+    "Images/penumbra.png",
+    "Images/sesion-4.png",
+    "Images/dunar-dorin-warrior.png",
+    "Images/mapa-sesiones-underdark.png",
+    "Images/xp-table.png",
+    "Images/homebrew-rules.png",
+    "Images/dungeon-banshee.png",
     "Creatures/Yak.md",
     "Creatures/Will-o'-Wisp (Susurros de la nieve).md",
+    "Creatures/Will-o’-Wisp (Susurros de la nieve).md",
     "Creatures/Warrior nivel 3.md",
     "Creatures/Vine Blight.md",
     "Creatures/Tree Blight.md",
-    "Images/Pasted image 20250305171320.png",
-    "Images/Pasted image 20250305171307.png",
     "Creatures/Swarm of bone creapers.md",
     "Creatures/Skeleton.md",
     "Creatures/Worg.md",
@@ -199,12 +203,6 @@
     "Creatures/Goblin.md",
     "Creatures/Gibbering Mouther.md",
     "Creatures/Giant Boar.md",
-    "Images/Pasted image 20250212000423.png",
-    "Images/lago_helado.jpg",
-    "Images/high_res_map.png",
-    "Images/goblin.png",
-    "Images/giant_spider.png",
-    "Images/frost_goblin_sorcerer.jpeg",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",

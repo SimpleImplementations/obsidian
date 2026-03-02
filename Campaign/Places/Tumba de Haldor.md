@@ -1,1 +1,1 @@
-![[Tumba de Haldor.png]]
+![[tumba-haldor.png]]

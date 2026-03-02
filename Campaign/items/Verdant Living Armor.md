@@ -14,4 +14,4 @@ _Light Armor, very rare (attunement by druid)_
 
 **Regrowth.** Components return after 8 hours in sunlight.
 
-![[Pasted image 20250729175422.png]]
+![[verdant-living-armor.png]]

@@ -50,5 +50,5 @@ Los **goblins de las nieves** son astutas criaturas de piel azulada y pelaje gru
 
 Existen algunos que han dominado la magia incluso.
 
-![[frost_goblin.png|250]]
-![[frost_goblin_sorcerer.jpeg|250]]
+![[goblin-frost.png|250]]
+![[goblin-frost-sorcerer.jpeg|250]]

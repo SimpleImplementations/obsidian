@@ -51,5 +51,5 @@ tags:
 
 ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 15 (2d10 + 4) bludgeoning damage.
 
-![[Pasted image 20250305171307.png|250]]
-![[Pasted image 20250305171320.png|250]]
+![[yak-1.png|250]]
+![[yak-2.png|250]]

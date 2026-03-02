@@ -79,4 +79,4 @@ Once a radiant elven loremistress, this being was converted—not slain. Orren e
 
 ***Arcane Deflection.*** When hit or failing a save, gain +3 to AC or the save, potentially turning failure into success.
 
-![[Pasted image 20251230181313.png|250]]
+![[converted-elven-sylvaine.png|250]]

@@ -1,4 +1,4 @@
-![[Pasted image 20250603171823.png]]
+![[dungeon-banshee.png]]
 
 el area es una zona en la que la magia es poderosa. 1d4 upcast
 

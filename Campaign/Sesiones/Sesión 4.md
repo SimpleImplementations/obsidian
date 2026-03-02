@@ -99,4 +99,4 @@ Recordar:
 **Marina no tiene mucho éxito en su trabajo pero tiene muy buenas relaciones con todos en el pueblo y es muy querida y ayudada por el resto.**
 
 Mapa:
-![[Pasted image 20250305170346.png]]
+![[sesion-4.png]]

@@ -71,4 +71,4 @@ Frostborn Goblins inhale crystalline vapors from ancient magical glaciers. This 
 
 ***Conjure Frost Worg (Recharge 6).*** The goblin summons a [[Frost Worg]] into an unoccupied space within 30 ft. The Frost Worg acts immediately after the goblin's turn, obeys its commands, and lasts for 1 minute or until reduced to 0 hit points.
 
-![[Pasted image 20251118174018.png|250]]
+![[frostborn-goblin.png|250]]

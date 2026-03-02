@@ -71,4 +71,4 @@ tags:
 
 [Night Hag (DnD 2024)](https://www.aidedd.org/monster/night-hag)
 
-![[Pasted image 20250624002850.png|250]]
+![[night-hag.png|250]]

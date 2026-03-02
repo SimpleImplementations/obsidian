@@ -150,4 +150,4 @@ Talindero querrá que Lucke vaya con Vargis que está enfermo
 
 
 mapamundi
-![[Pasted image 20250226170638.png]]
+![[sesion-3.png]]

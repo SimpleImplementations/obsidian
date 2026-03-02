@@ -11,4 +11,4 @@ You touch a creature and can end either one disease or one condition afflicting 
 Cure Wounds
 A creature you touch regains a number of hit points equal to **1d8 + your spellcasting ability modifier**.
 
-![[Pasted image 20250312165228.png]]
+![[calmela.png]]

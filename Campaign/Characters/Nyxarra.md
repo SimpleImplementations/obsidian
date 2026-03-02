@@ -1,7 +1,7 @@
-2![[Pasted image 20250805051035.png]]
+![[nyxarra-1.png]]
 Stats versión debilitada
 https://www.aidedd.org/monster/death-cultist
-![[Pasted image 20250916170622.png]]
+![[nyxarra-2.png]]
 de un turno a otro puede invocar 1 Flaming Skeleton con 30 de vida CON EL ANILLO DE KARR
 atacan con scepter
 https://www.aidedd.org/monster/flaming-skeleton
@@ -9,8 +9,8 @@ https://www.aidedd.org/monster/flaming-skeleton
 si necesito le doy 1 turno como fantasma antes de desvanecerse
 
 Version debilitada imagen
-![[Pasted image 20250805050944.png]]
+![[nyxarra-3.png]]
 
 
 
-![[Pasted image 20250805050829.png]]
+![[nyxarra-4.png]]

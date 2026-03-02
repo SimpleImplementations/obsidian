@@ -52,6 +52,6 @@ tags:
 
 ***Vanish.*** The wisp and its light have the Invisible condition until the wisp's Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
 
-![[Pasted image 20250624011157.png|250]]
+![[will-o-wisp-susurros-nieve.png|250]]
 
 **REGLA HOMEBREW IMPORTANTE:** Consume Life custom: va agregando puntos de exhaustión a cualquiera incapacitado, donde incapacitado incluye dormido.

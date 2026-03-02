@@ -81,4 +81,4 @@ malignos y demonios sienten Atracción Incontrolable siempre. A menos que Vorg t
 no muertos no interactuan con Vorg, en sentido que para ellos es una daga común
 
 
-![[Screenshot from 2025-06-21 15-35-53.png]]
+![[vorg.png]]
