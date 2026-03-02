@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04) Backlink Glossary/Actions/Actions.md",
+                "file": "MysticArtsExamples/Chubacabra.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "Chubacabra"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04) Backlink Glossary/Actions/Actions.md",
+                "file": "MysticArtsExamples/Chubacabra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Actions"
+              "title": "Outline of Chubacabra"
             }
           }
         ],
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +170,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7271180a8476498",
+  "active": "ae5f8849f862fad5",
   "lastOpenFiles": [
-    "03) Monsters/03) Monsters.md",
     "04) Backlink Glossary/Actions/Actions.md",
+    "03) Monsters/03) Monsters.md",
     "03) Monsters/Adult Copper Dragon.md",
     "MysticArtsExamples/Chubacabra.png",
     "03) Monsters/Crab.md",

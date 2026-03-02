@@ -15,10 +15,12 @@
 
 ## Conventions when editing
 
-- **Links**: Use Obsidian `[[Wiki-style links]]` for note names; avoid raw paths when linking between notes.
-- **Files**: Prefer `.md` for content. Don’t delete or rename files in the reference vault.
-- **Language**: Match the language of the note (e.g. Spanish in campaign notes if that’s how they’re written).
-- **Obsidian config**: `.obsidian/` holds settings, plugins, themes, snippets; change only when asked or when fixing something we’re working on. Don’t change `.obsidian` configs directly unless asked for; just use it as reference.
+- **Enlaces**: Usa enlaces tipo wiki `[[nombre de la nota]]`; evita rutas crudas al enlazar entre notas.
+- **Archivos**: Preferir `.md` para el contenido. No borrar ni renombrar archivos en el vault de referencia.
+- **Idioma**: Respeta el idioma de la nota (p. ej. español en las notas de campaña si así están escritas).
+- **Formato**: Cuando pida que mejores el formato, modifica lo menos posible el texto; ser fiel a lo que yo escribí es lo más importante.
+- **Config de Obsidian**: `.obsidian/` contiene ajustes, plugins, themes, snippets; modificar solo cuando lo pida o al arreglar algo en lo que estemos trabajando. No tocar la config de `.obsidian` por tu cuenta; úsala solo como referencia.
+- **Datos que se actualizan**: Las notas de campaña pueden quedar desactualizadas respecto a cómo avanzó la historia (p. ej. nombres de NPCs, relaciones, eventos). Puede ser necesario actualizar datos viejos con información nueva. **Siempre consultar antes** de actualizar o reemplazar contenido por "versiones más nuevas"; no hacerlo por cuenta propia sin confirmación.
 
 ## Obsidian docs
 
