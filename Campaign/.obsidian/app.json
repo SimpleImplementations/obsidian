@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "_comment_rollback": "Para sacar el layout dos columnas del infobox: borrá las dos líneas livePreview y defaultViewMode y la coma de la línea anterior."
 }
