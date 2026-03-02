@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4da550380279bdf3",
+        "id": "66a750da40c8ca9d",
         "type": "tabs",
         "children": [
           {
-            "id": "ae230c404c7e6fb0",
+            "id": "e27195242d485ba6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,16 +162,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ae230c404c7e6fb0",
+  "active": "e27195242d485ba6",
   "lastOpenFiles": [
+    "Ultimas Hojas.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Creatures/Frostborn.md",
     "Tabla Últimas Hojas.md",
-    "Ultimas Hojas.md",
     "Traslagorn.md",
     "Tareas.md",
     "Places/Auroria.md",
