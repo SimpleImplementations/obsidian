@@ -1,6 +1,7 @@
  # Arendil
 
-Personaje de Santi.
+*Personaje de Santi.*  
+**Ficha:** [documento del jugador](https://docs.google.com/document/d/1q6-Fufe0ZMohKBCL_bWZu1P-g5UMt_qH1H_a1i6mZ-k/edit?tab=t.0)
 
 > *«El Caos es la vibración primordial del universo: la grieta donde nace lo inesperado, la fuerza que disuelve toda certeza y el pulso indómito que quiebra las formas rígidas para que algo nuevo pueda respirar. Es la poesía sin métrica, la tormenta sin propósito, el espacio donde la existencia recuerda que no está condenada a repetirse. Para Arendil, el Caos es libertad pura: un estado donde nada es seguro y, precisamente por eso, todo es posible. El mundo se ha organizado… y seré yo quien haga que vuelva a torcerse para nunca más vivir aburrido.»*
 

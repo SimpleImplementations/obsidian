@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1816a942900d58ce",
+        "id": "2df915a78e0a66ed",
         "type": "tabs",
         "children": [
           {
-            "id": "1d134312631c1a2b",
+            "id": "9fc60a5e3508494c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Balin.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Bulzar.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Balin"
+              "title": "Bulzar"
+            }
+          },
+          {
+            "id": "24bfea1aab894f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Delaken.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Delaken"
+            }
+          },
+          {
+            "id": "f6fa1ca7043699a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas Por Hacer.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tareas Por Hacer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20250226170638",
+                "query": "pseudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Balin.md",
+                "file": "Characters/Delaken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Balin"
+              "title": "Outline of Delaken"
             }
           }
         ],
@@ -170,15 +199,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d134312631c1a2b",
+  "active": "24bfea1aab894f7f",
   "lastOpenFiles": [
-    "Characters/Bjor.md",
-    "Characters/Balin.md",
+    "Tareas Por Hacer.md",
+    "Characters/Delaken.md",
+    "Characters/Marlavir.md",
+    "Images/Pasted image 20250305174937.png",
+    "Characters/Lucke.md",
+    "Characters/Aira.md",
+    "Characters/Lenzo.md",
+    "Characters/Bulzar.md",
+    "Images/Pasted image 20260120175033.png",
+    "Characters/Hermano Krill.md",
+    "Characters/Harnak Deepdelver.md",
+    "Characters/Eryndor Celestia.md",
+    "Characters/Gran Jarl.md",
     "Characters/Briella.md",
+    "Characters/Balin.md",
+    "Characters/Bjor.md",
     "Characters/Arendil.md",
     "Characters/Astrid de las Nueve Llamas.md",
     "Characters/Aliraen Glaciel.md",
-    "Characters/Aira.md",
     "Lore/Reliquias de Karr.md",
     "Untitled 1.md",
     "Lore/Los tres Corruptos.md",
@@ -188,26 +229,14 @@
     "Lore/Jarl.md",
     "Lore/Gods.md",
     "Lore/Corazón del Infierno.md",
-    "Lore/Charla entre Vorg y Lathander.md",
-    "Lore/Carta a Calmela.md",
-    "Lore/Batalla de Translagorn.md",
-    "Creatures/Bandit Captain.md",
-    "Creatures/Bandits.md",
-    "Creatures/Attract Beasts.md",
-    "Creatures/Araña Gigante.md",
-    "Creatures/Animated armor.md",
     "Images/Pasted image 20250707164241.png",
     "Images/Pasted image 20250714173736.png",
     "Images/Pasted image 20250312165354.png",
     "Images/Pasted image 20250312165228.png",
     "Images/Pasted image 20250312163953.png",
     "Images/Pasted image 20250305175012.png",
-    "Images/Pasted image 20250305174937.png",
     "Images/Pasted image 20250305171320.png",
     "Images/Pasted image 20250305171307.png",
-    "Images/Pasted image 20250305170346.png",
-    "Sesiones/Sesión 3.md",
-    "Sesiones/Sesiones.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",

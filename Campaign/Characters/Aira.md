@@ -1,6 +1,7 @@
 # Aira
 
-Personaje de Flor.
+*Personaje de Flor.*  
+**Ficha:** [documento del jugador](https://docs.google.com/document/d/1ddkuprjUbBYMVj9CbF19JfvBBVim-PXiLVXQWUMr8VI/edit?tab=t.0)
 
 ## Origen y trasfondo
 
