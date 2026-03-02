@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bulzar.md",
+                "file": "Places/Traslagorn/Traslagorn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bulzar"
+              "title": "Traslagorn"
             }
           },
           {
-            "id": "24bfea1aab894f7f",
+            "id": "c7dbd1e059276ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Delaken.md",
+                "file": "Places/Traslagorn/Picos del Norte.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Delaken"
+              "title": "Picos del Norte"
+            }
+          },
+          {
+            "id": "84417a4cbb3a4826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn/Traslagorn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traslagorn"
             }
           },
           {
@@ -41,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas Por Hacer.md",
-                "mode": "preview",
+                "file": "Places/Traslagorn/Pared de Hielo.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tareas Por Hacer"
+              "title": "Pared de Hielo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Delaken.md",
+                "file": "Places/Traslagorn/Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Delaken"
+              "title": "Outline of Traslagorn"
             }
           }
         ],
@@ -199,36 +213,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24bfea1aab894f7f",
+  "active": "84417a4cbb3a4826",
   "lastOpenFiles": [
+    "Places/Traslagorn/Ultimas Hojas.md",
+    "Places/Traslagorn/Traslagorn.md",
+    "Places/Traslagorn/Picos del Norte.md",
+    "Places/Traslagorn/Pared de Hielo.md",
+    "Places/Traslagorn/Espinazo de Piedra.md",
+    "Characters/Bulzar.md",
     "Tareas Por Hacer.md",
-    "Characters/Delaken.md",
+    "Places/Cálimba.md",
+    "Places/Calimba.md",
+    "Places/Traslagorn",
+    "Places/Special",
+    "Characters/Briella.md",
+    "Characters/Player Characters",
+    "Characters/Player Characters/Delaken.md",
     "Characters/Marlavir.md",
     "Images/Pasted image 20250305174937.png",
-    "Characters/Lucke.md",
-    "Characters/Aira.md",
-    "Characters/Lenzo.md",
-    "Characters/Bulzar.md",
+    "Characters/Player Characters/Lucke.md",
+    "Characters/Player Characters/Aira.md",
+    "Characters/Player Characters/Lenzo.md",
     "Images/Pasted image 20260120175033.png",
     "Characters/Hermano Krill.md",
     "Characters/Harnak Deepdelver.md",
     "Characters/Eryndor Celestia.md",
     "Characters/Gran Jarl.md",
-    "Characters/Briella.md",
     "Characters/Balin.md",
     "Characters/Bjor.md",
-    "Characters/Arendil.md",
+    "Characters/Player Characters/Arendil.md",
     "Characters/Astrid de las Nueve Llamas.md",
     "Characters/Aliraen Glaciel.md",
     "Lore/Reliquias de Karr.md",
     "Untitled 1.md",
-    "Lore/Los tres Corruptos.md",
-    "Lore/Libro rituales Druidricos.md",
-    "Lore/Libro demoníaco de orígen Misterioso.md",
-    "Lore/La Manada.md",
-    "Lore/Jarl.md",
-    "Lore/Gods.md",
-    "Lore/Corazón del Infierno.md",
     "Images/Pasted image 20250707164241.png",
     "Images/Pasted image 20250714173736.png",
     "Images/Pasted image 20250312165354.png",
@@ -244,9 +261,6 @@
     "Tablas/Untitled 1.base",
     "Tablas/Untitled.base",
     "Tablas",
-    "Tablas Random",
-    "Special Notes",
-    "MysticArtsExamples",
     "Untitled.canvas"
   ]
 }
