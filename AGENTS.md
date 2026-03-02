@@ -18,7 +18,7 @@
 - **Links**: Use Obsidian `[[Wiki-style links]]` for note names; avoid raw paths when linking between notes.
 - **Files**: Prefer `.md` for content. Don’t delete or rename files in the reference vault.
 - **Language**: Match the language of the note (e.g. Spanish in campaign notes if that’s how they’re written).
-- **Obsidian config**: `.obsidian/` holds settings, plugins, themes, snippets; change only when asked or when fixing something we’re working on.
+- **Obsidian config**: `.obsidian/` holds settings, plugins, themes, snippets; change only when asked or when fixing something we’re working on. Don’t change `.obsidian` configs directly unless asked for; just use it as reference.
 
 ## Obsidian docs
 
