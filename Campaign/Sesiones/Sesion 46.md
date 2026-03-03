@@ -5,11 +5,8 @@ número: 46
 
 ## Referencias
 
-Lugares y NPCs relevantes para esta sesión.
-
-- 
-- 
-
+[[Traslagorn]]
+[[Tablas random Traslagorn]]
 ---
 
 ## Jugadores
@@ -22,28 +19,27 @@ Lugares y NPCs relevantes para esta sesión.
 
 NPCs que viajan o aparecen con el grupo.
 
-- [[NPC]]:
-- 
+- [[Balin]]
+- [[Kaeli]]
+- [[Kereska]]
 
 ---
 
 ## Introducción
 
-*(Comunicado o palabras del DM al inicio, si aplica.)*
+comentario sobre minis
+sobre cartas
+sobre items faltantes
+delaken [[Tirada Divina]]
+
 
 ---
 
-## Música / Ambiente
+## recordar, tiradas 
 
-- **Ambiente:** 
-- **Combate:** 
-- **Otros:** 
+usar la [[Cuenta de días Llegada Orren]]
+Usar [[Tiradas de Velumhaze]] para cada jugador
 
----
-
-## Resumen
-
-Una línea: qué se espera que pase o cuál es el hook de la sesión.
 
 ---
 
@@ -63,13 +59,6 @@ _Narración para leer en voz alta (cursiva)._
 
 - Notas de la escena:
 - 
-
-##### Subescena (opcional)
-
-- 
-
-#### Escena 2 — [Nombre]
-
 - 
 
 ### Tablas y tiradas
@@ -80,7 +69,14 @@ _Narración para leer en voz alta (cursiva)._
 
 **Tiradas asignadas:** (quién tira qué)
 
-- Viaje →
+- Viaje → definiciones del mapa
+en traslagorn habrá hexagonos de tipo
+Montaña con pinos 1x dia
+Montaña 1 x dia
+Nieve eterna plana x4
+Nieve eterna dunas x1
+
+
 - Tabla →
 - Otro →
 

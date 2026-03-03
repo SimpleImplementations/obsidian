@@ -13,10 +13,10 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 | 6 | Un pequeño **grupo de goblins** armados con arcos cortos observa desde los árboles. No buscan pelea seria: huyen si se les enfrentan, pero conocen atajos hacia el interior de Traslagorn. |
 | 7 | Noche de **sueños extrañamente vívidos** bajo las copas de los pinos gigantes. Nadie descansa del todo bien, pero el evento se resuelve rápido; al despertar, los PJ recuerdan imágenes de montañas blancas y un círculo de piedra ennegrecida, presagio de lo que les espera al norte. |
 | 8 | Los PJ se topan con **elfos refugiados de [[Elaria]]** que montan un campamento discreto entre los pinos gigantes. Desconfían de extraños pero pueden ofrecer refugio y rumores sobre movimientos de goliaths y no-muertos. |
-| 9 | Un viajero solitario (humano o enano) se presenta como **guía de montaña retirado**. Conoce historias viejas sobre el "fin del mundo" y asegura que, siguiendo viejos senderos, se puede llegar al lejano [[Santuario del fin del mundo]]. |
-| 10 | A cierta distancia se ve moverse algo enorme entre los árboles: es el **ent errante** que abandonó [[Elaria]]. Si no se le molesta, ignora al grupo; con paciencia y respeto puede dar advertencias crípticas sobre "huesos inquietos" más al norte. |
-| 11 | Sobre un risco hay un **nido de águilas gigantes**. Una pareja vigila el valle; si los PJ muestran respeto por la naturaleza (o ayudan a espantar carroñeros), las águilas podrían recordar sus rostros y ayudarlos en el futuro. |
-| 12 | El grupo se cruza con dos o tres miembros cansados de la **[[Orden del Círculo de la nieve]]**, en tránsito hacia el interior de Traslagorn. Buscan un rastro concreto de las [[Venas del Infierno]] y podrían intercambiar información, curaciones o pedir/otorgar ayuda mutua. |
+| 9 | Un viajero solitario humano se presenta como **guía de montaña retirado**, pero en realidad es un hechicero poderoso. Conoce historias viejas sobre el "fin del mundo" y asegura que, siguiendo viejos senderos, se puede llegar al lejano [[Santuario del fin del mundo]]. |
+| 10 | A cierta distancia se ve moverse algo enorme entre los árboles: es el [[Tree Blight]] que abandonó [[Elaria]]. Si no se le molesta, ignora al grupo; con paciencia y respeto puede dar advertencias crípticas sobre "huesos inquietos" más al norte. |
+| 11 | Briella se teletransporta con ellos, extramadamente dañada pero con iformación sobre la batalla en Vallestad y Valdebruma |
+| 12 | Sobre un risco hay un **nido de águilas gigantes**. Una pareja vigila el valle; si los PJ muestran respeto por la naturaleza (o ayudan a espantar carroñeros), las águilas podrían recordar sus rostros y ayudarlos en el futuro. [[Kaeli]] puede tratar con ellos |
 
 ---
 

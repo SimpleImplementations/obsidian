@@ -8,31 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11e057aaac75fc9",
+            "id": "522f50b2ba8b6570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Converted Goliath Berserker.md",
+                "file": "Sesiones/Sesion 46.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Converted Goliath Berserker"
+              "title": "Sesion 46"
             }
           },
           {
-            "id": "7d18dc017e8e0870",
+            "id": "906eaf9a56c2c6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiradas de Velumhaze.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiradas de Velumhaze"
+            }
+          },
+          {
+            "id": "f211527d365223a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Delaken.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Delaken"
+            }
+          },
+          {
+            "id": "77c2a32160c2e14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feat Chef.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Feat Chef"
+            }
+          },
+          {
+            "id": "a3fdce529641aeca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tablas random Traslagorn"
+            }
+          },
+          {
+            "id": "21e0fb548636bf6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Nombres.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nombres"
+            }
+          },
+          {
+            "id": "d10327239f3fd595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas Por Hacer.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tareas Por Hacer"
             }
           },
           {
@@ -41,16 +111,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Converted Goliath Berserker.md",
-                "mode": "preview",
+                "file": "Tirada Divina.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Converted Goliath Berserker"
+              "title": "Tirada Divina"
+            }
+          },
+          {
+            "id": "802d76a5881cc0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cuenta de días Llegada Orren.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cuenta de días Llegada Orren"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sha'va",
+                "query": "velum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,10 +283,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d18dc017e8e0870",
+  "active": "a3fdce529641aeca",
   "lastOpenFiles": [
-    "Creatures/Converted Goliath Berserker.md",
+    "Tareas Por Hacer.md",
+    "Tools/Nombres.md",
     "Tablas Random/Tablas random Traslagorn.md",
+    "Feat Chef.md",
+    "Characters/Player Characters/Delaken.md",
+    "Tiradas de Velumhaze.md",
+    "Sesiones/Sesion 46.md",
+    "Creatures/Tree Blight.md",
+    "Characters/Kaeli.md",
+    "Characters/Player Characters/Arendil.md",
+    "Creatures/Converted Goliath Berserker.md",
+    "Cuenta de días Llegada Orren.md",
+    "Tirada Divina.md",
+    "Characters/Balin.md",
+    "NPC.md",
     "Tablas Random/Tablas Random Camino.md",
     "Creatures/Barbarian.md",
     "Places/Traslagorn.md",
@@ -224,19 +321,6 @@
     "Images/mapa-sesiones-underdark.png",
     "Images/xp-table.png",
     "Images/homebrew-rules.png",
-    "Creatures/Yak.md",
-    "Creatures/Will-o'-Wisp (Susurros de la nieve).md",
-    "Creatures/Will-o’-Wisp (Susurros de la nieve).md",
-    "Creatures/Warrior nivel 3.md",
-    "Creatures/Vine Blight.md",
-    "Creatures/Tree Blight.md",
-    "Creatures/Swarm of bone creapers.md",
-    "Creatures/Skeleton.md",
-    "Creatures/Worg.md",
-    "Creatures/Troll.md",
-    "Creatures/Tiger.md",
-    "Creatures/Shield Guardian.md",
-    "Creatures/Roper.md",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",

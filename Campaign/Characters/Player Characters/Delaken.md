@@ -38,9 +38,10 @@ En el **Spin Off 1** (sesión 25.5), Delaken es la clériga a la que hay que ayu
 - **Combate en Elaria** — Aparece en *Combate en Elaria contra Elorien* (percepción para percibirla CD 14; tiradas de Religión; [[Mace of Lathander]]).
 - **Downtime:** Salvación CON 18 o 1d4 de daño a Sabiduría; se recuperan 2 puntos por long rest (mecánica de estado).
 
-## Mecánica: tiradas divinas
+## Mecánicas
 
-Mecánica especial de tiradas de habilidad llamadas **tiradas divinas**. Cada vez que falla, suma un **+2 permanente** a esas tiradas; representan su conexión divina con Lathander.
+[[Tirada Divina]]
+[[Feat Chef]]
 
 ---
 
@@ -51,3 +52,5 @@ Mecánica especial de tiradas de habilidad llamadas **tiradas divinas**. Cada ve
 - [[Sesión 34]]–[[Sesión 42]] (Lathander, Arendil, sueños, Timoty/Vaelis, Norman)
 - [[Combate en Elaria contra Elorien]]
 - [[Paso del Cruce]] (Thyra, escudo)
+
+

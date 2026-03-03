@@ -149,3 +149,8 @@ mejorar bulzar, armar bien su historia, la idea de que también sea warlock del 
 reglas de descanso
 reglas de caminata
 reglas de criticos de ventaja de enemigos
+
+
+[[Velumhaze]] comunicación con [[Arendil]]para tener crituras sin alma, constructos, en la pelea
+
+Asegurar plan de salida
