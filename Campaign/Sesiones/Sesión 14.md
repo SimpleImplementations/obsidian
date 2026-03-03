@@ -42,7 +42,7 @@ Room 3: Trick or Setback
 Room 4: Climax, Big Battle, or Conflict
 Room 5: Reward, Revelation, or Plot Twist
 
-[[Berserker]]
+[[Converted Goliath Berserker]]
 Primero vienen corriendo Goblins
 	quieren avisarle al jarl pero el dice que no lo interrumpan
 Luego atacan la muralla bárbaros

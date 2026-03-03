@@ -1,0 +1,16 @@
+/* Infobox two-column layout: float left in Reading view and Live Preview.
+   Complements ITS Theme so [!infobox|left clean wmed static] shows stats left, content right. */
+
+/* Reading view */
+.markdown-preview-view .callout[data-callout=infobox][data-callout-metadata~=left] {
+  float: left;
+  margin: 0 8px 0 0;
+}
+
+/* Live Preview: override theme's full-width infobox so left float works */
+.is-live-preview .callout[data-callout=infobox][data-callout-metadata~=left] {
+  float: left !important;
+  max-width: var(--callout-medium, 500px);
+  margin: 0 8px 0 0 !important;
+  width: var(--callout-medium, 500px);
+}

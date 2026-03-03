@@ -1,5 +1,3 @@
-# Traslagorn
-
 *Región de [[Auroria]] — cordillera y tierras montañosas al norte de los bosques de [[Elaria]].*
 
 ---
@@ -82,6 +80,17 @@ Es uno de los dos tramos de la cordillera (junto con Espinazo de Piedra) dentro 
 
 ---
 
+## Lugares
+
+- [[Grieta al plano onírico]]
+- El [[Sha'varuun]] ([[Venas del Infierno]])
+- [[Santuario del fin del mundo]]
+- [[Grieta al plano celestial]]
+- [[Escondite de La Manada]]
+- [[Escondite de goblins]]
+
+---
+
 ## Lore: guerra y Batalla de Translagorn
 
 - Durante la **Guerra de los Tres Corruptos**, hubo un **puesto de avanzada** en la zona que **se perdió por completo**; la **[[Batalla de Translagorn]]** rompió también la **cooperación con los elfos** durante la guerra.
@@ -91,7 +100,7 @@ Es uno de los dos tramos de la cordillera (junto con Espinazo de Piedra) dentro 
 ## Población y encuentros
 
 - **Goliaths** bárbaros en las montañas; **goblins** (movimientos conocidos por quien ha viajado la zona).
-- **Tablas de encuentro:** [[Tablas random Traslagorn]] — una tabla 2d6 por subregión (Últimas Hojas, Espinazo de Piedra, Pared de Hielo, Picos del Norte).
+- **Tablas de encuentro:** [[Tablas random Traslagorn#Últimas Hojas]], [[Tablas random Traslagorn#Espinazo de Piedra]], [[Tablas random Traslagorn#Pared de Hielo]], [[Tablas random Traslagorn#Picos del Norte]] — una tabla 2d6 por subregión.
 - **Influencia de [[Orren el putrefacto]]:** patrullas de no-muertos (goblins, elfos y goliaths convertidos como [[Converted Goblin. Bone Creaper]] y [[Converted Goliath]]) se mueven entre los pasos más altos, sobre todo hacia Picos del Norte.
 - **Buscadores del portal infernal:** grupos aliados como la [[Orden del Círculo de la nieve]] se internan en Traslagorn siguiendo pistas de las [[Venas del Infierno]] y rumores sobre un acceso local al [[Corazón del Infierno]].
 - **Exiliados y malditos:** al norte, más allá de la frontera de hielo, se esconde el [[Santuario del fin del mundo]], donde unos pocos seres poderosos intentan contener o estudiar sus propias maldiciones lejos de la civilización.

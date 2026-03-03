@@ -11,13 +11,46 @@
             "id": "d11e057aaac75fc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted Goliath Berserker.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Converted Goliath Berserker"
+            }
+          },
+          {
+            "id": "7d18dc017e8e0870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tablas Random/Tablas random Traslagorn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tablas random Traslagorn"
+            }
+          },
+          {
+            "id": "6da3dbd57803e8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted Goliath Berserker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goliath Berserker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sha'va",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tablas Random/Tablas random Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tablas random Traslagorn"
             }
           }
         ],
@@ -165,8 +199,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d11e057aaac75fc9",
+  "active": "7d18dc017e8e0870",
   "lastOpenFiles": [
+    "Creatures/Converted Goliath Berserker.md",
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Tablas Random/Tablas Random Camino.md",
+    "Creatures/Barbarian.md",
+    "Places/Traslagorn.md",
+    "Places/Tierras Norte del Reino.md",
+    "Tablas Random/Tablas random cordillera.md",
+    "Lore/Charla entre Vorg y Lathander.md",
+    "Characters/Astrid de las Nueve Llamas.md",
+    "Characters/Aliraen Glaciel.md",
+    "Mechanics/Attract Beasts.md",
+    "Mechanics/Attract Monstrosities.md",
+    "Mechanics/Downtime.md",
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
@@ -177,7 +224,6 @@
     "Images/mapa-sesiones-underdark.png",
     "Images/xp-table.png",
     "Images/homebrew-rules.png",
-    "Images/dungeon-banshee.png",
     "Creatures/Yak.md",
     "Creatures/Will-o'-Wisp (Susurros de la nieve).md",
     "Creatures/Will-o’-Wisp (Susurros de la nieve).md",
@@ -191,18 +237,6 @@
     "Creatures/Tiger.md",
     "Creatures/Shield Guardian.md",
     "Creatures/Roper.md",
-    "Creatures/Salamander.md",
-    "Creatures/Piercer.md",
-    "Creatures/Minotaur Skeleton.md",
-    "Creatures/Monsters.md",
-    "Creatures/Magma Mephit.md",
-    "Creatures/Imp.md",
-    "Creatures/Hag.md",
-    "Creatures/Grik.md",
-    "Creatures/Goliath.md",
-    "Creatures/Goblin.md",
-    "Creatures/Gibbering Mouther.md",
-    "Creatures/Giant Boar.md",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",
