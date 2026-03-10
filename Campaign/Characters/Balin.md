@@ -1,6 +1,7 @@
 # Balin
 
 *NPC importante. La historia se agregará más adelante.*
+hijo bastardo del rey [[Goldnar Ironvein]], y él y el rey lo sabe, pero no sus hermanos ni la reina
 
 ---
 
