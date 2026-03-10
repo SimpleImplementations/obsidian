@@ -82,3 +82,6 @@ no muertos no interactuan con Vorg, en sentido que para ellos es una daga común
 
 
 ![[vorg.png]]
+
+ per 17
+ 
