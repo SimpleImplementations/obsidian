@@ -39,6 +39,18 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 ---
 
 
+## Tiradas de noche
+
+| d4 | Situación |
+| :-: | :-------- |
+| 1 | ataque de [[Will-o'-Wisp (Susurros de la nieve)]] x20 |
+| 2 | ataque de [[Will-o'-Wisp (Susurros de la nieve)]] x3 |
+| 3 | exploradores [[Converted Goblin. Bone Creaper]] x3 |
+| 4 |  |
+
+---
+
+
 ## Referencias
 
 Notas enlazadas en este documento (por orden alfabético):

@@ -4,39 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "efcb36d9d5e26742",
+        "id": "a49463b46cf8c21e",
         "type": "tabs",
         "children": [
           {
-            "id": "e56e1b97a816b1d0",
+            "id": "9043b182cc12cfc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Creatures/Converted Goliath.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Converted Goliath"
             }
           },
           {
-            "id": "51be06a9f9fd079f",
+            "id": "f222a0a664a55a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tablas random Traslagorn"
             }
+          },
+          {
+            "id": "7ae1772476d4cd9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traslagorn"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 353.5
   },
   "right": {
     "id": "6f1ad780388b1abd",
@@ -157,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
+                "file": "Creatures/Converted Goliath.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tablas random Traslagorn"
+              "title": "Outline of Converted Goliath"
             }
           }
         ],
@@ -185,14 +198,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51be06a9f9fd079f",
+  "active": "9043b182cc12cfc6",
   "lastOpenFiles": [
+    "Creatures/Converted Goliath Berserker.md",
+    "Creatures/Converted Goliath.md",
+    "Creatures/Converted Troll.md",
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Places/Traslagorn.md",
+    "Creatures/Defender Drone.md",
+    "Converted Troll.md",
+    "Creatures/Troll.md",
+    "Creatures/Converted Mammoth.md",
+    "Creatures/Bulette (Topos de Hielo).md",
+    "Tablas Random/Tablas Random Camino.md",
+    "Untitled.md",
     "Sesiones/Sesion 47.md",
     "Sesiones/Sesion 46.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Creatures/Yak.md",
-    "Tablas Random/Tablas random Traslagorn.md",
     "Sesiones/Sesión 4.md",
     "Characters/Kereska.md",
     "Characters/Character.md",
@@ -203,16 +226,6 @@
     "Tools/Nombres.md",
     "Feat Chef.md",
     "Characters/Player Characters/Delaken.md",
-    "Places/Traslagorn.md",
-    "Characters/Kaeli.md",
-    "Tareas Por Hacer.md",
-    "Characters/Player Characters/Arendil.md",
-    "Creatures/Converted Goliath Berserker.md",
-    "Cuenta de días Llegada Orren.md",
-    "Tirada Divina.md",
-    "NPC.md",
-    "Tablas Random/Tablas Random Camino.md",
-    "Creatures/Barbarian.md",
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
