@@ -20,24 +20,6 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 
 ---
 
-## Espinazo de Piedra
-
-| 2d6 | Situación |
-| :-: | :-------- |
-| 2 | Una **patrulla élite de no-muertos** (por ejemplo, un [[Converted Goliath]] con escolta de elfos convertidos) avanza cuidadosamente por el paso, como si estuviera midiendo la respuesta de la región a la presencia de las fuerzas de [[Orren el putrefacto]]. |
-| 3 | Un **temporal brutal de viento y nieve** azota el paso angosto. La visibilidad cae a casi cero; avanzar sin protección implica riesgo de perder el camino o separarse. |
-| 4 | Trazos de tiza, cuerdas con cascabeles y marcas en piedras indican el paso reciente de **sirvientes de [[Orren el putrefacto]]**, posiblemente probando la seguridad del Espinazo para futuras rutas de no-muertos. |
-| 5 | Una **pequeña partida de goliaths** levanta un campamento improvisado en un collado. Pueden ofrecer duelo ritual, intercambio de información o directamente hostilidad, según cómo los traten los PJ. |
-| 6 | Un grupo de **exploradores duergar** emerge de una grieta en la roca, cargando minerales y artefactos viejos. Evitan el combate abierto y preferirán negociar o desaparecer entre túneles si las cosas se complican. |
-| 7 | A lo lejos, un **rugido lejano** y el eco de alas gigantescas sacuden el aire sobre el Abismo de Darkaler. No hay combate: es un presagio rápido que recuerda quién domina realmente la región. |
-| 8 | Una **antigua inscripción enana** en la pared del desfiladero habla de campañas pasadas contra demonios y menciona, veladamente, el [[Corazón del Infierno]]. Descifrarla requiere tiempo o ayuda experta. |
-| 9 | Los PJ encuentran **enormes huesos blanqueados** medio enterrados en nieve y roca. Podrían ser de un dragón caído hace siglos; ciertos signos sugieren que manos recientes han estado examinando o moviendo partes del esqueleto. |
-| 10 | Los PJ se cruzan con el monje enano **[[Thorinder]]**, aún en búsqueda del [[Templo del Olvido]]. Conoce viejas historias de la ofensiva contra las [[Venas del Infierno]] y puede mencionar rumores sobre "un corazón ardiente bajo el hielo". |
-| 11 | Una pequeña comitiva mixta (druidas, exploradores) de la **[[Orden del Círculo de la nieve]]** cruza el Espinazo rumbo a Picos del Norte. Piden noticias sobre actividad de no-muertos y ofrecen compartir lo que saben sobre las [[Venas del Infierno]]. |
-| 12 | Sobre un risco, alguien ha dejado un **símbolo grabado de advertencia**: un círculo roto que algunos eruditos asocian al distante [[Santuario del fin del mundo]]. Cerca, huellas recientes indican que alguien aún usa esta ruta, marcando un camino valioso hacia el norte. |
-
----
-
 ## Pared de Hielo
 
 | 2d6 | Situación |
@@ -56,23 +38,6 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 
 ---
 
-## Picos del Norte
-
-| 2d6 | Situación |
-| :-: | :-------- |
-| 2 | Una patrulla de **[[Converted Goblin. Bone Creaper]]** y esbirros menores recorre un sendero, marcando piedras con símbolos de [[Orren el putrefacto]]. Parecen más interesados en cartografiar que en combatir, pero siguen siendo una amenaza seria. |
-| 3 | Un **[[Converted Goliath]]** solitario vigila desde lo alto de un espolón rocoso. Sus ojos vacíos siguen al grupo mientras pasa; puede atacar, retirarse o simplemente informar de su presencia a fuerzas mayores. |
-| 4 | Una **niebla baja y densa** cubre los picos. El aire huele a hueso seco y metal; los PJ sienten una ligera opresión en el pecho, como si algo los observara desde debajo de la roca. |
-| 5 | En una hondonada se alza un **antiguo cementerio de montaña**: túmulos de piedra, estatuas erosionadas y lápidas medio cubiertas. No hay combate automático, pero la zona está cargada de presencias inquietas. |
-| 6 | Un tramo de senda estrecha ha sido reforzado recientemente con tablones y cuerdas. Es evidente que **alguien está acondicionando rutas** para grandes contingentes, posiblemente no-muertos o esclavos de [[Orren el putrefacto]]. |
-| 7 | Un pequeño grupo de **goblins vivos** corre montaña abajo, claramente aterrorizado. Hablan de "huesos que caminan" y de un cementerio que se ha despertado más arriba en la montaña; es un encuentro rápido que deja información útil. |
-| 8 | Los PJ se topan con el cadáver helado de un **elfo convertido** (por ejemplo, un teniente o explorador). Lleva encima fragmentos de mapas y notas que indican rutas hacia un "cementerio prohibido" donde se oculta [[Orren el putrefacto]]. |
-| 9 | Un esqueleto ataviado con restos de vestiduras reales emerge de entre la nieve. Habla con la **voz distante de [[Orren el putrefacto]]**, lanzando una advertencia o tentadora oferta antes de colapsar en polvo; encuentro social intenso sin necesidad de combate. |
-| 10 | En un pico cercano se desata una **[[Tormenta Necromática]]** a la distancia: relámpagos verdosos golpean un punto concreto de la cordillera. Puro foreshadow; acercarse podría llevar a una escena más grande preparada aparte. |
-| 11 | Una **águila gigante solitaria** sigue al grupo desde lo alto durante un buen tramo. Si se la trata con respeto, puede advertir de grandes concentraciones de no-muertos más adelante o indicar rutas menos vigiladas. |
-| 12 | Una avanzadilla exhausta de la **[[Orden del Círculo de la nieve]]** ha llegado demasiado al norte. Buscan un rastro concreto de las [[Venas del Infierno]] y están al borde de abandonar; podrían unirse temporalmente a los PJ o compartir información vital y apoyo. |
-
----
 
 ## Referencias
 

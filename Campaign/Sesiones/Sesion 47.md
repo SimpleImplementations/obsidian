@@ -1,6 +1,6 @@
 ---
-fecha:
-número:
+fecha: 
+número: 47
 ---
 
 ## Referencias
