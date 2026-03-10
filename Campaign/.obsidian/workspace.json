@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Converted Goliath.md",
-                "mode": "preview",
+                "file": "Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Converted Goliath"
+              "title": "Combate contra Coverted Troll"
             }
           },
           {
-            "id": "f222a0a664a55a00",
+            "id": "216da1c7b5f334a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thorinder.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thorinder"
+            }
+          },
+          {
+            "id": "287138572ac27f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +47,34 @@
               },
               "icon": "lucide-file",
               "title": "Tablas random Traslagorn"
+            }
+          },
+          {
+            "id": "3811ec746854d368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
+            }
+          },
+          {
+            "id": "c777d7c913292b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
             }
           },
           {
@@ -48,9 +90,37 @@
               "icon": "lucide-file",
               "title": "Traslagorn"
             }
+          },
+          {
+            "id": "0cd4582f98308b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Delaken.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Delaken"
+            }
+          },
+          {
+            "id": "fdb35d49ab6cf315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Experience table.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Experience table"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vorg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,20 +269,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f222a0a664a55a00",
+  "active": "287138572ac27f3c",
   "lastOpenFiles": [
-    "Creatures/Converted Goliath.md",
-    "Creatures/Converted Troll.md",
+    "Tablas Random/Tablas Random Camino.md",
+    "Characters/Thorinder.md",
+    "Combates/Combate contra Coverted Troll.md",
     "Tablas Random/Tablas random Traslagorn.md",
+    "Templo del Olvido.md",
+    "Sesiones/Sesion 47.md",
+    "Characters/Player Characters/Delaken.md",
+    "Creatures/Converted Goliath.md",
     "Places/Traslagorn.md",
+    "Tools/Experience table.md",
+    "Combates",
+    "Creatures/Converted Goliath Berserker.md",
+    "Creatures/Converted Troll.md",
     "Creatures/Defender Drone.md",
     "Converted Troll.md",
     "Creatures/Troll.md",
     "Creatures/Converted Mammoth.md",
     "Creatures/Bulette (Topos de Hielo).md",
-    "Tablas Random/Tablas Random Camino.md",
     "Untitled.md",
-    "Sesiones/Sesion 47.md",
     "Sesiones/Sesion 46.md",
     "Untitled 1.md",
     "Creatures/Yak.md",
@@ -221,11 +298,6 @@
     "Characters/Character.md",
     "Characters/Vorg.md",
     "Creatures/Tree Blight.md",
-    "Characters/Balin.md",
-    "Tiradas de Velumhaze.md",
-    "Tools/Nombres.md",
-    "Feat Chef.md",
-    "Characters/Player Characters/Delaken.md",
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
@@ -245,7 +317,6 @@
     "Untitled.base",
     "Tablas/Untitled 2.base",
     "Tablas/Untitled 1.base",
-    "Tablas/Untitled.base",
     "Untitled.canvas"
   ]
 }

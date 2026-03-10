@@ -1,1 +1,1 @@
-Monje Enano en busca del [[Templo del Olvido]].
+Monje Enano en busca del [[Santuario del fin del mundo]].

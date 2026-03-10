@@ -7,6 +7,12 @@
 
 ## Datos básicos
 
+
+El padre de Delaken es un elfo alto, un noble que pasaba por la ciudad para formar alianzas políticas con el zar de ese momento y luego volver al continente y a su familia. Agregar a través de esto que son primas con [[Aira]], hijas de padres hermanos con pésima relación
+
+La madre de Delaken, quien la dejó en el orfanato, era una cortesana. Se desconoce que fue de su vida luego de haber dejado la ciudad, pero se sabe que sigue en la isla.
+
+
 Medio elfa, **clériga** ([[Lathander]]). Huérfana, creció en el orfanato de [[Vallestad]]; no sabe quiénes son sus padres y no le interesa saberlo. Al crecer más despacio que el resto, terminó tomando responsabilidades en el orfanato. Hay gente en Vallestad que puede reconocerla como criminal o estafadora de su etapa en la calle.
 
 ## Hermanos (familia encontrada)
