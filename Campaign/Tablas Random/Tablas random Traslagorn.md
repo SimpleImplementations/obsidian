@@ -7,7 +7,7 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 | 2d6 | Situación |
 | :-: | :-------- |
 | 2 | Una **patrulla avanzada de no-muertos** (por ejemplo, un [[Converted Goblin. Bone Creaper]] con escolta) rastrea la frontera del bosque. Si no se le detiene, parece estar marcando rutas seguras para fuerzas mayores provenientes del interior. |
-| 3 | Tótems de madera y hueso marcan territorio de una [[Converted Goliath Berserker]] ¨ que patrulla la zona.. |
+| 3 | Tótems de madera y hueso marcan territorio de una [[Converted Goliath]] ¨ que patrulla la zona.. |
 | 4 | Un **alud menor de rocas y nieve** cae por la ladera cercana. **DC 14** Destreza (Acrobáticas) o Fuerza (Atletismo) para agacharse, esconderse tras una roca o agarrarse a algo sólido. **Si fallan:** 2d6 daño contundente y una consecuencia de juego: un PJ queda **al otro lado del alud** (separado del grupo; hay que rodear o trepar para reunirse, con riesgo de perderse o de que el tiempo avance) O un PJ queda **semi-enterrado** y debe ser liberado en 1d4+1 rondas por el resto (acción de ayuda/buscar); mientras tanto no puede moverse y tiene desventaja. Entre los escombros aparece un viejo marcador de piedra con inscripciones enanas hacia el norte. |
 | 5 | Restos recientes de una **pequeña escaramuza**: goblins muertos, algunos con señales de corrupción ósea similares a los siervos de [[Orren el putrefacto]]. Un cuerpo aún respira y puede balbucear algo sobre "huesos que caminan". |
 | 6 | Un pequeño **grupo de goblins** armados con arcos cortos observa desde los árboles. No buscan pelea seria: huyen si se les enfrentan, pero conocen atajos hacia el interior de Traslagorn. |

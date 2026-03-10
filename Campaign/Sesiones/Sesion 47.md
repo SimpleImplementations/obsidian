@@ -47,19 +47,7 @@ Usar [[Tiradas de Velumhaze]] para cada jugador
 
 ### Lore / Notas de DM
 
-Información que solo tú conoces; recordatorios de arcos, DCs secretos, etc.
-
-- 
-
-### Escenas
-
-#### Escena 1 — [Nombre]
-
-_Narración para leer en voz alta (cursiva)._
-
-- Notas de la escena:
-- 
-- 
+Elfos de Elaria dudosos de quienes son, en especial por [[Lucke]]
 
 ### Tablas y tiradas
 

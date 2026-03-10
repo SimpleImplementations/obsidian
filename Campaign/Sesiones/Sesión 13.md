@@ -55,7 +55,7 @@ Allegados clave:
 [[Astrid de las Nueve Llamas]] – Antigua mercenaria, ahora mano derecha del jarl en asuntos militares. Carismática, directa y temida en combate.
 
 #### Ataque te los Barbaros 
-[[Converted Goliath Berserker]]
+[[Converted Goliath]]
 Primero vienen corriendo Goblins
 	quieren avisarle al jarl pero el dice que no lo interrumpan
 Luego atacan la muralla bárbaros

@@ -49,7 +49,8 @@
               "title": "Traslagorn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Converted Goliath.md",
+                "file": "Tablas Random/Tablas random Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Converted Goliath"
+              "title": "Outline of Tablas random Traslagorn"
             }
           }
         ],
@@ -198,9 +199,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9043b182cc12cfc6",
+  "active": "f222a0a664a55a00",
   "lastOpenFiles": [
-    "Creatures/Converted Goliath Berserker.md",
     "Creatures/Converted Goliath.md",
     "Creatures/Converted Troll.md",
     "Tablas Random/Tablas random Traslagorn.md",
