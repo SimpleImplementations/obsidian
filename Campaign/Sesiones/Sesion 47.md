@@ -5,6 +5,7 @@ Inabilitar a lenzo que faltó: [[will o wisp]] en la primera noche
 potencial pelea [[Combate contra Coverted Troll]]
 
 
+
 #### Elfos
 son 4
 Si les dicen que van directo al norte les van a preguntar si se están riendiendo y suicidando
@@ -13,6 +14,14 @@ les preguntan por un Ent, si logran tener confianza. buscan a [[Thalanor]]
 #### Noche
 no olvidar [[will o wisp]] minimo 1 lenzo
 Escena de [[Balin]] Escribiendo una carta para el Rey
+
+
+### Tirada history delaken 16
+Elfos
+Dartaela 
+Erador
+Palartar
+acomodar grita nuevamente 
 
 
 ---

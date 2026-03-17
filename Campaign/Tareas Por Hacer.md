@@ -154,3 +154,6 @@ reglas de criticos de ventaja de enemigos
 [[Velumhaze]] comunicación con [[Arendil]]para tener crituras sin alma, constructos, en la pelea
 
 Asegurar plan de salida
+
+Carta al rey de [[Balin]]
+Escena de [[Balin]] Escribiendo una carta para el Rey

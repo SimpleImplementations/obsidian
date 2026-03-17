@@ -8,31 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9043b182cc12cfc6",
+            "id": "95f4e1c1bb198992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combates/Combate contra Coverted Troll.md",
+                "file": "Tareas Por Hacer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combate contra Coverted Troll"
+              "title": "Tareas Por Hacer"
             }
           },
           {
-            "id": "216da1c7b5f334a4",
+            "id": "ce6be73c282f37da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Thorinder.md",
+                "file": "Montaña de Piedra, Traslagorn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Montaña de Piedra, Traslagorn"
+            }
+          },
+          {
+            "id": "908eac58725f9085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thalanor.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thalanor"
+            }
+          },
+          {
+            "id": "b13b6d2b42d7c1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Delaken.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Thorinder"
+              "title": "Delaken"
+            }
+          },
+          {
+            "id": "62f88ca042bc53fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesion 47.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesion 47"
             }
           },
           {
@@ -50,59 +92,45 @@
             }
           },
           {
-            "id": "35b0bbe556480f17",
+            "id": "37bb887f228bfbc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 33.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 33"
-            }
-          },
-          {
-            "id": "3de0c389a568ed77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Balin.md",
+                "file": "Places/Traslagorn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Balin"
+              "title": "Traslagorn"
             }
           },
           {
-            "id": "53026be43e9ffa53",
+            "id": "a85bdde50cd256ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 33.md",
+                "file": "Creatures/Bulette (Topos de Hielo).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 33"
+              "title": "Bulette (Topos de Hielo)"
             }
           },
           {
-            "id": "6a83daf34ff99438",
+            "id": "b32ee6a5817e0df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Balin.md",
+                "file": "Tirada Divina.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Balin"
+              "title": "Tirada Divina"
             }
           },
           {
@@ -120,45 +148,17 @@
             }
           },
           {
-            "id": "7ae1772476d4cd9c",
+            "id": "20ff4843dda5a0b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Traslagorn.md",
-                "mode": "source",
+                "file": "Characters/Kereska.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Traslagorn"
-            }
-          },
-          {
-            "id": "0cd4582f98308b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Delaken.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Delaken"
-            }
-          },
-          {
-            "id": "fdb35d49ab6cf315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Experience table.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Experience table"
+              "title": "Kereska"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Balin",
+                "query": "Traslagorn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +215,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 33.md",
+                "file": "Characters/Player Characters/Delaken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 33"
+              "title": "Outline of Delaken"
             }
           }
         ],
@@ -312,36 +311,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35b0bbe556480f17",
+  "active": "b13b6d2b42d7c1a5",
   "lastOpenFiles": [
-    "Characters/Balin.md",
-    "Sesiones/Sesión 33.md",
-    "Sesiones/Sesión 35.md",
+    "Sesiones/Sesion 48.md",
+    "Mechanics/Lingering Injury (Frostbite).md",
     "Sesiones/Sesion 47.md",
-    "Combates/Combate contra Coverted Troll.md",
-    "Characters/Thorinder.md",
-    "Tablas Random/Tablas random Traslagorn.md",
+    "Montaña de Piedra, Traslagorn.md",
+    "Tareas Por Hacer.md",
     "Characters/Thalanor.md",
-    "Characters/Barbaros Goliath/Kethrak.md",
-    "Characters/Barbaros Goliath/Vorlag.md",
-    "Characters/Barbaros Goliath/Thova.md",
-    "Characters/Barbaros Goliath/Barbaros Goliath.md",
-    "Characters/Barbaros Goliath",
-    "Lore/Kethrak.md",
-    "Lore/Vorlag.md",
-    "Lore/Thova.md",
-    "Lore/Barbaros Goliath.md",
-    "Tablas Random/Tablas Random Camino.md",
-    "Templo del Olvido.md",
-    "Characters/Player Characters/Delaken.md",
-    "Creatures/Converted Goliath.md",
-    "Places/Traslagorn.md",
+    "Sesiones/Sesiones.md",
+    "Combates/Combate contra Coverted Troll.md",
+    "Characters/Kereska.md",
     "Tools/Experience table.md",
+    "Places/Traslagorn.md",
+    "Characters/Player Characters/Delaken.md",
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Characters/Balin.md",
+    "Tirada Divina.md",
+    "Creatures/Bulette (Topos de Hielo).md",
+    "Characters/Barbaros Goliath/Barbaros Goliath.md",
+    "Sesiones/Sesión 33.md",
+    "Creatures/Converted elf.md",
+    "Characters/Kaeli.md",
+    "Tools/Nombres Enanos.md",
+    "Characters/Thorinder.md",
+    "Sesiones/Sesion 46.md",
+    "Templates/Sesión.md",
+    "Special Notes/Combate en Elaria contra Elorien.md",
+    "Tiradas de Velumhaze.md",
+    "Characters/Barbaros Goliath",
     "Combates",
-    "Creatures/Converted Goliath Berserker.md",
-    "Creatures/Converted Troll.md",
-    "Creatures/Defender Drone.md",
-    "Converted Troll.md",
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",

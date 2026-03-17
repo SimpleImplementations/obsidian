@@ -128,4 +128,3 @@ Es uno de los dos tramos de la cordillera (junto con Espinazo de Piedra) dentro 
 6 aguilas gigantes a la distancia
 7 sentir vibraciones en el piso. una tirada podría descubrir que es la caida de piezas de hielo a la distancia
 8 ver la caida de hielo a la distancia en Pared de Hielo
-9 
