@@ -8,6 +8,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a3813d4ee6f390dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesion 48.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesion 48"
+            }
+          },
+          {
+            "id": "3e4a8e974a26ace2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tablas Random/Tablas random Traslagorn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tablas random Traslagorn"
+            }
+          },
+          {
+            "id": "398d2dc88fe3aeb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frost Spider Gigante.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frost Spider Gigante"
+            }
+          },
+          {
             "id": "95f4e1c1bb198992",
             "type": "leaf",
             "state": {
@@ -161,8 +203,7 @@
               "title": "Kereska"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Traslagorn",
+                "query": "olas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +256,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -283,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Player Characters/Delaken.md",
+                "file": "Sesiones/Sesion 48.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Delaken"
+              "title": "Outline of Sesion 48"
             }
           }
         ],
@@ -311,12 +353,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b13b6d2b42d7c1a5",
+  "active": "a3813d4ee6f390dd",
   "lastOpenFiles": [
-    "Sesiones/Sesion 48.md",
-    "Mechanics/Lingering Injury (Frostbite).md",
-    "Sesiones/Sesion 47.md",
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Loot aventurero en Traslagorn.md",
+    "Creatures/Frost Spider Gigante.md",
     "Montaña de Piedra, Traslagorn.md",
+    "Roc.md",
+    "Sesiones/Sesion 48.md",
+    "Sesiones/Sesion 47.md",
+    "Characters/Player Characters/Delaken.md",
+    "Mechanics/Lingering Injury (Frostbite).md",
     "Tareas Por Hacer.md",
     "Characters/Thalanor.md",
     "Sesiones/Sesiones.md",
@@ -324,8 +371,6 @@
     "Characters/Kereska.md",
     "Tools/Experience table.md",
     "Places/Traslagorn.md",
-    "Characters/Player Characters/Delaken.md",
-    "Tablas Random/Tablas random Traslagorn.md",
     "Characters/Balin.md",
     "Tirada Divina.md",
     "Creatures/Bulette (Topos de Hielo).md",
@@ -336,9 +381,6 @@
     "Tools/Nombres Enanos.md",
     "Characters/Thorinder.md",
     "Sesiones/Sesion 46.md",
-    "Templates/Sesión.md",
-    "Special Notes/Combate en Elaria contra Elorien.md",
-    "Tiradas de Velumhaze.md",
     "Characters/Barbaros Goliath",
     "Combates",
     "Images/Pasted image 20250212000423.png",

@@ -22,19 +22,14 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 
 ## Pared de Hielo
 
-| 2d6 | Situación |
+| 1d6 | Situación |
 | :-: | :-------- |
-| 2 | El **remorhaz** surge del hielo cercano, atraído por el calor del grupo o de sus monturas. Encuentro directo y peligroso que puede obligar a huir, esconderse o improvisar. |
-| 3 | Una **tormenta blanca** repentina envuelve a los PJ. El viento arrastra cristales de hielo que golpean como pequeñas agujas; avanzar sin buscar refugio implica agotamiento y riesgo de perder el rumbo. |
-| 4 | Bajo una capa de nieve más fina se percibe una **vibración rítmica**. Si los PJ investigan, encuentran túneles donde algo grande se arrastra: claras señales de un remorhaz, aunque aún no se produzca el encuentro directo. |
-| 5 | Una manada de **depredadores del hielo** (lobos, zorros gélidos, etc.) acecha cerca. Son criaturas naturales, pero hambrientas; una caza exitosa podría dar comida y pieles muy útiles en esta región. |
-| 6 | El suelo cruje bajo los pies: se abre una **grieta profunda en el hielo**, revelando túneles oscuros que descienden hacia las profundidades. Se oyen ecos lejanos (posiblemente duergar o drow), pero nada sube… por ahora. |
-| 7 | Durante la noche, el cielo se llena de **auroras extrañas** y los sueños de los PJ se vuelven densos, casi táctiles. Es un evento breve, pero deja la sensación de que [[Velumhaze]] observa desde detrás de una pared de cristal helado. |
-| 8 | Una zona de hielo azulado emite un **calor tenue e incómodo**. Bajo la capa de escarcha, rocas ennegrecidas muestran runas parecidas a las de las [[Venas del Infierno]], conectando la región con el [[Corazón del Infierno]]. |
-| 9 | Los restos de un **campamento destrozado** aparecen medio enterrados. Entre cuerdas y pieles rasgadas hay notas arruinadas que mencionan "pasos hacia el fin del mundo" y un símbolo que recuerda al del [[Santuario del fin del mundo]]. |
-| 10 | Una pequeña patrulla de la **[[Orden del Círculo de la nieve]]** está rastreando anomalías en la Pared de Hielo. Piden ayuda para verificar si ciertas zonas calientes del hielo se relacionan con un acceso a las [[Venas del Infierno]]. |
-| 11 | En un valle blanco, una **águila gigante** lucha contra un pequeño grupo de no-muertos (quizás un [[Converted Goblin. Bone Creaper]] con esqueletos menores). Los PJ pueden ignorar, ayudar, o rematar al bando vencedor; ganarse el favor del águila puede ser muy valioso. |
-| 12 | Los PJ detectan una serie de **marcas sutiles en el hielo**: símbolos repetidos en roca desnuda y pequeños amuletos helados colgando de piedras. Quien los siga con paciencia puede acabar orientándose hacia los parajes del [[Santuario del fin del mundo]]. |
+| 1 | El **remorhaz** surge del hielo cercano, atraído por el calor del grupo o de sus monturas. Encuentro directo y peligroso que puede obligar a huir, esconderse o improvisar. |
+| 2 | Una **tormenta blanca** repentina envuelve a los PJ. El viento arrastra cristales de hielo que golpean como pequeñas agujas; avanzar sin buscar refugio implica riesgo de perder el rumbo. Por cada tramo avanzado sin refugio: Constitución **DC 14** para no ganar un nivel de **agotamiento**; Constitución **DC 8** para no tirar en la tabla de [[Lingering Injury (Frostbite)]]. |
+| 3 | Pasan **[[Burlette]]** (topos de hielo), que generan olas de nieve al desplazarse. El suelo cruje bajo los pies y se abre una **grieta profunda en el hielo**, revelando túneles oscuros que descienden hacia las profundidades. Se oyen ecos lejanos (posiblemente duergar o drow), pero nada sube… por ahora. Para evitar el combate mientras pasan: esconderse **DC 15** o Trato con animales **DC 15**. |
+| 4 | Ven **[[Roc]]** (águilas) en la zona. Trato con animales **DC 20** para que bajen; [[Kaeli]] reacciona a ellas. Inteligencia (Historia) **DC 10** para saber algo de estas águilas y tirar Trato con animales con **ventaja**. |
+| 5 | -|
+| 6 | Los PJ encuentran **restos de un viajero muerto** (medio enterrado en nieve o en una grieta). Loot: [[Loot aventurero en Traslagorn]]. |
 
 ---
 
@@ -45,8 +40,8 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 | :-: | :-------- |
 | 1 | ataque de [[Will-o'-Wisp (Susurros de la nieve)]] x20 |
 | 2 | ataque de [[Will-o'-Wisp (Susurros de la nieve)]] x3 |
-| 3 | exploradores [[Converted Goblin. Bone Creaper]] x3 |
-| 4 | Una **manada de [[Frost Worg]]** (×10) rodea el campamento y **ataca**. Solo se puede evitar el combate con una tirada alta de Sabiduría (Trato con animales); **darles comida** (ofrecer raciones o presa) da **ventaja** a la tirada. |
+| 3 | exploradores [[Converted Goblin. Bone Creaper]] x5 |
+| 4 | Una **[[Frost Spider Gigante]]** se acerca al campamento y **ataca**. |
 
 ---
 

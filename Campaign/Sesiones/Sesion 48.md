@@ -18,9 +18,6 @@ ustedes han pasado días caminando por una cordillera relativamente baja. no es 
 ### Piedra gigante en Muro de Hielo, permite ver dos, cuesta un día subir pero requiere tirada.
 [[Montaña de Piedra, Traslagorn]]. SI suben les permito ver enemigos que sino los van a interceptar.
 
-#### extra
-preguntar de donde sacaste que las huellas duran 1 día en nieve?
-
 
 ## Golins contra la ladera
 
