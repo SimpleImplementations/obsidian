@@ -117,14 +117,3 @@ Es uno de los dos tramos de la cordillera (junto con Espinazo de Piedra) dentro 
 ---
 
 *Mapa: por añadir.*
-
-
-## Visiones de la zona
-1 grupo de [[Bulette (Topos de Hielo)]] migrando, peligrosos a tal punto que hasta yaks se alejan de ellos, son como se les dice [[Olas de la nieve]] al efecto que generan en manada
-2 grupo de [[Converted Goblin. Bone Creaper]] 
-3 grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]]
-4 grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Mammoth]]
-5 grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Troll]]
-6 aguilas gigantes a la distancia
-7 sentir vibraciones en el piso. una tirada podría descubrir que es la caida de piezas de hielo a la distancia
-8 ver la caida de hielo a la distancia en Pared de Hielo

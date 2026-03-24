@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Loot aventurero en Traslagorn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Loot aventurero en Traslagorn"
+            }
+          },
+          {
+            "id": "1acdcf45a0c242c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tablas Random/Tablas random Traslagorn.md",
                 "mode": "preview",
                 "source": true
@@ -20,8 +34,51 @@
               "icon": "lucide-file",
               "title": "Tablas random Traslagorn"
             }
+          },
+          {
+            "id": "f3e16a6d1c5cb6eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Traslagorn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traslagorn"
+            }
+          },
+          {
+            "id": "fa9a7fad3e00f756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frost Worm Small.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frost Worm Small"
+            }
+          },
+          {
+            "id": "60c1e839fec0be5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Congelación parcial (Frost Worm).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Congelación parcial (Frost Worm)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "santuario ",
+                "query": "traslago",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
+                "file": "Places/Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tablas random Traslagorn"
+              "title": "Outline of Traslagorn"
             }
           }
         ],
@@ -170,14 +228,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc543b6ae76fa3a0",
+  "active": "f3e16a6d1c5cb6eb",
   "lastOpenFiles": [
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Loot aventurero en Traslagorn.md",
+    "Creatures/Frost Worm Small.md",
+    "Mechanics/Congelación parcial (Frost Worm).md",
+    "Creatures/Frost Worm Large.md",
+    "Creatures/Frost Worm.md",
     "Characters/Player Characters/Delaken.md",
     "Creatures/Converted elf.md",
     "Sesiones/Sesion 48.md",
     "Special Notes/Combate en Elaria contra Elorien.md",
-    "Tablas Random/Tablas random Traslagorn.md",
-    "Loot aventurero en Traslagorn.md",
     "Places/Traslagorn.md",
     "Sesiones/Sesion 47.md",
     "Erador.md",
@@ -189,7 +251,6 @@
     "Characters/Player Characters/Aira.md",
     "will o wisp.md",
     "Characters/Barbaros Goliath/Barbaros Goliath.md",
-    "Creatures/Frost Worm.md",
     "Images/Frost Worm.png",
     "Creatures/Frost Spider Gigante.md",
     "Montaña de Piedra, Traslagorn.md",
@@ -197,9 +258,6 @@
     "Mechanics/Lingering Injury (Frostbite).md",
     "Tareas Por Hacer.md",
     "Characters/Thalanor.md",
-    "Sesiones/Sesiones.md",
-    "Combates/Combate contra Coverted Troll.md",
-    "Characters/Kereska.md",
     "Characters/Barbaros Goliath",
     "Combates",
     "Images/Pasted image 20250212000423.png",

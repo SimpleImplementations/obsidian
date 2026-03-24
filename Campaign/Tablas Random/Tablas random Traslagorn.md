@@ -2,6 +2,23 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 
 ---
 
+## Visiones de la zona
+
+Cosas que se ven o se perciben a distancia al recorrer la región; no siempre significan un encuentro al instante.
+
+| d8 | Visión |
+| :-: | :----- |
+| 1 | Un grupo de [[Bulette (Topos de Hielo)]] migrando, tan peligrosos que hasta los yaks se alejan; en manada generan el efecto que se conoce como [[Olas de la nieve]]. |
+| 2 | Un grupo de [[Converted Goblin. Bone Creaper]]. |
+| 3 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]]. |
+| 4 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Mammoth]]. |
+| 5 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Troll]]. |
+| 6 | [[Roc]] (águilas gigantes) a la distancia. |
+| 7 | Vibraciones en el suelo; una tirada (p. ej. Sabiduría (Percepción)) puede revelar que son caídas de bloques de hielo lejanos. |
+| 8 | A la distancia, en la [[Traslagorn#Pared de Hielo|Pared de Hielo]], se ve desprenderse y caer el hielo. |
+
+---
+
 ## Últimas Hojas
 
 | 2d6 | Situación |
@@ -28,8 +45,8 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 | 2 | Una **tormenta blanca** repentina envuelve a los PJ. El viento arrastra cristales de hielo que golpean como pequeñas agujas; avanzar sin buscar refugio implica riesgo de perder el rumbo. Por cada tramo avanzado sin refugio: Constitución **DC 14** para no ganar un nivel de **agotamiento**; Constitución **DC 8** para no tirar en la tabla de [[Lingering Injury (Frostbite)]]. |
 | 3 | Pasan **[[Burlette]]** (topos de hielo), que generan olas de nieve al desplazarse. El suelo cruje bajo los pies y se abre una **grieta profunda en el hielo**, revelando túneles oscuros que descienden hacia las profundidades. Se oyen ecos lejanos (posiblemente duergar o drow), pero nada sube… por ahora. Para evitar el combate mientras pasan: esconderse **DC 15** o Trato con animales **DC 15**. |
 | 4 | Ven **[[Roc]]** (águilas) en la zona. Trato con animales **DC 20** para que bajen; [[Kaeli]] reacciona a ellas. Inteligencia (Historia) **DC 10** para saber algo de estas águilas y tirar Trato con animales con **ventaja**. |
-| 5 | -|
-| 6 | Los PJ encuentran **restos de un viajero muerto** (medio enterrado en nieve o en una grieta). Loot: [[Loot aventurero en Traslagorn]]. |
+| 5 | Una **grieta o montículo de nieve** se agita: emerge un [[Frost Worm Small]] (puede estar enterrado a medias, como si hubiera estado acechando vibraciones). No es el titán del hielo, pero el agarre y el frío visceral pueden despedazar si no huyen o no usan fuego. |
+| 6 | El hielo **troncha y se levanta** bajo los pies: asoma o irrumpe un [[Frost Worm Large]]. Si intentan **pasar desapercibidos** antes de que los fije (o para no atraerlo): Destreza (**Sigilo**), grupo contra **Percepción pasiva 17** del gusano, o una prueba grupal **DC 18** si avanzan cubiertos entre grietas. Cuando el cuerpo del bicho **abre nuevas grietas** en la pared de hielo, cada PJ que esté en la zona expuesta: Destreza (**Acrobáticas**) o Fuerza (**Atletismo**) **DC 16** para no resbalar ni quedar atrapado; si **falla**, cae al hueco (vulnerable al agarre, a quedar colgando o 2d6 contundente al impactar según profundidad). |
 
 ---
 
@@ -50,12 +67,20 @@ Encuentros/situaciones **2d6** por subregión de **[[Traslagorn]]**. Tirar segú
 
 Notas enlazadas en este documento (por orden alfabético):
 
+- [[Bulette (Topos de Hielo)]]
+- [[Congelación parcial (Frost Worm)]]
 - [[Converted Goblin. Bone Creaper]]
 - [[Converted Goliath]]
+- [[Converted Mammoth]]
+- [[Converted Troll]]
 - [[Corazón del Infierno]]
 - [[Elaria]]
+- [[Frost Worm Large]]
+- [[Frost Worm Small]]
+- [[Olas de la nieve]]
 - [[Orden del Círculo de la nieve]]
 - [[Orren el putrefacto]]
+- [[Roc]]
 - [[Santuario del fin del mundo]]
 - [[Templo del Olvido]]
 - [[Thorinder]]
