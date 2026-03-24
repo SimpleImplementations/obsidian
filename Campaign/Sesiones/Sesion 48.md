@@ -41,7 +41,7 @@ lucke  recordado
 Elfos
 Dartaela 
 Erador
-Palartar
+[[Palartar]]
 acomodar grita nuevamente 
 
 

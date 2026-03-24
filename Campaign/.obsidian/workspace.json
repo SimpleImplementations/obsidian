@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a49463b46cf8c21e",
+        "id": "6d83e7a634c4fadf",
         "type": "tabs",
         "children": [
           {
-            "id": "a3813d4ee6f390dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 48.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesion 48"
-            }
-          },
-          {
-            "id": "3e4a8e974a26ace2",
+            "id": "fc543b6ae76fa3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,174 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Tablas random Traslagorn"
-            }
-          },
-          {
-            "id": "398d2dc88fe3aeb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frost Spider Gigante.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frost Spider Gigante"
-            }
-          },
-          {
-            "id": "95f4e1c1bb198992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas Por Hacer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tareas Por Hacer"
-            }
-          },
-          {
-            "id": "ce6be73c282f37da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Montaña de Piedra, Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Montaña de Piedra, Traslagorn"
-            }
-          },
-          {
-            "id": "908eac58725f9085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Thalanor.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Thalanor"
-            }
-          },
-          {
-            "id": "b13b6d2b42d7c1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Delaken.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Delaken"
-            }
-          },
-          {
-            "id": "62f88ca042bc53fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 47.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesion 47"
-            }
-          },
-          {
-            "id": "3811ec746854d368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combates/Combate contra Coverted Troll.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate contra Coverted Troll"
-            }
-          },
-          {
-            "id": "37bb887f228bfbc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traslagorn"
-            }
-          },
-          {
-            "id": "a85bdde50cd256ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Bulette (Topos de Hielo).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Bulette (Topos de Hielo)"
-            }
-          },
-          {
-            "id": "b32ee6a5817e0df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tirada Divina.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tirada Divina"
-            }
-          },
-          {
-            "id": "c777d7c913292b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tablas random Traslagorn"
-            }
-          },
-          {
-            "id": "20ff4843dda5a0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Kereska.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kereska"
             }
           }
         ]
@@ -235,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "olas",
+                "query": "santuario ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -325,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesion 48.md",
+                "file": "Tablas Random/Tablas random Traslagorn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesion 48"
+              "title": "Outline of Tablas random Traslagorn"
             }
           }
         ],
@@ -353,34 +170,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3813d4ee6f390dd",
+  "active": "fc543b6ae76fa3a0",
   "lastOpenFiles": [
+    "Characters/Player Characters/Delaken.md",
+    "Creatures/Converted elf.md",
+    "Sesiones/Sesion 48.md",
+    "Special Notes/Combate en Elaria contra Elorien.md",
     "Tablas Random/Tablas random Traslagorn.md",
     "Loot aventurero en Traslagorn.md",
+    "Places/Traslagorn.md",
+    "Sesiones/Sesion 47.md",
+    "Erador.md",
+    "Palartar.md",
+    "items/Darilotio's Book of Rituals.md",
+    "Creatures/Will-o'-Wisp (Susurros de la nieve).md",
+    "Sesiones/Sesión 17.md",
+    "Images/will-o-wisp-susurros-nieve.png",
+    "Characters/Player Characters/Aira.md",
+    "will o wisp.md",
+    "Characters/Barbaros Goliath/Barbaros Goliath.md",
+    "Creatures/Frost Worm.md",
+    "Images/Frost Worm.png",
     "Creatures/Frost Spider Gigante.md",
     "Montaña de Piedra, Traslagorn.md",
     "Roc.md",
-    "Sesiones/Sesion 48.md",
-    "Sesiones/Sesion 47.md",
-    "Characters/Player Characters/Delaken.md",
     "Mechanics/Lingering Injury (Frostbite).md",
     "Tareas Por Hacer.md",
     "Characters/Thalanor.md",
     "Sesiones/Sesiones.md",
     "Combates/Combate contra Coverted Troll.md",
     "Characters/Kereska.md",
-    "Tools/Experience table.md",
-    "Places/Traslagorn.md",
-    "Characters/Balin.md",
-    "Tirada Divina.md",
-    "Creatures/Bulette (Topos de Hielo).md",
-    "Characters/Barbaros Goliath/Barbaros Goliath.md",
-    "Sesiones/Sesión 33.md",
-    "Creatures/Converted elf.md",
-    "Characters/Kaeli.md",
-    "Tools/Nombres Enanos.md",
-    "Characters/Thorinder.md",
-    "Sesiones/Sesion 46.md",
     "Characters/Barbaros Goliath",
     "Combates",
     "Images/Pasted image 20250212000423.png",
@@ -391,8 +210,6 @@
     "Images/sesion-4.png",
     "Images/dunar-dorin-warrior.png",
     "Images/mapa-sesiones-underdark.png",
-    "Images/xp-table.png",
-    "Images/homebrew-rules.png",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",
