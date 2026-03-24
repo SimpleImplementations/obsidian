@@ -9,10 +9,10 @@ Cosas que se ven o se perciben a distancia al recorrer la región; no siempre si
 | d8 | Visión |
 | :-: | :----- |
 | 1 | Un grupo de [[Bulette (Topos de Hielo)]] migrando, tan peligrosos que hasta los yaks se alejan; en manada generan el efecto que se conoce como [[Olas de la nieve]]. |
-| 2 | Un grupo de [[Converted Goblin. Bone Creaper]]. |
-| 3 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]]. |
-| 4 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Mammoth]]. |
-| 5 | Un grupo de [[Converted Goblin. Bone Creaper]] con [[Converted Goliath]] y un [[Converted Troll]]. |
+| 2 | Dos **yetis** peleando entre sí, vistos a distancia. |
+| 3 | Un **remorhaz** comiendo (presa o carroña) sobre la nieve. |
+| 4 | Una **rajadura** o grieta en el hielo que parece a punto de abrirse o ensancharse. |
+| 5 | Entre bloques o cornisas de hielo, un **hueco o cavidad** que podría servir de buen escondite. |
 | 6 | [[Roc]] (águilas gigantes) a la distancia. |
 | 7 | Vibraciones en el suelo; una tirada (p. ej. Sabiduría (Percepción)) puede revelar que son caídas de bloques de hielo lejanos. |
 | 8 | A la distancia, en la [[Traslagorn#Pared de Hielo|Pared de Hielo]], se ve desprenderse y caer el hielo. |
@@ -48,6 +48,19 @@ Cosas que se ven o se perciben a distancia al recorrer la región; no siempre si
 | 5 | Una **grieta o montículo de nieve** se agita: emerge un [[Frost Worm Small]] (puede estar enterrado a medias, como si hubiera estado acechando vibraciones). No es el titán del hielo, pero el agarre y el frío visceral pueden despedazar si no huyen o no usan fuego. |
 | 6 | El hielo **troncha y se levanta** bajo los pies: asoma o irrumpe un [[Frost Worm Large]]. Si intentan **pasar desapercibidos** antes de que los fije (o para no atraerlo): Destreza (**Sigilo**), grupo contra **Percepción pasiva 17** del gusano, o una prueba grupal **DC 18** si avanzan cubiertos entre grietas. Cuando el cuerpo del bicho **abre nuevas grietas** en la pared de hielo, cada PJ que esté en la zona expuesta: Destreza (**Acrobáticas**) o Fuerza (**Atletismo**) **DC 16** para no resbalar ni quedar atrapado; si **falla**, cae al hueco (vulnerable al agarre, a quedar colgando o 2d6 contundente al impactar según profundidad). |
 
+### Tiempo meteorológico (Pared de Hielo)
+
+Condiciones generales en la [[Traslagorn#Pared de Hielo|Pared de Hielo]]; tirá **1d4** al comenzar el día, al cambiar de tramo largo o cuando quieras marcar el paso del tiempo.
+
+**Niveles acumulativos:** el resultado **N** aplica **también** todo lo indicado para **1 … N−1** (un **4** usa las reglas del **1**, **2**, **3** y **4**).
+
+| 1d4 | Tiempo |
+| :-: | :----- |
+| 1 | **Calma helada.** Cielo claro o apenas velado; buena visibilidad hacia la pared y el horizonte. **Dormir / terminar un descanso largo** al raso o sin refugio cálido: **Constitución DC 6**; si **falla**, no recupera puntos de golpe por ese descanso (el resto del descanso a criterio de mesa). |
+| 2 | **Viento cortante.** *(Incluye todo lo del **1**.)* Ráfagas que levantan nieve fina y partículas de hielo: **desventaja** en pruebas de Sabiduría (Percepción) basadas en la visión a más de 18 m. |
+| 3 | **Ventisca.** *(Incluye **1** y **2**.)* Cortina de nieve horizontal; la visibilidad cae bruscamente (a menudo unos pocos metros). Separarse del grupo sin cuerda, señales claras o acuerdo previo conlleva riesgo de **perderse** (una tirada de Sabiduría (Supervivencia) **DC 13** por tramo expuesto es un buen parámetro). |
+| 4 | **Frío extremo; nieve potente.** *(Incluye **1**, **2** y **3**.)* Por cada **hora** de marcha expuesto: **Constitución DC 10**; si **falla**, **2d6** de daño de **frío** (daño por hielo, si en tu mesa separás el tipo). |
+
 ---
 
 
@@ -71,8 +84,6 @@ Notas enlazadas en este documento (por orden alfabético):
 - [[Congelación parcial (Frost Worm)]]
 - [[Converted Goblin. Bone Creaper]]
 - [[Converted Goliath]]
-- [[Converted Mammoth]]
-- [[Converted Troll]]
 - [[Corazón del Infierno]]
 - [[Elaria]]
 - [[Frost Worm Large]]
