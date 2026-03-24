@@ -7,7 +7,7 @@
 Paso de personaje
 reglas básicas
 situación campaña
-#### Parte del templo [[Primer Alba]]
+#### Parte del templo [[Templo Primer Alba. Lathander]]
 [[Segrún de la Luz Cálida]]: Alto Clérigo dudas pero respeto. 
 [[Hermano Krill]]
 [[Gran Jarl]]: Lorias Larmagnar.

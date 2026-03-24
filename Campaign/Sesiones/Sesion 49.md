@@ -25,10 +25,18 @@ lucke  recordado
 [[Delaken]]
 
 
+## Día 10
+Briella se teletransporta con ellos
+5 d10 para ver quienes cayeron
+les cuenta sobre la [[Guerra de Vallestad]]
+Explosión de lava en [[Ruinas de Valgramoth]]
+Conflicto con los [[Duergar]] de [[Calimba]]
+Conflicto con los [[Frostborn]]
+
 ## Otros
 Vorg algo interesante
-Dartaela 
-Erador
+[[Dartaela ]]
+[[Erador]]
 acomodar grita nuevamente 
 Tirada history delaken 16
 

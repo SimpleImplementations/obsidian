@@ -1,0 +1,1 @@
+Nuevo clérigo maestro de templo [[Templo Primer Alba. Lathander]]

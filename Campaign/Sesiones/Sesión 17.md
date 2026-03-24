@@ -7,7 +7,7 @@ Hablar con ella tema de qué dios seguir. Solved
 	- Gracias a Vorg y a Lathander, saben que [[Orren el putrefacto]] ha vuelto, y que tiene, al menos, una de las [[Reliquias de Karr]], el cetro.
 	- Al día de hoy, el grupo que dijo el Jarl que envió a Peñazco helado debería estar por llegar
 	- [[Aira]] les ha nombrado los Vexaroth, algo que parece significar "[[Corazón del Infierno|Corazón]]", y Sha'varuun, o "[[Venas del Infierno|Venas]]" NO
-	- reelegir lider clerigo [[Segrún de la Luz Cálida]]: Parte del templo [[Primer Alba]]
+	- reelegir lider clerigo [[Segrún de la Luz Cálida]]: Parte del templo [[Templo Primer Alba. Lathander]]
 
 
 #### Cosas que no saben aún
@@ -40,7 +40,7 @@ El Jarl ya habrá enviado gente en busca de los elfos de [[Elaria]], a [[Lomamar
 También se nombra a los [[Frostborn]]
 
 ### Si van a la biblioteca
-templo [[Primer Alba]] 
+templo [[Templo Primer Alba. Lathander]] 
 18 para encontrar escritos sobre [[Reliquias de Karr]]
 Biblioteca de la [[Torre Arcáz]]
 18 para encontrar escritos sobre las [[Corazón del Infierno]]
