@@ -15,7 +15,7 @@ Cosas que se ven o se perciben a distancia al recorrer la región; no siempre si
 | 5 | Entre bloques o cornisas de hielo, un **hueco o cavidad** que podría servir de buen escondite. |
 | 6 | [[Roc]] (águilas gigantes) a la distancia. |
 | 7 | Vibraciones en el suelo; una tirada (p. ej. Sabiduría (Percepción)) puede revelar que son caídas de bloques de hielo lejanos. |
-| 8 | A la distancia, en la [[Traslagorn#Pared de Hielo|Pared de Hielo]], se ve desprenderse y caer el hielo. |
+| 8 | A la distancia, en la Traslagorn#Pared de Hielo, se ve desprenderse y caer el hielo. |
 
 ---
 
@@ -56,10 +56,10 @@ Condiciones generales en la [[Traslagorn#Pared de Hielo|Pared de Hielo]]; tirá 
 
 | 1d4 | Tiempo |
 | :-: | :----- |
-| 1 | **Calma helada.** Cielo claro o apenas velado; buena visibilidad hacia la pared y el horizonte. **Dormir / terminar un descanso largo** al raso o sin refugio cálido: **Constitución DC 6**; si **falla**, no recupera puntos de golpe por ese descanso (el resto del descanso a criterio de mesa). |
-| 2 | **Viento cortante.** *(Incluye todo lo del **1**.)* Ráfagas que levantan nieve fina y partículas de hielo: **desventaja** en pruebas de Sabiduría (Percepción) basadas en la visión a más de 18 m. |
+| 1 | **Calma helada.** Cielo claro o apenas velado; buena visibilidad hacia la pared y el horizonte. **Dormir / terminar un descanso largo** al raso o sin refugio cálido: **Constitución DC 6** **Constitución DC 10**; si **falla**, no recupera puntos de golpe por ese descanso (el resto del descanso a criterio de mesa). |
+| 2 | **Viento cortante.** *(Incluye todo lo del **1**.)* Ráfagas que levantan nieve fina y partículas de hielo: **desventaja** en pruebas de Sabiduría (Percepción) basadas en la visión a más de 30 pies. |
 | 3 | **Ventisca.** *(Incluye **1** y **2**.)* Cortina de nieve horizontal; la visibilidad cae bruscamente (a menudo unos pocos metros). Separarse del grupo sin cuerda, señales claras o acuerdo previo conlleva riesgo de **perderse** (una tirada de Sabiduría (Supervivencia) **DC 13** por tramo expuesto es un buen parámetro). |
-| 4 | **Frío extremo; nieve potente.** *(Incluye **1**, **2** y **3**.)* Por cada **hora** de marcha expuesto: **Constitución DC 10**; si **falla**, **2d6** de daño de **frío** (daño por hielo, si en tu mesa separás el tipo). |
+| 4 | **Frío extremo; nieve potente.** *(Incluye **1**, **2** y **3**.)* Por cada **hora** de marcha expuesto: **Constitución DC 10**; si **falla**, **2d6** de daño de **frío** (daño por hielo, si en tu mesa separás el tipo).|
 
 ---
 

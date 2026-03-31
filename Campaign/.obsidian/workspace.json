@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6d83e7a634c4fadf",
+        "id": "3694ba3754319201",
         "type": "tabs",
         "children": [
           {
-            "id": "fc543b6ae76fa3a0",
+            "id": "4a04d363345db3f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Loot aventurero en Traslagorn.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Loot aventurero en Traslagorn"
-            }
-          },
-          {
-            "id": "1acdcf45a0c242c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tablas random Traslagorn"
-            }
-          },
-          {
-            "id": "c79eb4c22dec37f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tablas random Traslagorn"
-            }
-          },
-          {
-            "id": "c405e4508b7b86f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Delaken.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Delaken"
-            }
-          },
-          {
-            "id": "296324fdabbde38c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 49.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesion 49"
-            }
-          },
-          {
-            "id": "48df2a4a3d1ebe21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Guerra de Vallestad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guerra de Vallestad"
-            }
-          },
-          {
-            "id": "0b524ba025ecee7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/La Manada.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "La Manada"
-            }
-          },
-          {
-            "id": "269bd4ec4460298b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Vallestad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Vallestad"
-            }
-          },
-          {
-            "id": "adb552379a0d9697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Guerra de Vallestad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guerra de Vallestad"
-            }
-          },
-          {
-            "id": "921f289ecd26a3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/nombres clérigos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "nombres clérigos"
-            }
-          },
-          {
-            "id": "60c1e839fec0be5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Montaña de Piedra, Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Montaña de Piedra, Traslagorn"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "la manada",
+                "query": "remor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Guerra de Vallestad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guerra de Vallestad"
+              "title": "Outline"
             }
           }
         ],
@@ -312,21 +165,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48df2a4a3d1ebe21",
+  "active": "4a04d363345db3f2",
   "lastOpenFiles": [
+    "Tablas Random/Tablas random Traslagorn.md",
+    "Places/Tromvas.md",
+    "Sesiones/Sesión 20.md",
+    "Mechanics/Montaña de Piedra, Traslagorn.md",
     "Sesiones/Sesion 49.md",
-    "Lore/Guerra de Vallestad.md",
+    "Characters/Palartar.md",
+    "Mechanics/Congelación parcial (Frost Worm).md",
+    "Creatures/Frost Worm Small.md",
+    "Pasted image 20260324182342.png",
+    "Mechanics/Loot aventurero en Traslagorn.md",
+    "Characters/Player Characters/Delaken.md",
     "Lore/La Manada.md",
+    "Lore/Guerra de Vallestad.md",
     "Places/Vallestad.md",
     "Vyreka.md",
     "Sesiones/Sesión 15.md",
     "Sir Eirikr Thandred.md",
-    "Tablas Random/Tablas random Traslagorn.md",
-    "Mechanics/Loot aventurero en Traslagorn.md",
-    "Places/Tromvas.md",
     "Dartaela.md",
     "Characters/Erador.md",
-    "Characters/Player Characters/Delaken.md",
     "Sesiones/Sesión 33.md",
     "Sesiones/Sesión 36.md",
     "Sesiones/Sesión 12.md",
@@ -335,11 +194,6 @@
     "Svala Tordenhjart.md",
     "Kael Larmagnar.md",
     "Lady Freydisa Larmagnar.md",
-    "Templo Primer Alba. Lathander.md",
-    "Seraphel Heraldo del Primer Día.md",
-    "Tools/nombres clérigos.md",
-    "Characters/Segrún de la Luz Cálida.md",
-    "Sesiones/Sesion 48.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
@@ -351,7 +205,6 @@
     "Images/penumbra.png",
     "Images/sesion-4.png",
     "Images/dunar-dorin-warrior.png",
-    "Images/mapa-sesiones-underdark.png",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",
