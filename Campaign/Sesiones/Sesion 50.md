@@ -19,9 +19,9 @@ entrada a la cabeza de Aira
 mirar al los warlocks
 Kereska loquito
 #### Al acercarse a la zona
-[[Beholder]]
+[[Velumhaze]]
 lair:
-- **_Scopophobia._** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the beholder and its allies) that finishes a Short Rest while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.
+- **_Scopophobia._** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the beholder and its allies) th/at finishes a Short Rest while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.
 - **_Warping Terrain._** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a d20 Test and rolls a 1 has the Prone condition.
 
 
@@ -68,3 +68,8 @@ Tirada history delaken 16
 [[Aira]] · [[Lenzo]] · [[Lucke]] · [[Arendil]] · [[Delaken]]
 [[Balin]] · [[Kaeli]] · [[Kereska]]
 [[Cuenta de días Llegada Orren]] · [[Tiradas de Velumhaze]] · [[Tirada Divina]]
+
+
+# postmortem
+vaelis en peligro cree delaken
+timonty cree que bien

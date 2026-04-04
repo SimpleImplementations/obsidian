@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3694ba3754319201",
+        "id": "1a76f7803ad1c3e3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a04d363345db3f2",
+            "id": "f8c8d779bbaf2996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 50.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sesion 50"
-            }
-          },
-          {
-            "id": "63d9e21ff8ceb4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tablas Random/Tablas random Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tablas random Traslagorn"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "de hielo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesion 50.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesion 50"
+              "title": "Outline"
             }
           }
         ],
@@ -185,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2115bdbdaf74cff8",
+  "active": "f8c8d779bbaf2996",
   "lastOpenFiles": [
-    "Creatures/Beholder.md",
+    "Creatures/Velumhaze.md",
     "Tablas Random/Tablas random Traslagorn.md",
     "Sesiones/Sesion 50.md",
+    "Mechanics/Lingering Injury (Frostbite).md",
+    "Creatures/Beholder.md",
     "Sesiones/Sesion 49.md",
     "Sesiones/Sesion 48.md",
     "Places/Tromvas.md",
@@ -212,8 +195,6 @@
     "Sesiones/Sesión 33.md",
     "Sesiones/Sesión 36.md",
     "Sesiones/Sesión 12.md",
-    "Keldrak Emberforge.md",
-    "Characters/Varnak Runeweaver.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
