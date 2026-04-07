@@ -1,7 +1,16 @@
-# Balin
+*NPC importante.*
 
-*NPC importante. La historia se agregará más adelante.*
-hijo bastardo del rey [[Goldnar Ironvein]], y él y el rey lo sabe, pero no sus hermanos ni la reina
+Enano del reino de [[Tromvas]]. Viaja con el grupo en un encargo largo y peligroso, en la línea de una «comunidad del anillo»: misión que une a pocos contra un riesgo enorme.
+
+### Historia y pérdidas
+
+En el pasado era **capitán** de una escuadra de enanos y la lideraba en combate. Perdió a todo ese grupo en una batalla que se alargó durante años.
+
+Más tarde se retiró como capitán y trabajó como **mercenario** en asuntos ligados a la corona o a nobles. En una de esas operaciones, ayudando a los personajes jugadores, volvió a perder a su equipo. Entre los caídos estaban [[Rurin]] y [[Grimnar]], que los jugadores llegaron a conocer.
+
+### Linaje y secreto
+
+Muy pocas personas saben que Balin es **hijo bastardo** del rey [[Goldnar Ironvein]]; ni siquiera la esposa de Goldnar. En realidad es el **hijo mayor** de Goldnar y, por derecho de nacimiento, sería el **heredero al trono**. Balin lo sabe. El rey nunca lo reconoció públicamente, pero lo mantuvo cerca del reino y de la nobleza; por eso pudo crecer en el ejército y, como mercenario, seguir en órbita de la corona y los nobles. Aun así, su prestigio como **guerrero excepcional** se lo ganó por mérito propio.
 
 ---
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sesiones/Sesion 51.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a865b5b998c12fbb",
+            "id": "b83ec0890bd60358",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Velumhaze"
-            }
-          },
-          {
-            "id": "11d91a325407bc63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Cuenta de días Llegada Orren.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cuenta de días Llegada Orren"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enanos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,14 +185,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a865b5b998c12fbb",
+  "active": "b83ec0890bd60358",
   "lastOpenFiles": [
-    "Mechanics/Tiradas de Velumhaze.md",
     "Sesiones/Sesion 51.md",
+    "Creatures/Velumhaze.md",
+    "Tools/Equipo de Enanos para Underdark.md",
+    "items/Carta de Balin.md",
+    "Lore/Guerra de Vallestad.md",
+    "Characters/Player Characters/Delaken.md",
+    "Mechanics/Tiradas de Velumhaze.md",
     "Mechanics/Cuenta de días Llegada Orren.md",
     "Untitled.base",
     "Glosario.md",
-    "Creatures/Velumhaze.md",
     "Tablas Random/Tablas random Traslagorn.md",
     "Sesiones/Sesion 50.md",
     "Mechanics/Lingering Injury (Frostbite).md",
@@ -221,14 +211,10 @@
     "Creatures/Frost Worm Small.md",
     "Pasted image 20260324182342.png",
     "Mechanics/Loot aventurero en Traslagorn.md",
-    "Characters/Player Characters/Delaken.md",
     "Lore/La Manada.md",
-    "Lore/Guerra de Vallestad.md",
     "Places/Vallestad.md",
     "Vyreka.md",
     "Sesiones/Sesión 15.md",
-    "Sir Eirikr Thandred.md",
-    "Dartaela.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
