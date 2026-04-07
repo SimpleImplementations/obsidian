@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "04c5e51daa2f28cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anillo de Karr.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Anillo de Karr"
+            }
+          },
+          {
             "id": "3cfa4b997599df55",
             "type": "leaf",
             "state": {
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Beholder.md",
+                "file": "Anillo de Karr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Beholder"
+              "title": "Outline of Anillo de Karr"
             }
           }
         ],
@@ -213,12 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cfa4b997599df55",
+  "active": "04c5e51daa2f28cb",
   "lastOpenFiles": [
-    "Creatures/Beholder Lair.md",
-    "Creatures/Velumhaze.md",
-    "Creatures/Beholder.md",
     "Sesiones/Sesion 51.md",
+    "Creatures/Beholder.md",
+    "Creatures/Velumhaze.md",
+    "Creatures/Beholder Lair.md",
+    "Anillo de Karr.md",
     "Tools/Equipo de Enanos para Underdark.md",
     "items/Carta de Balin.md",
     "Lore/Guerra de Vallestad.md",
@@ -242,7 +257,6 @@
     "Mechanics/Loot aventurero en Traslagorn.md",
     "Lore/La Manada.md",
     "Places/Vallestad.md",
-    "Vyreka.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",

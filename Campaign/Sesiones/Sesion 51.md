@@ -12,7 +12,7 @@ preparar y testear parlantes
 # Inicio
 Velumhaze  los mira y ven como se les apagan los items mágicos
 Velumhaze mira a Arendil y entonces Delaken ve la oscuridad en el, ya que el anillo pierde efecto
-Velumhaze hará foco en Lucke primero. 
+Velumhaze hará foco en Lucke primero.  buscando el [[Anillo de Karr]]
 Lenzo después, aunque prefiere quedarselo vivo
 
 
@@ -22,6 +22,7 @@ La armadura de aira la va a defender de un death o desintegration ray, destruyen
 # Si entra alguien al portal
 DC carisma 18 para entrar o tomar 1d8 de daño
 Si entran se van a un plano en el que van a ver el mismo ambiente pero como si ...
+desventaja fisicas ventaja psicologicas todas las tiradas
 
 # Environment
 
