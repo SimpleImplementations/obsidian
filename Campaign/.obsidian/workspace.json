@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "3cfa4b997599df55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Beholder.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Beholder"
+            }
+          },
+          {
+            "id": "fe86a38d70a0d79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Beholder Lair.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Beholder Lair"
+            }
+          },
+          {
             "id": "b83ec0890bd60358",
             "type": "leaf",
             "state": {
@@ -157,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Velumhaze.md",
+                "file": "Creatures/Beholder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Velumhaze"
+              "title": "Outline of Beholder"
             }
           }
         ],
@@ -185,10 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b83ec0890bd60358",
+  "active": "3cfa4b997599df55",
   "lastOpenFiles": [
-    "Sesiones/Sesion 51.md",
+    "Creatures/Beholder Lair.md",
     "Creatures/Velumhaze.md",
+    "Creatures/Beholder.md",
+    "Sesiones/Sesion 51.md",
     "Tools/Equipo de Enanos para Underdark.md",
     "items/Carta de Balin.md",
     "Lore/Guerra de Vallestad.md",
@@ -200,7 +230,6 @@
     "Tablas Random/Tablas random Traslagorn.md",
     "Sesiones/Sesion 50.md",
     "Mechanics/Lingering Injury (Frostbite).md",
-    "Creatures/Beholder.md",
     "Sesiones/Sesion 49.md",
     "Sesiones/Sesion 48.md",
     "Places/Tromvas.md",
@@ -214,7 +243,6 @@
     "Lore/La Manada.md",
     "Places/Vallestad.md",
     "Vyreka.md",
-    "Sesiones/Sesión 15.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
