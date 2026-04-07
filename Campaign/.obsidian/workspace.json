@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1a76f7803ad1c3e3",
+        "id": "07278e0aa6e7bf81",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c8d779bbaf2996",
+            "id": "984912860cb396db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesion 51.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sesion 51"
+            }
+          },
+          {
+            "id": "a865b5b998c12fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Velumhaze.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Velumhaze"
+            }
+          },
+          {
+            "id": "11d91a325407bc63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Cuenta de días Llegada Orren.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cuenta de días Llegada Orren"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Creatures/Velumhaze.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Velumhaze"
             }
           }
         ],
@@ -166,8 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8c8d779bbaf2996",
+  "active": "a865b5b998c12fbb",
   "lastOpenFiles": [
+    "Mechanics/Tiradas de Velumhaze.md",
+    "Sesiones/Sesion 51.md",
+    "Mechanics/Cuenta de días Llegada Orren.md",
+    "Untitled.base",
+    "Glosario.md",
     "Creatures/Velumhaze.md",
     "Tablas Random/Tablas random Traslagorn.md",
     "Sesiones/Sesion 50.md",
@@ -191,10 +229,6 @@
     "Sesiones/Sesión 15.md",
     "Sir Eirikr Thandred.md",
     "Dartaela.md",
-    "Characters/Erador.md",
-    "Sesiones/Sesión 33.md",
-    "Sesiones/Sesión 36.md",
-    "Sesiones/Sesión 12.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
@@ -212,7 +246,6 @@
     "Characters/Player Characters",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "Tablas/Untitled 2.base",
     "Untitled.canvas"
   ]

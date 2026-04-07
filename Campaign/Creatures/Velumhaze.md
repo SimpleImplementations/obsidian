@@ -72,6 +72,16 @@ Legendary Action Uses: 3 (4 in Lair).
 
 Beholders lair in cavern complexes.
 
+### Lair Actions
+
+When fighting inside its lair, Velumhaze can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Velumhaze can take one lair action to cause one of the following effects:
+
+- A 50-foot-square area of ground within 120 feet of Velumhaze becomes slimy; that area is difficult terrain until initiative count 20 on the next round.
+- Walls within 120 feet of Velumhaze sprout grasping appendages until initiative count 20 on the round after next. Each creature of Velumhaze's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.
+- An eye opens on a solid surface within 60 feet of Velumhaze. One random eye ray of Velumhaze shoots from that eye at a target of Velumhaze's choice that it can see. The eye then closes and disappears.
+
+Velumhaze can't repeat an effect until all of the above effects have been used, and it can't use the same effect two rounds in a row.
+
 The region containing Velumhaze's lair is twisted by its presence, creating the following effects:
 
 - ***Scopophobia.*** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding Velumhaze and its allies) that finishes a Short Rest while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.
