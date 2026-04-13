@@ -8,7 +8,7 @@ Musica loosing
 [[Batalla de Vallestad]]
 [[Power Words]]
 [[Orren el putrefacto]]
-[[Palatar]]
+[[Phalatar]]
 # Parte combate
 Musica Shavaruun
 [[Orden del Círculo de la nieve]]
@@ -16,7 +16,7 @@ Musica Shavaruun
 [[Sha'varuun]]
 [[Sha'varuun combate en portal]]
 [[Orren el putrefacto]]
-
+[[Dunar]]
 ## Referencias
 
 [[Glosario]] · [[Traslagorn]] · [[Tablas random Traslagorn]]

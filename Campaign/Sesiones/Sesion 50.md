@@ -6,7 +6,7 @@ RECORDAR QUEDARME MINIS AL FINAL DE LA SESION
 	RECORDAR ACLARACIÓN REGLAS DE DAÑO MELEE UNCONSCIOUS
 
 ## NPCs
-[[Palatar]] · [[Balin]] · [[Kereska]]
+[[Phalatar]] · [[Balin]] · [[Kereska]]
 
 ### Situación de tormenta
 Tiempo meteorológico en [[Tablas random Traslagorn]]

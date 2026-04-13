@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "50ff9c25c4650794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Santuario del fin del mundo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
             "id": "388af85083a716e4",
             "type": "leaf",
             "state": {
@@ -41,170 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Palatar.md",
+                "file": "Characters/Phalatar.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Palatar"
-            }
-          },
-          {
-            "id": "62511763afd6102e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santuario del fin del mundo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "1c053c9fd41021b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Orren el putrefacto.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Orren el putrefacto"
-            }
-          },
-          {
-            "id": "4131514639ad982f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sha'varuun combate en portal.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sha'varuun combate en portal"
-            }
-          },
-          {
-            "id": "a30caf50243e7167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Orren el putrefacto.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Orren el putrefacto"
-            }
-          },
-          {
-            "id": "7f42e0563d7fdb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power Words.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Power Words"
-            }
-          },
-          {
-            "id": "6929d63a0cd1877a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Batalla de Vallestad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Batalla de Vallestad"
-            }
-          },
-          {
-            "id": "fd8face75499dd4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Lairtou.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lairtou"
-            }
-          },
-          {
-            "id": "2ea9ec5326efa619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
-            }
-          },
-          {
-            "id": "5cb16b293ac7de2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 51.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesion 51"
-            }
-          },
-          {
-            "id": "f30663d77991c7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Balin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Balin"
-            }
-          },
-          {
-            "id": "f09f2e379f94a683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Tromvas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tromvas"
+              "title": "Phalatar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Orden del Círculo de la nieve.md",
+                "file": "Sesion 52.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orden del Círculo de la nieve"
+              "title": "Outline of Sesion 52"
             }
           }
         ],
@@ -353,13 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "388af85083a716e4",
+  "active": "1cf2a4a63c5f746c",
   "lastOpenFiles": [
-    "Sesion 52.md",
     "Santuario del fin del mundo.md",
+    "Dunar.md",
+    "Sesion 52.md",
+    "Characters/Phalatar.md",
+    "Places/Orden del Círculo de la nieve.md",
     "Characters/Orren el putrefacto.md",
     "Puerto Tempestad.md",
-    "Characters/Palatar.md",
     "Spells/Fireball.md",
     "Spells/Power Word Kill.md",
     "Spells/Finger of Death.md",
@@ -380,8 +241,6 @@
     "Sesiones/Sesión 32.md",
     "Half-Undead.md",
     "Places/Special/Sha'varuun.md",
-    "Places/Orden del Círculo de la nieve.md",
-    "Characters/Player Characters/Aira.md",
     "Untitled.base",
     "Pasted image 20260324182342.png",
     "Images/will-o-wisp-susurros-nieve.png",

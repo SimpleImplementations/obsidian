@@ -35,11 +35,16 @@ En el centro del Bosque del Lago Helado, la Orden ha creado un **círculo mágic
 
 **Druidas elfos del Círculo:**
 
-- [[Calmela]] **Stellarien** — Druida elfa amable, sonrisa cálida y ojos brillantes; calma animales y compañeros con la palabra.
-- [[Faelind]] **Lorandir** — Druida elfo, rastreador y conocedor de senderos hacia [[Traslagorn]] y las [[Venas del Infierno]].
-- [[Thaladir]] **Cirandir** **MUERTO**— Druida elfo, guardián del círculo y de los viajeros que llegan del norte.
-- [[Laeral]] **Lindriel** — Druida elfa, sanadora y herborista del bosque helado.
-- [[Naelwyn]] **Silmarien** — Druida elfa, vigía y mensajera del santuario; mantiene viva la memoria de la ofensiva antigua de Translagorn ([[Eryndor Celestia]], [[Aliraen Glaciel]] y otros del Círculo).
-- [[Caelith]] **Haelas** — Druida elfo, cuida del Árbol siempre helado y de los ritos de paso.
-- [[Ivellios]] **Tinuiel** — Druida elfo, cazador y explorador; suele ir en las expediciones hacia el norte.
-- [[Sariel]] **Lómiel** — Druida elfa, archivera de leyendas y rumores sobre el [[Corazón del Infierno]] y las venas infernales.
+- [[Calmela]] Stellarien — Druida elfa amable, sonrisa cálida y ojos brillantes; calma animales y compañeros con la palabra.
+- [[Faelind]] Lorandir — Druida elfo, rastreador y conocedor de senderos hacia [[Traslagorn]] y las [[Venas del Infierno]].
+- [[Thaladir]] Cirandir **MUERTO**— Druida elfo, guardián del círculo y de los viajeros que llegan del norte.
+- [[Laeral]] Lindriel — Druida elfa, sanadora y herborista del bosque helado.
+- [[Naelwyn]] Silmarien — Druida elfa, vigía y mensajera del santuario; mantiene viva la memoria de la ofensiva antigua de Translagorn ([[Eryndor Celestia]], [[Aliraen Glaciel]] y otros del Círculo).
+- [[Caelith]] Haelas — Druida elfo, cuida del Árbol siempre helado y de los ritos de paso.
+- [[Ivellios]] Tinuiel — Druida elfo, cazador y explorador; suele ir en las expediciones hacia el norte.
+- [[Sariel]] Lómiel — Druida elfa, archivera de leyendas y rumores sobre el [[Corazón del Infierno]] y las venas infernales.
+- [[Aelindra]] Brumalith — Druida (elfa), especialista en augurios con hielo y niebla; negocia con espíritus del lago helado.
+- [[Varis]] Thaloriel — Druida (elfo), entrenador de aves y mensajeros del círculo; conoce cada nido entre los pinos.
+- [[Miriel]] Caladwen — Druida (elfa), custodia runas y sellos del círculo protector; desconfía de forasteros hasta que pasan la prueba del bosque.
+- [[Erevan]] Galandir — Druida (elfo), diplomático con aldeas cercanas y peregrinos; habla poco de política, mucho de equilibrio natural.
+- [[Lúthien]] Aelthas — Druida (elfa), boticaria de hongos y líquenes bajo la nieve; prepara antídotos y ungüentos para quienes cruzan el círculo heridos.
