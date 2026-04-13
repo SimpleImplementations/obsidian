@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "388af85083a716e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Orden del Círculo de la nieve.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Orden del Círculo de la nieve"
+            }
+          },
+          {
+            "id": "a7c0da0e1b535847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Palatar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Palatar"
+            }
+          },
+          {
             "id": "62511763afd6102e",
             "type": "leaf",
             "state": {
@@ -297,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Santuario del fin del mundo.md",
+                "file": "Places/Orden del Círculo de la nieve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Santuario del fin del mundo"
+              "title": "Outline of Orden del Círculo de la nieve"
             }
           }
         ],
@@ -325,11 +353,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62511763afd6102e",
+  "active": "388af85083a716e4",
   "lastOpenFiles": [
-    "Characters/Orren el putrefacto.md",
-    "Santuario del fin del mundo.md",
     "Sesion 52.md",
+    "Santuario del fin del mundo.md",
+    "Characters/Orren el putrefacto.md",
+    "Puerto Tempestad.md",
+    "Characters/Palatar.md",
     "Spells/Fireball.md",
     "Spells/Power Word Kill.md",
     "Spells/Finger of Death.md",
@@ -352,8 +382,6 @@
     "Places/Special/Sha'varuun.md",
     "Places/Orden del Círculo de la nieve.md",
     "Characters/Player Characters/Aira.md",
-    "Places/Templo del Olvido.md",
-    "Characters/Bulzar.md",
     "Untitled.base",
     "Pasted image 20260324182342.png",
     "Images/will-o-wisp-susurros-nieve.png",

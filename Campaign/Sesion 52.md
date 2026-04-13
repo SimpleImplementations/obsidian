@@ -8,9 +8,10 @@ Musica loosing
 [[Batalla de Vallestad]]
 [[Power Words]]
 [[Orren el putrefacto]]
+[[Palatar]]
 # Parte combate
 Musica Shavaruun
-
+[[Orden del Círculo de la nieve]]
 [[Santuario del fin del mundo]]
 [[Sha'varuun]]
 [[Sha'varuun combate en portal]]

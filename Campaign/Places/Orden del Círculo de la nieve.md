@@ -30,14 +30,14 @@ En el centro del Bosque del Lago Helado, la Orden ha creado un **círculo mágic
 **Miembros fallecidos:**
 
 - [[Aliraen Glaciel]] — Druida elfa, esposa de Eryndor y madre de [[Aira]]. Murió en la huida del plano infernal durante la ofensiva de Translagorn.
-- [[Thalrik]] **Frostbeard** — Druida enano. Lo encontraron en el bosque de [[Elaria]]; se quitó la vida para no transformarse en no-muerto.
-- [[Sylvaine]] **Nienquel** — Druida elfa. Murió; la dama de Elaria la transformó en no-muerta y la party la dio por terminada.
+- [[Thalrik]] Frostbeard **MUERTO** — Druida enano. Lo encontraron en el bosque de [[Elaria]]; se quitó la vida para no transformarse en no-muerto.
+- [[Sylvaine]] Nienquel  **MUERTO**— Druida elfa. Murió; la dama de Elaria la transformó en no-muerta y la party la dio por terminada.
 
 **Druidas elfos del Círculo:**
 
 - [[Calmela]] **Stellarien** — Druida elfa amable, sonrisa cálida y ojos brillantes; calma animales y compañeros con la palabra.
 - [[Faelind]] **Lorandir** — Druida elfo, rastreador y conocedor de senderos hacia [[Traslagorn]] y las [[Venas del Infierno]].
-- [[Thaladir]] **Cirandir** — Druida elfo, guardián del círculo y de los viajeros que llegan del norte.
+- [[Thaladir]] **Cirandir** **MUERTO**— Druida elfo, guardián del círculo y de los viajeros que llegan del norte.
 - [[Laeral]] **Lindriel** — Druida elfa, sanadora y herborista del bosque helado.
 - [[Naelwyn]] **Silmarien** — Druida elfa, vigía y mensajera del santuario; mantiene viva la memoria de la ofensiva antigua de Translagorn ([[Eryndor Celestia]], [[Aliraen Glaciel]] y otros del Círculo).
 - [[Caelith]] **Haelas** — Druida elfo, cuida del Árbol siempre helado y de los ritos de paso.

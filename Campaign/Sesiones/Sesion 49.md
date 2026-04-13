@@ -3,7 +3,7 @@
 Recordar muerte de Kaeli
 
 ## NPCs
-[[Palartar]] · [[Balin]] · [[Kereska]]
+[[Palatar]] · [[Balin]] · [[Kereska]]
 
 ### Buena descripción muro de hielo
 poné una descripción corta acá 
