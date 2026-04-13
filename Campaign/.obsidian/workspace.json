@@ -4,17 +4,129 @@
     "type": "split",
     "children": [
       {
-        "id": "07278e0aa6e7bf81",
+        "id": "962472d91c8f3b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "984912860cb396db",
+            "id": "1cf2a4a63c5f746c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesion 52.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesion 52"
+            }
+          },
+          {
+            "id": "1c053c9fd41021b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Orren el putrefacto.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Orren el putrefacto"
+            }
+          },
+          {
+            "id": "4131514639ad982f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sha'varuun combate en portal.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sha'varuun combate en portal"
+            }
+          },
+          {
+            "id": "a30caf50243e7167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Orren el putrefacto.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Orren el putrefacto"
+            }
+          },
+          {
+            "id": "7f42e0563d7fdb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Words.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Power Words"
+            }
+          },
+          {
+            "id": "6929d63a0cd1877a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Batalla de Vallestad.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Batalla de Vallestad"
+            }
+          },
+          {
+            "id": "fd8face75499dd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Lairtou.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lairtou"
+            }
+          },
+          {
+            "id": "2ea9ec5326efa619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "5cb16b293ac7de2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sesiones/Sesion 51.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,59 +134,31 @@
             }
           },
           {
-            "id": "04c5e51daa2f28cb",
+            "id": "f30663d77991c7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anillo de Karr.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Anillo de Karr"
-            }
-          },
-          {
-            "id": "3cfa4b997599df55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Beholder.md",
+                "file": "Characters/Balin.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beholder"
+              "title": "Balin"
             }
           },
           {
-            "id": "fe86a38d70a0d79c",
+            "id": "f09f2e379f94a683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Beholder Lair.md",
+                "file": "Places/Tromvas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beholder Lair"
-            }
-          },
-          {
-            "id": "b83ec0890bd60358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Velumhaze.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Velumhaze"
+              "title": "Tromvas"
             }
           }
         ],
@@ -110,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enanos",
+                "query": "gralda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anillo de Karr.md",
+                "file": "Characters/Orren el putrefacto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anillo de Karr"
+              "title": "Outline of Orren el putrefacto"
             }
           }
         ],
@@ -227,36 +311,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04c5e51daa2f28cb",
+  "active": "1c053c9fd41021b8",
   "lastOpenFiles": [
+    "Sesion 52.md",
+    "Sha'varuun combate en portal.md",
+    "Characters/Orren el putrefacto.md",
+    "Power Words.md",
+    "Lore/Batalla de Vallestad.md",
+    "Sesiones/Sesiones.md",
+    "Characters/Ardyn.md",
+    "Characters/Player Characters/Lairtou.md",
     "Sesiones/Sesion 51.md",
-    "Creatures/Beholder.md",
-    "Creatures/Velumhaze.md",
-    "Creatures/Beholder Lair.md",
-    "Anillo de Karr.md",
-    "Tools/Equipo de Enanos para Underdark.md",
-    "items/Carta de Balin.md",
-    "Lore/Guerra de Vallestad.md",
-    "Characters/Player Characters/Delaken.md",
-    "Mechanics/Tiradas de Velumhaze.md",
-    "Mechanics/Cuenta de días Llegada Orren.md",
-    "Untitled.base",
-    "Glosario.md",
-    "Tablas Random/Tablas random Traslagorn.md",
-    "Sesiones/Sesion 50.md",
-    "Mechanics/Lingering Injury (Frostbite).md",
-    "Sesiones/Sesion 49.md",
-    "Sesiones/Sesion 48.md",
+    "Sesiones/Sesión 36.md",
     "Places/Tromvas.md",
-    "Sesiones/Sesión 20.md",
-    "Mechanics/Montaña de Piedra, Traslagorn.md",
-    "Characters/Palartar.md",
-    "Mechanics/Congelación parcial (Frost Worm).md",
-    "Creatures/Frost Worm Small.md",
+    "Characters/Balin.md",
+    "Characters/Briella.md",
+    "Sesiones/Sesión 32.md",
+    "Half-Undead.md",
+    "Places/Special/Sha'varuun.md",
+    "Places/Orden del Círculo de la nieve.md",
+    "Characters/Player Characters/Aira.md",
+    "Santuario del fin del mundo.md",
+    "Places/Templo del Olvido.md",
+    "Characters/Bulzar.md",
+    "Tablas Random/Tablas Random Camino.md",
+    "Lore/Los tres Corruptos.md",
+    "Azrakul.md",
+    "Characters/Character.md",
+    "Anillo de Karr.md",
+    "Untitled.base",
     "Pasted image 20260324182342.png",
-    "Mechanics/Loot aventurero en Traslagorn.md",
-    "Lore/La Manada.md",
-    "Places/Vallestad.md",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",

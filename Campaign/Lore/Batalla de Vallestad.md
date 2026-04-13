@@ -52,13 +52,16 @@ Figuras del consejo que aparecen al decidir el apoyo: [[Varnak Runeweaver]], [[G
 
 
 # Posibles caidos
-1 - [[Marlavir]] — figura clave; ausente de Vallestad / misión propia; la mata Orren. Power Word Kill
+1 - [[Marlavir]] — figura clave; la mata Orren. Power Word Kill se revela y aumenta el lore que puede dar Briella
 2 - [[Gran Jarl]] — [[Lorias Larmagnar]]. - [[Kael Larmagnar]] y - [[Lady Freydisa Larmagnar]] quedan al mando
-3 - [[Penumbra]] — . perdido en la batalla.- estaba herido de gravedad y dejó de verlo
+3 - [[Penumbra]] — . perdido en la batalla.- estaba herido de gravedad y dejó de verlo o se va por las buenas insistiendo en que se necesitan refuerzos
 4 - [[Svala Tordenhjart]]. capitana de la guardia de Vallestad se revela y se va con una escaramuza. no estaba de acuerdo con dejar vallestad. jamás vuelve
 5 - [[Hermano Krill]]. 
 6 - [[Saladero]] — en notas de [[Sesión 39]], el ejército de Vallestad incluye a Saladero y dragonborns. los dragonborns se revelan
-7  - [[Vyreka]] Gran figura de la manada. muchos caidos de ellos
+7  - [[Vyreka]] Gran figura de la manada. muchos caidos de ellos. Si cae la manada exige replegarse y buscar ayuda con los Frostborn
 8 - [[Seraphel Heraldo del Primer Día]]. nuevo lider del [[Templo Primer Alba. Lathander]]
-9 
+9 -  [[Gralda Bearmantle]] Comandantes de exploradores Enana. [[Gloin Bighammer]] queda a cargo y es anti humanos, quiere volver a tronvas sin los hombres
 10 - [[Goldnar Ironvein]] — rey de Tromvas. queda a cargo - [[Durgan Ironvein]] — príncipe heredero, líder de la [[Guardia de Mithral]]; y su madre - [[Thalgrida Stonemantle]] — reina
+
+vale invertir la tabla
+
