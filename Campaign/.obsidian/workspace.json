@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "62511763afd6102e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Santuario del fin del mundo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
             "id": "1c053c9fd41021b8",
             "type": "leaf",
             "state": {
@@ -283,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Orren el putrefacto.md",
+                "file": "Santuario del fin del mundo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orren el putrefacto"
+              "title": "Outline of Santuario del fin del mundo"
             }
           }
         ],
@@ -311,11 +325,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c053c9fd41021b8",
+  "active": "62511763afd6102e",
   "lastOpenFiles": [
-    "Sesion 52.md",
-    "Sha'varuun combate en portal.md",
     "Characters/Orren el putrefacto.md",
+    "Santuario del fin del mundo.md",
+    "Sesion 52.md",
+    "Spells/Fireball.md",
+    "Spells/Power Word Kill.md",
+    "Spells/Finger of Death.md",
+    "Spells/Chain Lightning.md",
+    "Spells",
+    "Creatures/Lich.md",
+    "Sha'varuun combate en portal.md",
     "Power Words.md",
     "Lore/Batalla de Vallestad.md",
     "Sesiones/Sesiones.md",
@@ -331,14 +352,8 @@
     "Places/Special/Sha'varuun.md",
     "Places/Orden del Círculo de la nieve.md",
     "Characters/Player Characters/Aira.md",
-    "Santuario del fin del mundo.md",
     "Places/Templo del Olvido.md",
     "Characters/Bulzar.md",
-    "Tablas Random/Tablas Random Camino.md",
-    "Lore/Los tres Corruptos.md",
-    "Azrakul.md",
-    "Characters/Character.md",
-    "Anillo de Karr.md",
     "Untitled.base",
     "Pasted image 20260324182342.png",
     "Images/will-o-wisp-susurros-nieve.png",
@@ -358,7 +373,6 @@
     "Characters/Player Characters",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Tablas/Untitled 2.base",
     "Untitled.canvas"
   ]
 }
