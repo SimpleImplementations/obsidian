@@ -42,3 +42,25 @@ Bulzar, confiado en su poder, creó muros de hielo y lanzó ventiscas gélidas p
 Los gritos de los habitantes de Dravnheim resonaron en la noche, y cuando el sol se alzó, la ciudad estaba en ruinas. Todos los que Bulzar había jurado proteger fueron convertidos en no-muertos, atrapados en un tormento eterno.
 
 El hechicero, quebrado por la culpa, huyó de la ciudad maldita y se convirtió en un errante. Desde entonces, vaga por el mundo como un simple vagabundo, su gran poder reducido a un eco de lo que fue, incapaz de redimirse y temiendo el día en que vuelva a cruzarse con Eldrik o sus malditos servidores.
+
+
+Bulzar es un hechicero de fuego de herencia dracónica, reconocible antaño por su cabello intensamente amarillo y sus escamas naranjas brillantes. Hoy, esa identidad está deformada.
+
+Su piel se ha ennegrecido en amplias zonas, como carbón agrietado, con escamas dañadas que apenas conservan su antiguo color. Su rostro parece partido en dos: un lado hundido, marchito, casi cadavérico, como si la vida hubiese sido drenada parcialmente de él.
+
+Sus ojos ya no son normales. Las pupilas están fracturadas, como vidrio roto, y cambian de tonalidad según la magia que manipula. Mirarlos demasiado tiempo resulta inquietante, como si no enfocaran del todo en este plano.
+
+Cuando habla, su voz no es solo suya. Se superponen ecos ajenos, susurros y tonos imposibles, como si múltiples voluntades habitaran detrás de cada palabra.
+
+En su mano, siempre presente, se enrolla su talismán: cadenas naranjas vivas que se tensan y deslizan como si respiraran. A través de ellas, Bulzar extrae y redistribuye pactos, pagando un precio que su cuerpo ya no puede ocultar.
+
+**Descripción breve:**  
+Un hechicero consumido por pactos ajenos: mitad ceniza, mitad espectro, con ojos rotos y voces prestadas, encadenado a un poder que lo está deshaciendo.
+
+
+- Piel ennegrecida y escamas dañadas, como carbón agrietado
+- Rostro partido: mitad marchita, casi undead
+- Ojos con pupilas fracturadas, brillo cambiante inquietante
+- Voz superpuesta con ecos y susurros de otros pactos
+- Talismán de cadenas naranjas vivas enrolladas en su mano
+- Aura de fuego corrompido (calor irregular, ceniza latente)

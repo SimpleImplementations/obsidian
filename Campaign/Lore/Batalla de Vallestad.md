@@ -64,4 +64,6 @@ Figuras del consejo que aparecen al decidir el apoyo: [[Varnak Runeweaver]], [[G
 10 - [[Goldnar Ironvein]] — rey de Tromvas. queda a cargo - [[Durgan Ironvein]] — príncipe heredero, líder de la [[Guardia de Mithral]]; y su madre - [[Thalgrida Stonemantle]] — reina
 
 vale invertir la tabla
+quedó invertida
+
 

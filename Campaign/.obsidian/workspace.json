@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "962472d91c8f3b2b",
+        "id": "88f1ca5f92982e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cf2a4a63c5f746c",
+            "id": "695aa11863afef8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesion 52.md",
+                "file": "Sesiones/Sesión 53.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesion 52"
-            }
-          },
-          {
-            "id": "50ff9c25c4650794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santuario del fin del mundo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "388af85083a716e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Orden del Círculo de la nieve.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Orden del Círculo de la nieve"
-            }
-          },
-          {
-            "id": "a7c0da0e1b535847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Phalatar.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Phalatar"
+              "title": "Sesión 53"
             }
           }
         ]
@@ -95,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gralda",
+                "query": "batalla vallestad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesion 52.md",
+                "file": "Sesiones/Sesión 53.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesion 52"
+              "title": "Outline of Sesión 53"
             }
           }
         ],
@@ -212,37 +170,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf2a4a63c5f746c",
+  "active": "695aa11863afef8d",
   "lastOpenFiles": [
-    "Santuario del fin del mundo.md",
-    "Dunar.md",
-    "Sesion 52.md",
-    "Characters/Phalatar.md",
-    "Places/Orden del Círculo de la nieve.md",
-    "Characters/Orren el putrefacto.md",
-    "Puerto Tempestad.md",
-    "Spells/Fireball.md",
-    "Spells/Power Word Kill.md",
-    "Spells/Finger of Death.md",
-    "Spells/Chain Lightning.md",
-    "Spells",
-    "Creatures/Lich.md",
-    "Sha'varuun combate en portal.md",
-    "Power Words.md",
-    "Lore/Batalla de Vallestad.md",
+    "Sesiones/Sesion 52.md",
+    "Sesiones/Sesión 53.md",
     "Sesiones/Sesiones.md",
-    "Characters/Ardyn.md",
-    "Characters/Player Characters/Lairtou.md",
-    "Sesiones/Sesion 51.md",
-    "Sesiones/Sesión 36.md",
-    "Places/Tromvas.md",
-    "Characters/Balin.md",
-    "Characters/Briella.md",
-    "Sesiones/Sesión 32.md",
-    "Half-Undead.md",
-    "Places/Special/Sha'varuun.md",
     "Untitled.base",
-    "Pasted image 20260324182342.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Characters/Vyreka.md",
+    "Puerto Tempestad.md",
+    "Images/Pasted image 20260324182342.png",
+    "Lore/Batalla de Vallestad.md",
+    "Characters/Goldnar Ironvein.md",
+    "Characters/Orren el putrefacto.md",
+    "Characters/Balin.md",
+    "Sesiones/Sesion 51.md",
+    "Lore/Power Words.md",
+    "Characters/Seraphel Heraldo del Primer Día.md",
+    "Creatures/Lich.md",
+    "Spells/Power Word Kill.md",
+    "Lore/Sha'varuun combate en portal.md",
+    "Combates/Combate contra Coverted Troll.md",
+    "Creatures/Converted Troll.md",
+    "Characters/Phalatar.md",
+    "Sesiones/Sesion 48.md",
+    "Characters/Vorg.md",
+    "Characters/Character.md",
+    "Places/Santuario del fin del mundo.md",
+    "Places/Orden del Círculo de la nieve.md",
+    "Characters/Bulzar.md",
+    "Spells",
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
