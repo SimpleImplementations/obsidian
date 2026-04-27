@@ -20,7 +20,7 @@ Musica Shavaruun
 [[Dunar]]
 
 [[Bulzar]]
-[[Brisa Tormentaren]] Hija
+[[Brisa Ignar]] Hija
 [[Thassyr Korr]] Monje
 [[Vesper Quill]] enano brujo
 5

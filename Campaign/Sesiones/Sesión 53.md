@@ -1,37 +1,54 @@
 ## Introduccion y seteo
 Explicación de la traición. Corta.
 
-# Parte viaje
-Briella historias
-Musica loosing
+Inicio campaña 1d4 [[Arendil]] para menos muertes
+
+# historia
+Grupo 1
+Llegan unos días antes
+estadía
+
+Grupo 2
+Es de noche
+pelea de bulzar con Eryndor por dejarlos atras, le dice q dejó a su propia hija Brisa
+Bulzar pierde poderes y se va volando con su capa
+
+# Ideas interación
+Delaken rezar si pasa 40 tiene las [[Tirada Divina]]
+Ardyn con vorg no efecto
+Lenzo con Bulzar y con Brisa.
+	Brisa celosa competir
+	Bulzar eliminar el pacto. recuerda a Marina
+Aira con Eryndor, Eryndor mas blando de lo que pensaba. tiene el [[Ring of Evasion]]
+Aira con Calmela, Kaeli. Bulzar counterspell
+
+Polvos para teletransportarse. 8
+gemas resurrección 6
+
 
 # Lore util
 [[Batalla de Vallestad]]
 [[Power Words]]
 [[Orren el putrefacto]]
-
 [[Orden del Círculo de la nieve]]
 
-# Parte combate
-Musica Shavaruun
 [[Santuario del fin del mundo]]
-[[Sha'varuun]]
-[[Sha'varuun combate en portal]]
 [[Orren el putrefacto]]
-[[Dunar]]
+[[Dunar Dorin]]
 
-[[Bulzar]]
-[[Brisa Tormentaren]] Hija
+[[Bulzar]] Ignar 
+[[Brisa Ignar]] Hija
 [[Thassyr Korr]] Monje
 [[Vesper Quill]] enano brujo
-5
+4 muertes
 
 [[Eryndor Celestia]]
 [[Calmela]]
 [[Aelindra]]
 [[Ivellios]]
 
-4
+3 muertes
+
 ## Referencias
 
 [[Glosario]] · [[Traslagorn]] · [[Tablas random Traslagorn]]
