@@ -12,13 +12,17 @@ Aira con Eryndor, Eryndor mas blando de lo que pensaba. tiene el [[Ring of Evasi
 Aira con Calmela, Kaeli. Bulzar counterspell
 
 Polvos para teletransportarse. 8
-gemas resurrección 6
+gemas resurrección 5
 
 # Items
 [[Loot Santuario del Fin del Mundo]]
+potas
+gama x1 quedan 5
+polvos 2+2 que ya tenía [[Ardyn]]
 
 # Cosas que van a pasar
-
+Águilas Aira
+Anillo Aira [[Ring of Evasion]]
 
 
 # Cosas que pueden pasar
@@ -57,6 +61,5 @@ Delaken si llega al [[Templo del Olvido]]
 ## Referencias
 
 [[Glosario]] · [[Traslagorn]] · [[Tablas random Traslagorn]]
-[[Aira]] · [[Lenzo]] · [[Ardyn]] · [[Lairtou]] · [[Delaken]] 
-[[Balin]] · [[Kereska]] · [[Phalatar]]
+[[Aira]] · [[Lenzo]] · [[Ardyn]] · [[Lairtou]] · [[Delaken]] · [[Phalatar]] · [[Briella]]
 [[Cuenta de días Llegada Orren]] · [[Tirada Divina]]

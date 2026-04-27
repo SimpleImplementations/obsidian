@@ -22,13 +22,55 @@
             }
           },
           {
+            "id": "95704659273aeeee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Phalatar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phalatar"
+            }
+          },
+          {
+            "id": "aaf86f73e3500a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Briella.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Briella"
+            }
+          },
+          {
+            "id": "4ccbcbe6dcd30ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ring of Evasion.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ring of Evasion"
+            }
+          },
+          {
             "id": "d7f3815d16f3e597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Loot Santuario del Fin del Mundo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -133,8 +175,7 @@
               "title": "Guarida Frostborn Norte"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loot Santuario del Fin del Mundo.md",
+                "file": "Sesiones/Sesión 54.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Loot Santuario del Fin del Mundo"
+              "title": "Outline of Sesión 54"
             }
           }
         ],
@@ -283,10 +324,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7f3815d16f3e597",
+  "active": "a4de961d495a9e61",
   "lastOpenFiles": [
-    "Loot Santuario del Fin del Mundo.md",
+    "Characters/Phalatar.md",
     "Sesiones/Sesión 54.md",
+    "Characters/Briella.md",
+    "Ring of Evasion.md",
+    "Loot Santuario del Fin del Mundo.md",
     "Combate Velumhaze Tyrant.md",
     "Tools/Experience table.md",
     "Brisa Ignar.md",
@@ -308,9 +352,6 @@
     "Characters/Eryndor Celestia.md",
     "Places/Templo del Olvido.md",
     "Darkaler.md",
-    "Guarida Frostborn Norte.md",
-    "Sesiones/Sesión 53.md",
-    "Sesiones/Sesiones.md",
     "Pasted image 20260421164528.png",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",
