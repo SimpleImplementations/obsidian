@@ -47,3 +47,7 @@ Un hechicero consumido por pactos ajenos: mitad ceniza, mitad espectro, con ojos
 - Voz superpuesta con ecos y susurros de otros pactos
 - Talismán de cadenas naranjas vivas enrolladas en su mano
 - Aura de fuego corrompido (calor irregular, ceniza latente)
+
+## Mecánica
+
+- [[Bulzar Sheet]]

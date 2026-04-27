@@ -20,6 +20,7 @@ Relación de [[Ardyn]] con [[Frostborn]]
 	
 Delaken si llega al [[Templo del Olvido]] 
 
+[[Combate Velumhaze Tyrant]]
 
 # Lore util
 [[Batalla de Vallestad]]

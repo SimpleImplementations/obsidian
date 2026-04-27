@@ -32,3 +32,7 @@ Otros miembros del Círculo: [[Thalrik]] (fallecido; se quitó la vida en Elaria
 
 - La guerra contra los tres corruptos y la ofensiva en Translagorn (y la muerte de Aliraen allí) marcan su pasado; el Círculo no fue aliado abierto en esa contienda, pero los elfos de Elaria sí y Aliraen participó con ellos.
 - La carta que [[Calmela]] recibe y responde ([[Carta a Calmela]]) menciona la decisión de la Orden de unirse a la causa y el silencio de Eryndor respecto a Calmela.
+
+## Mecánica
+
+- [[Eryndor Celestia Sheet]]
