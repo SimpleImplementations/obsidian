@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "d7f3815d16f3e597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loot Santuario del Fin del Mundo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Loot Santuario del Fin del Mundo"
+            }
+          },
+          {
             "id": "5692137d692075d9",
             "type": "leaf",
             "state": {
@@ -119,7 +133,8 @@
               "title": "Guarida Frostborn Norte"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +187,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 54.md",
+                "file": "Loot Santuario del Fin del Mundo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 54"
+              "title": "Outline of Loot Santuario del Fin del Mundo"
             }
           }
         ],
@@ -269,34 +283,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4de961d495a9e61",
+  "active": "d7f3815d16f3e597",
   "lastOpenFiles": [
+    "Loot Santuario del Fin del Mundo.md",
+    "Sesiones/Sesión 54.md",
+    "Combate Velumhaze Tyrant.md",
+    "Tools/Experience table.md",
+    "Brisa Ignar.md",
+    "Creatures/Converted Frost Worm Small.md",
+    "Creatures/Converted Yeti.md",
+    "Creatures/Yeti.md",
     "Ring of the Emberheart.md",
+    "Characters/Aelindra.md",
+    "Characters/Warlock Tier 1.md",
+    "Characters/Monje Tier 1.md",
+    "Characters/Druida Tier 1.md",
+    "Characters/Hechicero Tier 1.md",
     "Characters/Player Characters/Lenzo.md",
     "Characters/Bulzar.md",
     "Characters/Eryndor Celestia Sheet.md",
     "Characters/Bulzar Sheet.md",
-    "Combate Velumhaze Tyrant.md",
     "Creatures/Death Tyrant Lair.md",
     "Creatures/Death Tyrant.md",
-    "Sesiones/Sesión 54.md",
     "Characters/Eryndor Celestia.md",
     "Places/Templo del Olvido.md",
     "Darkaler.md",
     "Guarida Frostborn Norte.md",
     "Sesiones/Sesión 53.md",
     "Sesiones/Sesiones.md",
-    "Sesiones/Sesion 52.md",
-    "Places/Santuario del fin del mundo.md",
-    "Mechanics/Tirada Divina.md",
-    "Characters/Ardyn.md",
-    "Characters/Player Characters/Delaken.md",
-    "Brisa Ignar.md",
-    "Characters/Orren el putrefacto.md",
-    "Characters/Character.md",
-    "Ring of Evasion.md",
-    "Places/Orden del Círculo de la nieve.md",
-    "Characters/Ivellios.md",
     "Pasted image 20260421164528.png",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",

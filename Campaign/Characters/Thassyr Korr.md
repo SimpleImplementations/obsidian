@@ -14,3 +14,7 @@ Un anciano de mirada limpia y postura imposible, con manos endurecidas y una cal
 - **Presencia**: a su alrededor baja el volumen de la sala; cuando decide actuar, todo ocurre de golpe.
 - **Personalidad**: disciplinado, práctico, con humor seco; protege a [[Bulzar]] sin idolatrarlo.
 - **Detalles distintivos**: callos antiguos; dedos con pequeñas deformaciones de golpes; olor tenue a incienso o té.
+
+## Mecánica
+
+- [[Monje Tier 1]]

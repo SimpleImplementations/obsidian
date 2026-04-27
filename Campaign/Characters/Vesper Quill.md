@@ -14,3 +14,7 @@ Un enano de ojos oscuros y voz de madera vieja, con la sensación de que algo ve
 - **Magia (tells)**: sombras con forma de ramas; espinas espectrales; hojas muertas que aparecen donde apoya la mano.
 - **Personalidad**: pragmático, reservado; le gusta negociar desde la calma; inquietantemente paciente.
 - **Vínculo con el patrón**: el [[Gulthias Tree]] “tira” de su atención: a veces se queda escuchando un susurro que nadie más oye.
+
+## Mecánica
+
+- [[Warlock Tier 1]]

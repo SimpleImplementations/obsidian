@@ -14,11 +14,20 @@ Aira con Calmela, Kaeli. Bulzar counterspell
 Polvos para teletransportarse. 8
 gemas resurrección 6
 
+# Items
+[[Loot Santuario del Fin del Mundo]]
+
+# Cosas que van a pasar
+
+
+
 # Cosas que pueden pasar
 Relación de [[Ardyn]] con [[Frostborn]]
 	[[Guarida Frostborn Norte]]
 	
 Delaken si llega al [[Templo del Olvido]] 
+
+
 
 [[Combate Velumhaze Tyrant]]
 
