@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "88f1ca5f92982e0e",
+        "id": "9b28032469d3f882",
         "type": "tabs",
         "children": [
           {
-            "id": "a4de961d495a9e61",
+            "id": "f008f7f4f561a828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesiones.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesiones"
+            }
+          },
+          {
+            "id": "d8522373b39dc6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,125 +36,27 @@
             }
           },
           {
-            "id": "95704659273aeeee",
+            "id": "568fa3e909daa8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Phalatar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Phalatar"
-            }
-          },
-          {
-            "id": "aaf86f73e3500a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Briella.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Briella"
-            }
-          },
-          {
-            "id": "4ccbcbe6dcd30ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ring of Evasion.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ring of Evasion"
-            }
-          },
-          {
-            "id": "d7f3815d16f3e597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loot Santuario del Fin del Mundo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Loot Santuario del Fin del Mundo"
-            }
-          },
-          {
-            "id": "5692137d692075d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate Velumhaze Tyrant.md",
+                "file": "Sesión 55.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combate Velumhaze Tyrant"
+              "title": "Sesión 55"
             }
           },
           {
-            "id": "b76908847b4a0863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Lenzo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lenzo"
-            }
-          },
-          {
-            "id": "f30ad700aca55ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ring of the Emberheart.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ring of the Emberheart"
-            }
-          },
-          {
-            "id": "19f08a1cd88a97a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate Velumhaze Tyrant.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate Velumhaze Tyrant"
-            }
-          },
-          {
-            "id": "97fad5652c7d8e8c",
+            "id": "c71a45fc0ce9789b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Places/Templo del Olvido.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -148,34 +64,21 @@
             }
           },
           {
-            "id": "ea77361888cbdc86",
+            "id": "c26d477faa3da73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Darkaler.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Darkaler"
-            }
-          },
-          {
-            "id": "2150c8f0e8b1acdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guarida Frostborn Norte.md",
+                "file": "Places/Templo del Olvido.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Guarida Frostborn Norte"
+              "title": "Templo del Olvido"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ring of the ember",
+                "query": "kaeli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 54.md",
+                "file": "Places/Templo del Olvido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 54"
+              "title": "Outline of Templo del Olvido"
             }
           }
         ],
@@ -324,34 +227,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4de961d495a9e61",
+  "active": "c71a45fc0ce9789b",
   "lastOpenFiles": [
-    "Characters/Phalatar.md",
+    "Sesión 55.md",
+    "Places/Templo del Olvido.md",
     "Sesiones/Sesión 54.md",
-    "Characters/Briella.md",
-    "Ring of Evasion.md",
-    "Loot Santuario del Fin del Mundo.md",
-    "Combate Velumhaze Tyrant.md",
-    "Tools/Experience table.md",
+    "Sesiones/Sesiones.md",
+    "Characters/Bulzar Sheet.md",
     "Brisa Ignar.md",
+    "Creatures/Death Tyrant.md",
+    "Creatures/Death Tyrant Lair.md",
     "Creatures/Converted Frost Worm Small.md",
+    "Combate Velumhaze Tyrant.md",
     "Creatures/Converted Yeti.md",
+    "Characters/Bulzar.md",
+    "Characters/Kaeli.md",
+    "Places/Santuario del fin del mundo.md",
+    "Characters/Player Characters/Delaken.md",
+    "Loot Santuario del Fin del Mundo.md",
+    "Mechanics/Tirada Divina.md",
+    "Ring of Evasion.md",
+    "Characters/Phalatar.md",
+    "Characters/Briella.md",
+    "Tools/Experience table.md",
     "Creatures/Yeti.md",
     "Ring of the Emberheart.md",
     "Characters/Aelindra.md",
     "Characters/Warlock Tier 1.md",
     "Characters/Monje Tier 1.md",
-    "Characters/Druida Tier 1.md",
-    "Characters/Hechicero Tier 1.md",
-    "Characters/Player Characters/Lenzo.md",
-    "Characters/Bulzar.md",
-    "Characters/Eryndor Celestia Sheet.md",
-    "Characters/Bulzar Sheet.md",
-    "Creatures/Death Tyrant Lair.md",
-    "Creatures/Death Tyrant.md",
-    "Characters/Eryndor Celestia.md",
-    "Places/Templo del Olvido.md",
-    "Darkaler.md",
     "Pasted image 20260421164528.png",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",
