@@ -62,4 +62,5 @@ Musica tomas koner permafrost
 
 NOTAS
 [[Odrik]] en valgramoth no pudo responder
-maldivia}katrip
+maldivia alguien a quien contactan creo
+katrip alguien a quien contactan creo

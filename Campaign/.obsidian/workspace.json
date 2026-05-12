@@ -22,45 +22,95 @@
             }
           },
           {
-            "id": "d8522373b39dc6fc",
+            "id": "61c1e5e3fe3942ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character"
-            }
-          },
-          {
-            "id": "77fd2df75eca3cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 53.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 53"
-            }
-          },
-          {
-            "id": "cb97c680eeb9476f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character.md",
+                "file": "Sesiones/Sesión 56.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Sesión 56"
+            }
+          },
+          {
+            "id": "c0716e323b73540e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesión 57.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 57"
+            }
+          },
+          {
+            "id": "071eebf1a00aef0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frostborn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frostborn"
+            }
+          },
+          {
+            "id": "5b8f4e93e0aa1396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escuchar la presencia del espiritu del hielo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "escuchar la presencia del espiritu del hielo"
+            }
+          },
+          {
+            "id": "e25fa2ba42e7bf74",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Jardines Frostborn.png"
+              },
+              "icon": "lucide-image",
+              "title": "Jardines Frostborn"
+            }
+          },
+          {
+            "id": "2d445fb6bc2c46be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Jardines Frostborn.png"
+              },
+              "icon": "lucide-image",
+              "title": "Jardines Frostborn"
+            }
+          },
+          {
+            "id": "6915cc6601b1aa31",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Jardines Frostborn.png"
+              },
+              "icon": "lucide-image",
+              "title": "Jardines Frostborn"
             }
           },
           {
@@ -78,6 +128,48 @@
             }
           },
           {
+            "id": "b27bf67283bb1a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frostborn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frostborn"
+            }
+          },
+          {
+            "id": "f1aacbfe9bbe7ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "ee9c30e21420fe38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
             "id": "61c04f5da71c1bce",
             "type": "leaf",
             "state": {
@@ -90,37 +182,9 @@
               "icon": "lucide-file",
               "title": "Ardyn"
             }
-          },
-          {
-            "id": "b3d64789a5a07d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
-            }
-          },
-          {
-            "id": "c26d477faa3da73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Templo del Olvido.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Templo del Olvido"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +216,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tabaxi",
+                "query": "gran jarl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +237,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,13 +305,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 56.md",
+                "file": "Creatures/Frostborn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 56"
+              "title": "Outline of Frostborn"
             }
           }
         ],
@@ -270,15 +333,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c971dc4da2cc539",
+  "active": "071eebf1a00aef0b",
   "lastOpenFiles": [
-    "Characters/Ardyn.md",
+    "escuchar la presencia del espiritu del hielo.md",
+    "Creatures/Frostborn.md",
+    "Sesión 57.md",
     "Sesiones/Sesión 56.md",
+    "Jardines Frostborn.png",
+    "Sesiones/Sesiones.md",
+    "Darkaler.md",
+    "Characters/Ardyn.md",
+    "Creatures/frostborn_stats.md",
     "Tabaxi.md",
     "Brisa Ignar.md",
     "Sesiones/Sesión 53.md",
     "Sesiones/Sesión 22.md",
-    "Sesiones/Sesiones.md",
     "Characters/Vorg.md",
     "Characters/Character.md",
     "Sesiones/Sesión 55.md",
@@ -295,11 +364,6 @@
     "Dunar.md",
     "Plano Astral.md",
     "Plano Feerico.md",
-    "Sesiones/Sesión 54.md",
-    "Characters/Bulzar Sheet.md",
-    "Creatures/Death Tyrant.md",
-    "Creatures/Death Tyrant Lair.md",
-    "Creatures/Converted Frost Worm Small.md",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",
     "Spells",
@@ -311,7 +375,6 @@
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
     "Images/lago-helado.jpg",
-    "Images/penumbra.png",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",
