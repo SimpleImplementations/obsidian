@@ -27,40 +27,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 54.md",
+                "file": "Characters/Character.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 54"
+              "title": "Character"
             }
           },
           {
-            "id": "568fa3e909daa8d5",
+            "id": "77fd2df75eca3cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesión 55.md",
+                "file": "Sesiones/Sesión 53.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 55"
+              "title": "Sesión 53"
             }
           },
           {
-            "id": "c71a45fc0ce9789b",
+            "id": "cb97c680eeb9476f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Templo del Olvido.md",
+                "file": "Characters/Character.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Templo del Olvido"
+              "title": "Character"
+            }
+          },
+          {
+            "id": "1c971dc4da2cc539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 56.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 56"
+            }
+          },
+          {
+            "id": "61c04f5da71c1bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "b3d64789a5a07d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
             }
           },
           {
@@ -70,7 +112,7 @@
               "type": "markdown",
               "state": {
                 "file": "Places/Templo del Olvido.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kaeli",
+                "query": "tabaxi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Templo del Olvido.md",
+                "file": "Sesiones/Sesión 56.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Templo del Olvido"
+              "title": "Outline of Sesión 56"
             }
           }
         ],
@@ -227,35 +270,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71a45fc0ce9789b",
+  "active": "1c971dc4da2cc539",
   "lastOpenFiles": [
-    "Sesión 55.md",
-    "Places/Templo del Olvido.md",
-    "Sesiones/Sesión 54.md",
-    "Sesiones/Sesiones.md",
-    "Characters/Bulzar Sheet.md",
+    "Characters/Ardyn.md",
+    "Sesiones/Sesión 56.md",
+    "Tabaxi.md",
     "Brisa Ignar.md",
+    "Sesiones/Sesión 53.md",
+    "Sesiones/Sesión 22.md",
+    "Sesiones/Sesiones.md",
+    "Characters/Vorg.md",
+    "Characters/Character.md",
+    "Sesiones/Sesión 55.md",
+    "Lore/Anillo de Karr.md",
+    "Mechanics/Tirada Divina.md",
+    "Places/Templo del Olvido.md",
+    "Etherealness.md",
+    "tabaxi image.png",
+    "Pasted image 20260421164528.png",
+    "Acheron.md",
+    "Necklace of Lathander.md",
+    "Ysgard.md",
+    "Characters/Dunar Dorin.md",
+    "Dunar.md",
+    "Plano Astral.md",
+    "Plano Feerico.md",
+    "Sesiones/Sesión 54.md",
+    "Characters/Bulzar Sheet.md",
     "Creatures/Death Tyrant.md",
     "Creatures/Death Tyrant Lair.md",
     "Creatures/Converted Frost Worm Small.md",
-    "Combate Velumhaze Tyrant.md",
-    "Creatures/Converted Yeti.md",
-    "Characters/Bulzar.md",
-    "Characters/Kaeli.md",
-    "Places/Santuario del fin del mundo.md",
-    "Characters/Player Characters/Delaken.md",
-    "Loot Santuario del Fin del Mundo.md",
-    "Mechanics/Tirada Divina.md",
-    "Ring of Evasion.md",
-    "Characters/Phalatar.md",
-    "Characters/Briella.md",
-    "Tools/Experience table.md",
-    "Creatures/Yeti.md",
-    "Ring of the Emberheart.md",
-    "Characters/Aelindra.md",
-    "Characters/Warlock Tier 1.md",
-    "Characters/Monje Tier 1.md",
-    "Pasted image 20260421164528.png",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",
     "Spells",
@@ -268,7 +312,6 @@
     "Images/tumba-haldor.png",
     "Images/lago-helado.jpg",
     "Images/penumbra.png",
-    "Images/sesion-4.png",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",
