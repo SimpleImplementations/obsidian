@@ -36,7 +36,7 @@ Al norte de [[Elaria]], el bosque dónde se encuentran los elfos del bosque, los
 ## Equipo de enanos
 [[Balin]] destruido emocionalmente, tiene una armadura de la guardia ahora e insignias de capitan, pero sus ojos se ven diferentes.
 [[Odrik]] y [[Briella]] heredan la riquiza de [[Bromli]], quien no tenía herederos y deja un testamento a nombre de ambos, con aclaración de qué es para cada uno
-A [[Briela ]] la adopta [[Marlavir]]
+A [[Briella]] la adopta [[Marlavir]]
 
 ### Enanos quieren salir por la salida Oeste
 

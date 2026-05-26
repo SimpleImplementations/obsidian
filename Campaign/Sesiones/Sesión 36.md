@@ -29,7 +29,7 @@ llega en el medio
 Durgan definió ayudar a [[Vallestad]] pero no dejará entrar humanos a [[Tromvas]]
 
 [[Balin]] destruido emocionalmente, tiene una armadura de la guardia ahora e insignias de capitan, pero sus ojos se ven diferentes.
-A [[Briela ]] la adopta [[Marlavir]]
+A [[Briella]] la adopta [[Marlavir]]
 
 ### [[Aira]] 
 Cada noche va a soñar con la pluma hasta que toque y entonces va a tener 1 uso de inspiración bárdica por descanso largo

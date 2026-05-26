@@ -22,21 +22,91 @@
             }
           },
           {
-            "id": "61c1e5e3fe3942ab",
+            "id": "aeda7a84fda78716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 56.md",
+                "file": "Sesión 58.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 56"
+              "title": "Sesión 58"
             }
           },
           {
-            "id": "c0716e323b73540e",
+            "id": "3f40f1f6e8da12ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Túneles Internos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Túneles Internos"
+            }
+          },
+          {
+            "id": "0da8046cceb4dd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Duergar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Duergar"
+            }
+          },
+          {
+            "id": "9a576a660f862567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar"
+            }
+          },
+          {
+            "id": "8ead970ecdaff660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Túneles Internos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Túneles Internos"
+            }
+          },
+          {
+            "id": "1211379a92d7bb78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Santuario del fin del mundo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
+            "id": "97dc7263a110e527",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,140 +117,6 @@
               },
               "icon": "lucide-file",
               "title": "Sesión 57"
-            }
-          },
-          {
-            "id": "071eebf1a00aef0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn"
-            }
-          },
-          {
-            "id": "5b8f4e93e0aa1396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "escuchar la presencia del espiritu del hielo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "escuchar la presencia del espiritu del hielo"
-            }
-          },
-          {
-            "id": "e25fa2ba42e7bf74",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Jardines Frostborn.png"
-              },
-              "icon": "lucide-image",
-              "title": "Jardines Frostborn"
-            }
-          },
-          {
-            "id": "2d445fb6bc2c46be",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Jardines Frostborn.png"
-              },
-              "icon": "lucide-image",
-              "title": "Jardines Frostborn"
-            }
-          },
-          {
-            "id": "6915cc6601b1aa31",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Jardines Frostborn.png"
-              },
-              "icon": "lucide-image",
-              "title": "Jardines Frostborn"
-            }
-          },
-          {
-            "id": "1c971dc4da2cc539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 56.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 56"
-            }
-          },
-          {
-            "id": "b27bf67283bb1a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn"
-            }
-          },
-          {
-            "id": "f1aacbfe9bbe7ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
-            }
-          },
-          {
-            "id": "ee9c30e21420fe38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
-            }
-          },
-          {
-            "id": "61c04f5da71c1bce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
             }
           }
         ],
@@ -216,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gran jarl",
+                "query": "Dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Frostborn.md",
+                "file": "Creatures/Duergar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Frostborn"
+              "title": "Outline of Duergar"
             }
           }
         ],
@@ -333,16 +270,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071eebf1a00aef0b",
+  "active": "0da8046cceb4dd4b",
   "lastOpenFiles": [
-    "escuchar la presencia del espiritu del hielo.md",
-    "Creatures/Frostborn.md",
-    "Sesión 57.md",
-    "Sesiones/Sesión 56.md",
-    "Jardines Frostborn.png",
+    "Túneles Internos.md",
+    "Askadar.md",
+    "Cloaker.md",
+    "Sesión 58.md",
     "Sesiones/Sesiones.md",
-    "Darkaler.md",
+    "Xorn.md",
+    "Places/Santuario del fin del mundo.md",
+    "Sesión 57.md",
+    "Briela.md",
+    "Sesiones/Sesión 56.md",
+    "Creatures/Frostborn.md",
     "Characters/Ardyn.md",
+    "escuchar la presencia del espiritu del hielo.md",
+    "Jardines Frostborn.png",
+    "Darkaler.md",
     "Creatures/frostborn_stats.md",
     "Tabaxi.md",
     "Brisa Ignar.md",
@@ -357,13 +301,6 @@
     "Etherealness.md",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
-    "Acheron.md",
-    "Necklace of Lathander.md",
-    "Ysgard.md",
-    "Characters/Dunar Dorin.md",
-    "Dunar.md",
-    "Plano Astral.md",
-    "Plano Feerico.md",
     "Untitled.base",
     "Images/Pasted image 20260324182342.png",
     "Spells",

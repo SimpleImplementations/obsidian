@@ -32,7 +32,7 @@ el bosque dónde se encuentran los elfos del bosque, los cuales se sabe no fuero
 
 
 [[Balin]] destruido emocionalmente, tiene una armadura de la guardia ahora e insignias de capitan, pero sus ojos se ven diferentes.
-A [[Briela ]] la adopta [[Marlavir]]
+A [[Briella]] la adopta [[Marlavir]]
 
 ### [[Aira]] 
 Al dormir sueño con Musa
