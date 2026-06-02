@@ -22,7 +22,77 @@
             }
           },
           {
-            "id": "aeda7a84fda78716",
+            "id": "3d5a1c480b80552d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 56.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 56"
+            }
+          },
+          {
+            "id": "dfb038fb4e68b2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etherealness.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Etherealness"
+            }
+          },
+          {
+            "id": "14b1921a9bf09dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "e88cc2b4312b77d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etherealness.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Etherealness"
+            }
+          },
+          {
+            "id": "0bbc7b90005ddfb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etherealness.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Etherealness"
+            }
+          },
+          {
+            "id": "ed62301d510b3016",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +103,62 @@
               },
               "icon": "lucide-file",
               "title": "Sesión 58"
+            }
+          },
+          {
+            "id": "38b45a98476e3fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesión 57.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 57"
+            }
+          },
+          {
+            "id": "9372eccca8bf6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frostborn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frostborn"
+            }
+          },
+          {
+            "id": "aeda7a84fda78716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Balin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Balin"
+            }
+          },
+          {
+            "id": "b202d0d25f910adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Tromvas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tromvas"
             }
           },
           {
@@ -152,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dragon",
+                "query": "dunar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,13 +368,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Duergar.md",
+                "file": "Characters/Dunar Dorin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Duergar"
+              "title": "Outline of Dunar Dorin"
             }
           }
         ],
@@ -270,19 +396,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0da8046cceb4dd4b",
+  "active": "14b1921a9bf09dd5",
   "lastOpenFiles": [
+    "Characters/Character.md",
+    "Etherealness.md",
+    "Sesiones/Sesión 56.md",
+    "Sesión 58.md",
+    "Characters/Azrakul.md",
+    "Sesiones/Sesiones.md",
+    "Sesión 57.md",
+    "Places/Tromvas.md",
+    "Characters/Balin.md",
+    "Creatures/Frostborn.md",
     "Túneles Internos.md",
+    "Creatures/Duergar.md",
     "Askadar.md",
     "Cloaker.md",
-    "Sesión 58.md",
-    "Sesiones/Sesiones.md",
     "Xorn.md",
     "Places/Santuario del fin del mundo.md",
-    "Sesión 57.md",
     "Briela.md",
-    "Sesiones/Sesión 56.md",
-    "Creatures/Frostborn.md",
     "Characters/Ardyn.md",
     "escuchar la presencia del espiritu del hielo.md",
     "Jardines Frostborn.png",
@@ -293,12 +425,6 @@
     "Sesiones/Sesión 53.md",
     "Sesiones/Sesión 22.md",
     "Characters/Vorg.md",
-    "Characters/Character.md",
-    "Sesiones/Sesión 55.md",
-    "Lore/Anillo de Karr.md",
-    "Mechanics/Tirada Divina.md",
-    "Places/Templo del Olvido.md",
-    "Etherealness.md",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
     "Untitled.base",

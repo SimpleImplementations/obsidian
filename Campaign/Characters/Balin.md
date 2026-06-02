@@ -1,6 +1,6 @@
 *NPC importante.*
 
-Enano del reino de [[Tromvas]]. Viaja con el grupo en un encargo largo y peligroso, en la línea de una «comunidad del anillo»: misión que une a pocos contra un riesgo enorme.
+Enano del reino de [[Tromvas]]. Viaja con el grupo en un encargo largo y peligroso, en la línea de una «comunidcomad del anillo»: misión que une a pocos contra un riesgo enorme.
 
 ### Historia y pérdidas
 

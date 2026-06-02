@@ -42,6 +42,7 @@ Frostborn prefieren los [[Túneles Internos]]
 
 otros datos: Briella puede decirles que el dragon es [[Askadar]], un dragón negro, caído en tiempos antiguos
 
+
 Enemigo de [[Darkaler]]
 
 ## Referencias
@@ -61,4 +62,5 @@ Ideas Futuras Importantes
 * [[Odrik]] se va a [[Ruinas de Valgramoth]] no solo para buscar los objetos, que es lo que a algunos les dice, sino para ver si es posible acceder al portal . Esto se lo hace saber a [[Briella]]. y por eso no quiere usar el teleport.
 * [[Nyxarra]] está reformandose en el [[Plano Infernal]], ya está fisicamente lista y está construyendo un ejercito, pero no saldrá, no tiene apuro en principio, ni control total de la zona
 * 
-* 
+* Ciudad Bárbara
+16 datos orren
