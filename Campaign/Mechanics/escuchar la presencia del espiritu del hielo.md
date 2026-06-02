@@ -17,7 +17,7 @@ sin checkear, cuestionable
     - Planes detallados.
     - El futuro.
     - Verdades absolutas.
-- Funciona mejor en nieve, hielo, frío intenso o guaridas Frostborn.
+- Funciona mejor en nieve, hielo, frío intenso o guaridas [[Frostborn]].
 - Funciona peor en calor, fuego, ciudades o lugares con demasiado “ruido” espiritual.
 - Frase guía:
     - **No leen la mente: leen el peso que alguien deja sobre el hielo.**

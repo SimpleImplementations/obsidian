@@ -4,129 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "9b28032469d3f882",
+        "id": "56e6696c1e29740c",
         "type": "tabs",
         "children": [
           {
-            "id": "f008f7f4f561a828",
+            "id": "252d3ccd346e8fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesiones.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesiones"
-            }
-          },
-          {
-            "id": "3d5a1c480b80552d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 56.md",
+                "file": "Characters/Brisa Ignar.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 56"
+              "title": "Brisa Ignar"
             }
           },
           {
-            "id": "dfb038fb4e68b2f6",
+            "id": "e392dae77433e62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etherealness.md",
+                "file": "Characters/Bulzar.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Etherealness"
+              "title": "Bulzar"
             }
           },
           {
-            "id": "14b1921a9bf09dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dunar Dorin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "e88cc2b4312b77d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etherealness.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Etherealness"
-            }
-          },
-          {
-            "id": "0bbc7b90005ddfb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etherealness.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Etherealness"
-            }
-          },
-          {
-            "id": "ed62301d510b3016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 58.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 58"
-            }
-          },
-          {
-            "id": "38b45a98476e3fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 57.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 57"
-            }
-          },
-          {
-            "id": "9372eccca8bf6e9e",
+            "id": "df3dc3e1668e83b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Creatures/Frostborn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -134,115 +50,17 @@
             }
           },
           {
-            "id": "aeda7a84fda78716",
+            "id": "72461a96759cf38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Balin.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Balin"
-            }
-          },
-          {
-            "id": "b202d0d25f910adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Tromvas.md",
+                "file": "Creatures/Frostborn Stats.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tromvas"
-            }
-          },
-          {
-            "id": "3f40f1f6e8da12ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Túneles Internos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Túneles Internos"
-            }
-          },
-          {
-            "id": "0da8046cceb4dd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Duergar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Duergar"
-            }
-          },
-          {
-            "id": "9a576a660f862567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar"
-            }
-          },
-          {
-            "id": "8ead970ecdaff660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Túneles Internos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Túneles Internos"
-            }
-          },
-          {
-            "id": "1211379a92d7bb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Santuario del fin del mundo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "97dc7263a110e527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 57.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 57"
+              "title": "Frostborn Stats"
             }
           }
         ],
@@ -278,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dunar",
+                "query": "frostborn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -368,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Dunar Dorin.md",
+                "file": "Creatures/Frostborn Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dunar Dorin"
+              "title": "Outline of Frostborn Stats"
             }
           }
         ],
@@ -396,8 +214,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14b1921a9bf09dd5",
+  "active": "72461a96759cf38a",
   "lastOpenFiles": [
+    "Characters/Warlock Tier 2 Stats.md",
+    "Characters/Sorcerer Tier 2 Stats.md",
+    "Creatures/Frostborn.md",
+    "Creatures/Frostborn Stats.md",
+    "Frostborn Stats.md",
+    "Mechanics/escuchar la presencia del espiritu del hielo.md",
+    "Lore/Batalla de Vallestad.md",
+    "Characters/Bulzar Stats.md",
+    "Characters/Bulzar.md",
+    "Characters/brisa_stats.md",
+    "Characters/Ardyn.md",
+    "Characters/Brisa Ignar.md",
+    "Characters/Dunar Dorin.md",
     "Characters/Character.md",
     "Etherealness.md",
     "Sesiones/Sesión 56.md",
@@ -407,24 +238,11 @@
     "Sesión 57.md",
     "Places/Tromvas.md",
     "Characters/Balin.md",
-    "Creatures/Frostborn.md",
     "Túneles Internos.md",
     "Creatures/Duergar.md",
     "Askadar.md",
     "Cloaker.md",
-    "Xorn.md",
-    "Places/Santuario del fin del mundo.md",
-    "Briela.md",
-    "Characters/Ardyn.md",
-    "escuchar la presencia del espiritu del hielo.md",
     "Jardines Frostborn.png",
-    "Darkaler.md",
-    "Creatures/frostborn_stats.md",
-    "Tabaxi.md",
-    "Brisa Ignar.md",
-    "Sesiones/Sesión 53.md",
-    "Sesiones/Sesión 22.md",
-    "Characters/Vorg.md",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
     "Untitled.base",

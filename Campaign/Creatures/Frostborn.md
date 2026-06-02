@@ -3,7 +3,7 @@ tags:
   - creature
 ---
 
-Ficha mecánica: [[frostborn_stats]]
+Ficha mecánica: [[Frostborn Stats]]
 
 Tierras Frostborn:
 ![[Jardines Frostborn.png]]
@@ -160,3 +160,4 @@ También sabés que en ese lugar se encuentra uno de los [[Sha'varuun]]. No sab�
 - “El viajero que pregunta demasiado pronto no busca sabiduría, busca atajos.”
 
 
+[[Frostborn Stats]]

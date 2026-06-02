@@ -50,4 +50,4 @@ Un hechicero consumido por pactos ajenos: mitad ceniza, mitad espectro, con ojos
 
 ## Mecánica
 
-- [[Bulzar Sheet]]
+- [[Bulzar Stats]]
