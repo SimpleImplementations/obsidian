@@ -15,7 +15,7 @@ tags:
 >
 > **AC** 14 (natural armor)
 > **Initiative** +2 (12)
-> **HP** 147 (14d12 + 56)
+> **HP** 300
 > **Speed** 50 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -50,14 +50,12 @@ Un mammoth reanimado como ariete de guerra. La piel cuelga congelada sobre costi
 
 ***Converted Blood.*** Whenever the mammoth rolls damage, it deals an extra 3 (1d6) poison damage as part of that damage roll.
 
-***Poisoned Wound.*** A creature that takes poison damage from the mammoth has its speed reduced by 10 feet until the start of the mammoth's next turn.
+***Poisoned Wound.*** A creature that takes poison damage from the mammoth has its speed halved until the start of the mammoth's next turn. If the creature already has its speed reduced by Poisoned Wound when it takes poison damage from another creature, its speed becomes 0 until the start of that other creature's next turn.
 
 ### Actions
 
-***Multiattack.*** The mammoth makes two Gore attacks.
-
-***Gore.*** *Melee Attack Roll:* +9, reach 10 ft., one target. *Hit:* 18 (2d10 + 7) piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20 feet or more straight toward it immediately before the hit, the target has the Prone condition.
+***Gore.*** *Melee Attack Roll:* **+12**, reach 10 ft., up to three creatures the mammoth can see within reach. The mammoth makes a separate attack roll against each target. *Hit:* **31 (4d10 + 7) piercing damage plus 3 (1d6) poison damage per target.** **If a target is a Huge or smaller creature and the mammoth moved 20 feet or more straight toward it immediately before the hit, that target has the Prone condition.**
 
 ### Bonus Actions
 
-***Trample.*** *Dexterity Saving Throw:* DC 19, one creature within 5 feet that has the Prone condition. *Failure:* 29 (4d10 + 7) bludgeoning damage. *Success:* Half damage.
+***Trample.*** *Dexterity Saving Throw:* **DC 19**, one creature within 5 feet that has the Prone condition. *Failure:* **29 (4d10 + 7) bludgeoning damage plus 3 (1d6) poison damage.** *Success:* Half damage.

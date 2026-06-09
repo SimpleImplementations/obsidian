@@ -13,7 +13,7 @@ tags:
 >
 > **AC** 14 (natural armor)
 > **Initiative** +4 (14)
-> **HP** 14 (4d6)
+> **HP** 3
 > **Speed** 50 ft., climb 50 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -43,10 +43,12 @@ tags:
 
 ***Silent Bones.*** The goblin has advantage on Dexterity (Stealth) checks made to move silently.
 
+***Reckless Frenzy.*** The goblin has advantage on attack rolls. Attack rolls against the goblin have disadvantage.
+
 ***Converted Blood.*** Whenever the goblin rolls damage, it deals an extra 3 (1d6) poison damage as part of that damage roll.
 
-***Poisoned Wound.*** A creature that takes poison damage from the goblin has its speed reduced by 10 feet until the start of the goblin's next turn.
+***Poisoned Wound.*** A creature that takes poison damage from the goblin has its speed halved until the start of the goblin's next turn. If the creature already has its speed reduced by Poisoned Wound when it takes poison damage from another creature, its speed becomes 0 until the start of that other creature's next turn.
 
 ### Actions
 
-***Poisoned Claw.*** *Melee Attack Roll:* +3, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+***Poisoned Claw.*** *Melee Attack Roll:* **+6**, reach 5 ft., one target. *Hit:* **5 (1d6 + 2) slashing damage plus 3 (1d6) poison damage.**

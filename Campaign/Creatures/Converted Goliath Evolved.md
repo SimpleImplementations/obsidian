@@ -13,7 +13,7 @@ tags:
 >
 > **AC** 17 (natural armor)
 > **Initiative** +0 (10)
-> **HP** 130 (13d10 + 52)
+> **HP** 90
 > **Speed** 30 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -40,11 +40,11 @@ tags:
 
 ***Converted Blood.*** Whenever the goliath rolls damage, it deals an extra 3 (1d6) poison damage as part of that damage roll.
 
-***Poisoned Wound.*** A creature that takes poison damage from the goliath has its speed reduced by 10 feet until the start of the goliath's next turn.
+***Poisoned Wound.*** A creature that takes poison damage from the goliath has its speed halved until the start of the goliath's next turn. If the creature already has its speed reduced by Poisoned Wound when it takes poison damage from another creature, its speed becomes 0 until the start of that other creature's next turn.
 
 ### Actions
 
-***Bone Maul.*** *Melee Attack Roll:* +6, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
+***Bone Maul.*** *Melee Attack Roll:* **+9**, reach 10 ft., one target. *Hit:* **15 (2d8 + 6) bludgeoning damage plus 3 (1d6) poison damage.**
 
 ### Reactions
 

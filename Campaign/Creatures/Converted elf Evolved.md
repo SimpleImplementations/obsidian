@@ -13,7 +13,7 @@ tags:
 >
 > **AC** 16 (natural armor)
 > **Initiative** +4 (14)
-> **HP** 68 (8d8 + 32)
+> **HP** 30
 > **Speed** 40 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -41,13 +41,15 @@ tags:
 
 ***Converted Blood.*** Whenever the elf rolls damage, it deals an extra 3 (1d6) poison damage as part of that damage roll.
 
-***Poisoned Wound.*** A creature that takes poison damage from the elf has its speed reduced by 10 feet until the start of the elf's next turn.
+***Poisoned Wound.*** A creature that takes poison damage from the elf has its speed halved until the start of the elf's next turn. If the creature already has its speed reduced by Poisoned Wound when it takes poison damage from another creature, its speed becomes 0 until the start of that other creature's next turn.
 
 ### Actions
 
-***Multiattack.*** The elf makes two Poisoned Bone Blade attacks.
+***Multiattack.*** The elf makes two Poisoned Bone Blade or Poisoned Bone Longbow attacks.
 
-***Poisoned Bone Blade.*** *Melee Attack Roll:* +6, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage.
+***Poisoned Bone Blade.*** *Melee Attack Roll:* +6, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage plus 3 (1d6) poison damage.
+
+***Poisoned Bone Longbow.*** *Ranged Attack Roll:* +6, range 150/600 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage plus 3 (1d6) poison damage.
 
 ### Bonus Actions
 

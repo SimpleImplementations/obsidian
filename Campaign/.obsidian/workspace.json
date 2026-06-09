@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 59.md",
-                "mode": "preview",
+                "file": "Sesiones/Sesión 60.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 59"
+              "title": "Sesión 60"
             }
           },
           {
@@ -228,8 +228,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 59.md",
+                "file": "Sesiones/Sesión 60.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 59"
+              "title": "Outline of Sesión 60"
             }
           }
         ],
@@ -327,8 +326,10 @@
   },
   "active": "252d3ccd346e8fc1",
   "lastOpenFiles": [
-    "Creatures/Converted Mammoth Evolved.md",
+    "Creatures/Converted Evolved.md",
     "Sesiones/Sesión 59.md",
+    "Sesiones/Sesión 60.md",
+    "Creatures/Converted Mammoth Evolved.md",
     "Creatures/Frostborn Stats.md",
     "Characters/Dunar Dorin.md",
     "Creatures/Converted Goliath Evolved.md",
@@ -351,8 +352,6 @@
     "Creatures/Velumhaze.md",
     "Creatures/Beholder.md",
     "Mechanics/Tiradas de Velumhaze.md",
-    "Mechanics/Tirada Divina.md",
-    "Mechanics/Congelación parcial (Frost Worm).md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
