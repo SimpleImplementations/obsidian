@@ -70,7 +70,6 @@ No necesariamente a su espada, pero sí a una idea falsa de sí mismo.
 
 
 
-
 Música: Call of the North - Ugasanie.
 
 ## Referencias

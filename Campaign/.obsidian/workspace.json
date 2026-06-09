@@ -13,44 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Brisa Ignar.md",
+                "file": "Sesiones/Sesión 59.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Brisa Ignar"
+              "title": "Sesión 59"
             }
           },
           {
-            "id": "e392dae77433e62c",
+            "id": "a55f736366740be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bulzar.md",
+                "file": "Creatures/Converted Mammoth Evolved.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bulzar"
+              "title": "Converted Mammoth Evolved"
             }
           },
           {
-            "id": "df3dc3e1668e83b0",
+            "id": "dae3a2ed13329a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "source",
+                "file": "Characters/Character.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frostborn"
+              "title": "Character"
             }
           },
           {
-            "id": "72461a96759cf38a",
+            "id": "4677655e5aee94f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "fd87fd9db5775c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +76,106 @@
               "icon": "lucide-file",
               "title": "Frostborn Stats"
             }
+          },
+          {
+            "id": "e4b41ec6aec82595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted elf Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted elf Evolved"
+            }
+          },
+          {
+            "id": "6d566365f660e8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted Goliath Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goliath Evolved"
+            }
+          },
+          {
+            "id": "d2e051e8b9d89bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted Goblin. Bone Creaper Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goblin. Bone Creaper Evolved"
+            }
+          },
+          {
+            "id": "94b00838d87d1ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted elf Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted elf Evolved"
+            }
+          },
+          {
+            "id": "f008023043a9e428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Converted Goblin. Bone Creaper Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goblin. Bone Creaper Evolved"
+            }
+          },
+          {
+            "id": "fdef6f4693f4f269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mireya.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mireya"
+            }
+          },
+          {
+            "id": "a65d59b333f7f746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thassyr.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thassyr"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frostborn",
+                "query": "dunar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Frostborn Stats.md",
+                "file": "Sesiones/Sesión 59.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Frostborn Stats"
+              "title": "Outline of Sesión 59"
             }
           }
         ],
@@ -214,34 +325,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72461a96759cf38a",
+  "active": "252d3ccd346e8fc1",
   "lastOpenFiles": [
-    "Characters/Warlock Tier 2 Stats.md",
-    "Characters/Sorcerer Tier 2 Stats.md",
-    "Creatures/Frostborn.md",
+    "Creatures/Converted Mammoth Evolved.md",
+    "Sesiones/Sesión 59.md",
     "Creatures/Frostborn Stats.md",
-    "Frostborn Stats.md",
-    "Mechanics/escuchar la presencia del espiritu del hielo.md",
-    "Lore/Batalla de Vallestad.md",
-    "Characters/Bulzar Stats.md",
-    "Characters/Bulzar.md",
-    "Characters/brisa_stats.md",
-    "Characters/Ardyn.md",
-    "Characters/Brisa Ignar.md",
     "Characters/Dunar Dorin.md",
+    "Creatures/Converted Goliath Evolved.md",
+    "Creatures/Converted elf Evolved.md",
     "Characters/Character.md",
-    "Etherealness.md",
-    "Sesiones/Sesión 56.md",
-    "Sesión 58.md",
-    "Characters/Azrakul.md",
-    "Sesiones/Sesiones.md",
-    "Sesión 57.md",
-    "Places/Tromvas.md",
-    "Characters/Balin.md",
-    "Túneles Internos.md",
-    "Creatures/Duergar.md",
-    "Askadar.md",
-    "Cloaker.md",
+    "Creatures/Converted Goblin. Bone Creaper Evolved.md",
+    "Lore/Anillo de Karr.md",
+    "Characters/Vorg.md",
+    "Characters/Mireya.md",
+    "Characters/Thassyr.md",
+    "Tools/Music.md",
+    "Tools/Nombres.md",
+    "Tools/Index.md",
+    "Characters/Bulzar.md",
+    "Sesiones/Sesión 57.md",
+    "items/Hongo curativo.md",
+    "Odrik.md",
+    "Hongo curativo.md",
+    "Characters/Odrik.md",
+    "Creatures/Velumhaze.md",
+    "Creatures/Beholder.md",
+    "Mechanics/Tiradas de Velumhaze.md",
+    "Mechanics/Tirada Divina.md",
+    "Mechanics/Congelación parcial (Frost Worm).md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",

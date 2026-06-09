@@ -52,10 +52,12 @@ Mecánica del **[[Frostborn]]**. La descripción y el uso en campaña van en esa
 - **2/Day Each:** [*ice storm*](https://www.aidedd.org/spell/ice-storm), [*invisibility*](https://www.aidedd.org/spell/invisibility)
 - **1/Day Each:** [*cone of cold*](https://www.aidedd.org/spell/cone-of-cold), [*fly*](https://www.aidedd.org/spell/fly)
 
+***Conserved Breath (3/Day).*** The frostborn chooses one creature it can see within 30 feet. The target gains 21 (4d8 + 3) temporary hit points, which last for 1 hour.
+
 ### Bonus Actions
 
 ***Misty Step (3/Day).*** The frostborn casts [*misty step*](https://www.aidedd.org/spell/misty-step), using the same spellcasting ability as Spellcasting.
 
 ### Reactions
 
-***Protective Magic (3/Day).*** The frostborn casts [*counterspell*](https://www.aidedd.org/spell/counterspell) or [*shield*](https://www.aidedd.org/spell/shield) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+***Witnessing Ice (3/Day).*** When a creature the frostborn can see within 30 feet is hit by an attack, the frostborn sheaths the target in spectral ice. The target gains a +5 bonus to AC against the triggering attack, potentially causing it to miss, and keeps that bonus until the start of the target's next turn.

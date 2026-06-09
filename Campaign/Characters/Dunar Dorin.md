@@ -17,7 +17,7 @@ Hombre de confianza de [[Ulfgar Dientelobo]].
 > | |
 > | - |
 > **AC** 16 (chain shirt, shield)
-> **HP** 39 (6d8 + 12)
+> **HP**40 (6d8 + 12)
 > **Speed** 30 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
