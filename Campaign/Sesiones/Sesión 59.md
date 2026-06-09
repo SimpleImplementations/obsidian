@@ -34,3 +34,6 @@ algo la agarra a Brisa y Lenzo salta a bucarla
 los goblins siempre regeneran en su turno +9
 los goliath regeneran 3 con 5 y 6 
 los arqueros regeneran 3 con 5 y 6
+
+Musica
+Shadow of Intent — elegy

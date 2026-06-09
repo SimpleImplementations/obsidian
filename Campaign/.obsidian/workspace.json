@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 60.md",
-                "mode": "source",
+                "file": "Tools/Music.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 60"
+              "title": "Music"
             }
           },
           {
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 60.md",
+                "file": "Tools/Music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 60"
+              "title": "Outline of Music"
             }
           }
         ],
@@ -326,9 +326,9 @@
   },
   "active": "252d3ccd346e8fc1",
   "lastOpenFiles": [
+    "Sesiones/Sesión 60.md",
     "Creatures/Converted Evolved.md",
     "Sesiones/Sesión 59.md",
-    "Sesiones/Sesión 60.md",
     "Creatures/Converted Mammoth Evolved.md",
     "Creatures/Frostborn Stats.md",
     "Characters/Dunar Dorin.md",
