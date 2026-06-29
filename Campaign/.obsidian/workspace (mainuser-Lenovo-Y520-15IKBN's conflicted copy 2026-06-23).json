@@ -13,8 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Creatures/Converted Mammoth Evolved.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Converted Mammoth Evolved"
+            }
+          },
+          {
+            "id": "a55f736366740be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sesiones/Sesiones.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,21 +36,7 @@
             }
           },
           {
-            "id": "3cde4564eeb8ebda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 61.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 61"
-            }
-          },
-          {
-            "id": "db3e7bc0d330e3f5",
+            "id": "dae3a2ed13329a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "1db06dfa4bdaa943",
+            "id": "4677655e5aee94f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,105 +64,119 @@
             }
           },
           {
-            "id": "43dd747bfa484345",
+            "id": "fd87fd9db5775c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Anillo de Karr.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Anillo de Karr"
-            }
-          },
-          {
-            "id": "cef4cdfa40834219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 57.md",
+                "file": "Creatures/Frostborn Stats.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 57"
+              "title": "Frostborn Stats"
             }
           },
           {
-            "id": "c03d6f3ede1d2098",
+            "id": "e4b41ec6aec82595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Frostborn.md",
+                "file": "Creatures/Converted elf Evolved.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frostborn"
+              "title": "Converted elf Evolved"
             }
           },
           {
-            "id": "4af4efae81cdb2e5",
+            "id": "6d566365f660e8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 58.md",
+                "file": "Creatures/Converted Goliath Evolved.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 58"
+              "title": "Converted Goliath Evolved"
             }
           },
           {
-            "id": "0480083edc9be1ec",
+            "id": "d2e051e8b9d89bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 59.md",
+                "file": "Creatures/Converted Goblin. Bone Creaper Evolved.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 59"
+              "title": "Converted Goblin. Bone Creaper Evolved"
             }
           },
           {
-            "id": "cb3f4e80bb7dfd1e",
+            "id": "94b00838d87d1ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 60.md",
+                "file": "Creatures/Converted elf Evolved.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 60"
+              "title": "Converted elf Evolved"
             }
           },
           {
-            "id": "37ee1fd221360159",
+            "id": "f008023043a9e428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "source",
+                "file": "Creatures/Converted Goblin. Bone Creaper Evolved.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frostborn"
+              "title": "Converted Goblin. Bone Creaper Evolved"
+            }
+          },
+          {
+            "id": "fdef6f4693f4f269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mireya.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mireya"
+            }
+          },
+          {
+            "id": "a65d59b333f7f746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thassyr.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thassyr"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesión 61.md",
+                "file": "Characters/Dunar Dorin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 61"
+              "title": "Outline of Dunar Dorin"
             }
           }
         ],
@@ -312,34 +325,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cde4564eeb8ebda",
+  "active": "4677655e5aee94f0",
   "lastOpenFiles": [
-    "Characters/Character.md",
-    "Characters/Dunar Dorin.md",
-    "Sesión 61.md",
-    "Sesiones/Sesión 57.md",
-    "Sesiones/Sesiones.md",
-    "Lore/Anillo de Karr.md",
-    "Creatures/Frostborn.md",
-    "Sesiones/Sesión 60.md",
-    "Sesiones/Sesión 59.md",
-    "Sesiones/Sesión 58.md",
-    "Tools/Music.md",
-    "Creatures/Converted Evolved.md",
-    "Creatures/Converted Mammoth Evolved.md",
-    "Creatures/Frostborn Stats.md",
-    "Creatures/Converted Goliath Evolved.md",
     "Creatures/Converted elf Evolved.md",
+    "Characters/Dunar Dorin.md",
+    "Creatures/Frostborn Stats.md",
+    "Creatures/Converted Mammoth Evolved.md",
+    "Creatures/Converted Goliath Evolved.md",
+    "Sesiones/Sesiones.md",
+    "Sesiones/Sesión 59.md",
+    "Characters/Character.md",
     "Creatures/Converted Goblin. Bone Creaper Evolved.md",
+    "Lore/Anillo de Karr.md",
     "Characters/Vorg.md",
     "Characters/Mireya.md",
     "Characters/Thassyr.md",
+    "Tools/Music.md",
     "Tools/Nombres.md",
     "Tools/Index.md",
     "Characters/Bulzar.md",
+    "Sesiones/Sesión 57.md",
     "items/Hongo curativo.md",
     "Odrik.md",
     "Hongo curativo.md",
+    "Characters/Odrik.md",
+    "Creatures/Velumhaze.md",
+    "Creatures/Beholder.md",
+    "Mechanics/Tiradas de Velumhaze.md",
+    "Mechanics/Tirada Divina.md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
