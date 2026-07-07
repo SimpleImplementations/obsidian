@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "56e6696c1e29740c",
+        "id": "fd4935b6dee0f39a",
         "type": "tabs",
         "children": [
           {
-            "id": "252d3ccd346e8fc1",
+            "id": "f0b617ce997a90ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesiones.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sesiones"
-            }
-          },
-          {
-            "id": "3cde4564eeb8ebda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 61.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 61"
-            }
-          },
-          {
-            "id": "db3e7bc0d330e3f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Character"
-            }
-          },
-          {
-            "id": "1db06dfa4bdaa943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dunar Dorin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "43dd747bfa484345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Anillo de Karr.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Anillo de Karr"
-            }
-          },
-          {
-            "id": "cef4cdfa40834219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 57.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 57"
-            }
-          },
-          {
-            "id": "c03d6f3ede1d2098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn"
-            }
-          },
-          {
-            "id": "4af4efae81cdb2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 58.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 58"
-            }
-          },
-          {
-            "id": "0480083edc9be1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 59.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 59"
-            }
-          },
-          {
-            "id": "cb3f4e80bb7dfd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 60.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 60"
-            }
-          },
-          {
-            "id": "37ee1fd221360159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dunar",
+                "query": "delake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesión 61.md",
+                "file": "Sesiones/Sesión 62.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 61"
+              "title": "Outline of Sesión 62"
             }
           }
         ],
@@ -312,34 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cde4564eeb8ebda",
+  "active": "3b353cff00ba9875",
   "lastOpenFiles": [
+    "Characters/Player Characters/Delaken.md",
+    "Places/Santuario del fin del mundo.md",
+    "Mechanics/Tirada Divina.md",
+    "Lore/Anillo de Karr.md",
+    "Sesiones/Sesión 62.md",
+    "Characters/Balin.md",
+    "Lore/Anillo de Karr y Ardyn.md",
+    "Characters/Barbaros Goliath/Barbaros Goliath.md",
+    "Creatures/Converted Goblin. Bone Creaper.md",
+    "Images/tromvas-mapa.png",
+    "Places/Tromvas.md",
+    "Lore/Batalla de Vallestad.md",
+    "Characters/Mireya.md",
+    "Sesiones/Sesión 58.md",
+    "Sesiones/Sesión 61.md",
+    "Creatures/Darkaler.md",
+    "Sesiones/Sesión 59.md",
+    "Sesiones/Sesión 60.md",
+    "Characters/Thassyr Stats.md",
+    "Characters/Mireya Stats.md",
     "Characters/Character.md",
     "Characters/Dunar Dorin.md",
     "Sesión 61.md",
     "Sesiones/Sesión 57.md",
     "Sesiones/Sesiones.md",
-    "Lore/Anillo de Karr.md",
     "Creatures/Frostborn.md",
-    "Sesiones/Sesión 60.md",
-    "Sesiones/Sesión 59.md",
-    "Sesiones/Sesión 58.md",
     "Tools/Music.md",
-    "Creatures/Converted Evolved.md",
-    "Creatures/Converted Mammoth Evolved.md",
-    "Creatures/Frostborn Stats.md",
-    "Creatures/Converted Goliath Evolved.md",
-    "Creatures/Converted elf Evolved.md",
-    "Creatures/Converted Goblin. Bone Creaper Evolved.md",
-    "Characters/Vorg.md",
-    "Characters/Mireya.md",
-    "Characters/Thassyr.md",
-    "Tools/Nombres.md",
-    "Tools/Index.md",
-    "Characters/Bulzar.md",
-    "items/Hongo curativo.md",
-    "Odrik.md",
-    "Hongo curativo.md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
@@ -353,7 +208,6 @@
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
-    "Images/lago-helado.jpg",
     "Templates",
     "Places/Traslagorn",
     "Places/Special",

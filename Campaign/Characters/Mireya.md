@@ -1,47 +1,24 @@
 ---
 tags:
   - character
-  - stats
 ---
 
-> [!infobox|left clean wmed static]
-> # Mireya
-> *Medium or Small humanoid, sorcerer tier 2*
->
-> | |
-> | - |
->
-> **AC** 16 (with Mage Armor)
-> **HP** 58 (9d6 + 27)
-> **Speed** 30 ft.
->
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 8 | -1 | -1 | **INT** | 10 | +0 | +0 |
-> | **DEX** | 16 | +3 | +3 | **WIS** | 12 | +1 | +1 |
-> | **CON** | 16 | +3 | +6 | **CHA** | 18 | +4 | +7 |
->
-> **Saving Throws** CON +6, CHA +7
-> **Skills** Arcana +3, Intimidation +7, Perception +4
-> **Senses** Passive Perception 14
-> **Languages** Common and any one other language
-> **CR** 5 (XP 1,800; PB +3)
+Hechicera dracónida negra tier 2.
 
-### Traits
+**Descripción breve:**  
+Una dracónida negra de presencia firme y modales caballerosos, hecha para dar órdenes sin alzar la voz: determinada, sobria y cada vez más la referencia visible del santuario desde la ausencia de [[Bulzar]] y [[Vesper Quill]].
 
-***Metamagic.*** Mireya can manipulate her spells in the following ways:
+Llegó al santuario siendo más joven y más orgullosa, convencida de que la disciplina era solo otra forma de control. El tiempo la volvió menos impulsiva y más consciente del peso de sostener a otros, incluso cuando no le corresponde por rango sino por carácter.
 
-- ***Subtle Spell (3/Day).*** Mireya casts a spell, ignoring any somatic or verbal components.
-- ***Twinned Spell (2/Day).*** Mireya casts a spell that only targets one creature and doesn't have a range of self. The spell can instead target two creatures within the spell's range.
+- **Linaje / apariencia**: dracónida negra; rasgos marcados y presencia limpia, sin adornos innecesarios.
+- **Escamas**: negras, de brillo sobrio más que vistoso; bien cuidadas, con una impresión de disciplina antes que vanidad.
+- **Porte**: recta, contenida, segura; se mueve como alguien acostumbrada a que otros la miren para orientarse.
+- **Mirada**: atenta y evaluadora; rara vez transmite duda, incluso cuando está midiendo riesgos.
+- **Voz**: firme y clara; habla con cortesía, pero con tono de quien espera ser escuchada.
+- **Modales**: caballerosa, correcta y protectora; trata a los demás con respeto incluso cuando los está poniendo en su lugar.
+- **Personalidad**: determinada, responsable y poco afecta al dramatismo; prefiere resolver antes que impresionar.
+- **Rol actual**: con [[Bulzar]] y [[Vesper Quill]] fuera de escena, es una de las figuras que más naturalmente ordena, contiene y marca dirección dentro del santuario.
 
-***Simplified Spellcasting.*** Mireya's spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). She uses only the following utility spells:
+## Mecánica
 
-- **At Will:** [*mage hand*](https://www.aidedd.org/spell/mage-hand)
-- **2/Day:** [*invisibility*](https://www.aidedd.org/spell/invisibility)
-- **1/Day:** [*suggestion*](https://www.aidedd.org/spell/suggestion)
-
-### Actions
-
-***Dagger.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
-
-***Arcane Spark.*** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 13 (2d8 + 4) lightning damage.
+- [[Mireya Stats]]
