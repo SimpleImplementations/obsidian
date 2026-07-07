@@ -4,6 +4,7 @@ tags:
 ---
 
 Ficha mecánica: [[Frostborn Stats]]
+Mecánica de grupo: [[Frostborn Group Stats]]
 
 Tierras Frostborn:
 ![[Jardines Frostborn.png]]

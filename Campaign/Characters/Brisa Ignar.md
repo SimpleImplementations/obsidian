@@ -19,4 +19,4 @@ Una joven hechicera altiva y luminosa, de mirada desafiante y sonrisa de superio
 
 ## Mecánica
 
-- [[brisa_stats]]
+- [[Brisa Stats]]

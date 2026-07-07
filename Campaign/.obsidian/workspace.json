@@ -11,10 +11,252 @@
             "id": "f0b617ce997a90ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 63.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sesión 63"
+            }
+          },
+          {
+            "id": "9b56ac06625ce0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thassyr Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thassyr Stats"
+            }
+          },
+          {
+            "id": "1f5c3a0752f1685e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frostborn Group Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frostborn Group Stats"
+            }
+          },
+          {
+            "id": "0ee94ae8d19cddac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Frostborn Group Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frostborn Group Stats"
+            }
+          },
+          {
+            "id": "3af80fb356132b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "547572a5a5f59312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "d59620b368fe0435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Askadar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar"
+            }
+          },
+          {
+            "id": "e690207def57c42e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Askadar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar"
+            }
+          },
+          {
+            "id": "977efb7b5c7f4900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar Stats Phase 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 1"
+            }
+          },
+          {
+            "id": "1dbca63b709c7f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar Stats Phase 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 1"
+            }
+          },
+          {
+            "id": "4f19bc7353b62959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "df4e5c8fdc1eca16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Briella Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Briella Stats"
+            }
+          },
+          {
+            "id": "42ee2488a5b0bb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Brisa Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Brisa Stats"
+            }
+          },
+          {
+            "id": "db378588ee7da5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mireya Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mireya Stats"
+            }
+          },
+          {
+            "id": "ab423701a053b8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Thassyr Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Thassyr Stats"
+            }
+          },
+          {
+            "id": "8046f9bb86621e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Brisa Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Brisa Stats"
+            }
+          },
+          {
+            "id": "537533ff930cdb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Darkaler.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Darkaler"
+            }
+          },
+          {
+            "id": "26235c55b1ee82e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar Stats Phase 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 1"
             }
           }
         ]
@@ -138,13 +380,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 62.md",
+                "file": "Sesiones/Sesión 63.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 62"
+              "title": "Outline of Sesión 63"
             }
           }
         ],
@@ -166,35 +408,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b353cff00ba9875",
+  "active": "f0b617ce997a90ef",
   "lastOpenFiles": [
+    "Characters/Thassyr Stats.md",
+    "Sesiones/Sesión 63.md",
+    "Creatures/Frostborn Group Stats.md",
+    "Characters/Dunar Dorin.md",
+    "Creatures/Askadar.md",
+    "Askadar Stats Phase 2.md",
+    "Askadar Stats Phase 1.md",
+    "Characters/Briella Stats.md",
+    "Characters/Brisa Stats.md",
+    "Creatures/Frostborn Stats.md",
+    "Frostborn Group Stats.md",
+    "Creatures/Frostborn.md",
+    "Characters/Mireya Stats.md",
+    "Creatures/Darkaler.md",
+    "Characters/brisa_stats.md",
+    "Darkaler Stats.md",
+    "Sesiones/Sesión 62.md",
     "Characters/Player Characters/Delaken.md",
     "Places/Santuario del fin del mundo.md",
     "Mechanics/Tirada Divina.md",
     "Lore/Anillo de Karr.md",
-    "Sesiones/Sesión 62.md",
     "Characters/Balin.md",
     "Lore/Anillo de Karr y Ardyn.md",
     "Characters/Barbaros Goliath/Barbaros Goliath.md",
     "Creatures/Converted Goblin. Bone Creaper.md",
     "Images/tromvas-mapa.png",
     "Places/Tromvas.md",
-    "Lore/Batalla de Vallestad.md",
-    "Characters/Mireya.md",
-    "Sesiones/Sesión 58.md",
-    "Sesiones/Sesión 61.md",
-    "Creatures/Darkaler.md",
-    "Sesiones/Sesión 59.md",
-    "Sesiones/Sesión 60.md",
-    "Characters/Thassyr Stats.md",
-    "Characters/Mireya Stats.md",
-    "Characters/Character.md",
-    "Characters/Dunar Dorin.md",
-    "Sesión 61.md",
-    "Sesiones/Sesión 57.md",
-    "Sesiones/Sesiones.md",
-    "Creatures/Frostborn.md",
-    "Tools/Music.md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",

@@ -11,8 +11,8 @@ tags:
 > | |
 > | - |
 >
-> **AC** 16 (with Mage Armor)
-> **HP** 58 (9d6 + 27)
+> **AC** 16 (con Mage Armor)
+> **HP** 58
 > **Speed** 30 ft.
 >
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -20,28 +20,42 @@ tags:
 > | **STR** | 8 | -1 | -1 | **INT** | 10 | +0 | +0 |
 > | **DEX** | 16 | +3 | +3 | **WIS** | 12 | +1 | +1 |
 > | **CON** | 16 | +3 | +6 | **CHA** | 18 | +4 | +7 |
->
-> **Saving Throws** CON +6, CHA +7
-> **Skills** Arcana +3, Intimidation +7, Perception +4
-> **Senses** Passive Perception 14
-> **Languages** Common and any one other language
-> **CR** 5 (XP 1,800; PB +3)
 
-### Traits
+---
 
-***Metamagic.*** Mireya can manipulate her spells in the following ways:
+## Acción principal — elegí una
 
-- ***Subtle Spell (3/Day).*** Mireya casts a spell, ignoring any somatic or verbal components.
-- ***Twinned Spell (2/Day).*** Mireya casts a spell that only targets one creature and doesn't have a range of self. The spell can instead target two creatures within the spell's range.
+**Opción A: Arcane Spark**
+Ataque de hechizo a distancia. +7 al ataque, rango 120 ft. Daño: **2d8 + 4** de rayo.
 
-***Simplified Spellcasting.*** Mireya's spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). She uses only the following utility spells:
+**Opción B: Lanzar un spell** *(ver lista abajo)*
 
-- **At Will:** [*mage hand*](https://www.aidedd.org/spell/mage-hand)
-- **2/Day:** [*invisibility*](https://www.aidedd.org/spell/invisibility)
-- **1/Day:** [*suggestion*](https://www.aidedd.org/spell/suggestion)
+---
 
-### Actions
+## Bonus Action
 
-***Dagger.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+**Twinned Spell** *(2/día)*
+Cuando lanza un spell que apunta a un solo objetivo: lo aplica a **dos objetivos** al mismo tiempo dentro del mismo rango.
 
-***Arcane Spark.*** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 13 (2d8 + 4) lightning damage.
+---
+
+## Spells
+
+**Mage Hand** *(a voluntad)*
+Crea una mano espectral flotante dentro de 30 ft. Puede manipular objetos, abrir puertas, llevar cosas livianas. No puede atacar.
+
+**Invisibility** *(2/día)*
+Una criatura que toca se vuelve invisible por 1 hora, o hasta que ataque o lance un hechizo. Concentración.
+
+**Suggestion** *(1/día)*
+Elige una criatura que pueda oírla dentro de 30 ft. Le sugiere una acción razonable con palabras mágicas. La criatura debe tirar **salvación de SAB DC 15** o seguir la sugerencia por hasta 8 horas. Concentración. No funciona si la sugerencia es claramente dañina para ella.
+
+---
+
+## Metamagic
+
+**Subtle Spell** *(3/día)*
+Lanza cualquier spell sin componentes verbales ni somáticos. Nadie puede notar que está hechizando.
+
+**Twinned Spell** *(2/día)*
+Ver Bonus Action arriba.
