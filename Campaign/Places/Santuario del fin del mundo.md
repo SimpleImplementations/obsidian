@@ -7,12 +7,13 @@ integrantes
 
 ### Hechiceros (7)
 - Mireya Selt (dracónida) — Melliza; sangre arcano que se manifiesta en calor y luz, siempre va un paso al lado de su hermano y odia separarse en misiones. MESA
-- Darian Selt (dracónido) — Mellizo de Mireya; el mismo don duplicado en otro cuerpo, impulsivo donde ella calcula, y viceversa.
+- Darian Selt (dracónido) — Mellizo de Mireya; el mismo don duplicado en otro cuerpo, impulsivo donde ella calcula, y viceversa. dead
 - [[Brisa Ignar]] (humana) — Hechicera de linaje de trueno, hija de [[Bulzar]] y media hermana de [[Lenzo]] (otra madre); creció oyendo el mar en [[Puerto Tempestad]] y niega que el parentesco la defina.
 - Eldric Fane (elfo) — Origen dracónico débil pero refinado; colecciona reliquias de la batalla de Translagorn y habla poco de su sangre.
 - Sorine Ashvale (elfa) — Metamágica nata; vendió años de servicio al santuario a cambio de protección cuando huía de acreedores de magia prohibida. MESA
 - Jago Mireth (humano) — Wild Magic impredecible; el resto del grupo sabe llevarlo de la correa cuando explota una ola de color en combate. tiene air buble
-- Yelenna Cor (tiefling) — Abisal en la mirada; su poder brota como marea bajo la piel y evita espejos desde que despertó.
+- Yelenna Cor (tiefling) — Abisal en la mirada; su poder brota como marea bajo la piel y evita espejos desde que despertó. Dead
+- Dalina 
 
 ### Brujos (4)
 - Vesper Quill (enano) — Pacto con entidad que susurra en tinta; archivero del santuario y guarda expedientes en los que [[Bulzar]] aparece sin que el vínculo quede del todo claro. MESA

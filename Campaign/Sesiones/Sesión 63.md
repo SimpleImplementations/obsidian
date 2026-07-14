@@ -33,6 +33,8 @@ Aethergelu
 [[Warlock Tier 2 Stats]]  
 [[Sorcerer Tier 2 Stats]]  
 
+fin del mundo
+Morrick Dain
 
 
 
@@ -99,3 +101,6 @@ Perception CD 20 o menos: un recuento de enemigos; hay cientos, quizás miles, a
 
 
 # Tiradas Vorg
+delaken 18
+aira 24
+

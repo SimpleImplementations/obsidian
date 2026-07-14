@@ -22,17 +22,143 @@
             }
           },
           {
-            "id": "9b56ac06625ce0d0",
+            "id": "514468698500b4b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Thassyr Stats.md",
+                "file": "Characters/Ardyn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Thassyr Stats"
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "f9876593239b1329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "54b645e731f5e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dunar Dorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
+            }
+          },
+          {
+            "id": "23760f055a39b829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "89f95d916511b2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "items/Pluma de Musa.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pluma de Musa"
+            }
+          },
+          {
+            "id": "a24cb9ef63404a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "04fa2ca1eb25d06f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Downtime"
+            }
+          },
+          {
+            "id": "dd9d9711c95936d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "7ad3d8d29bbb1d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Santuario del fin del mundo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
+            "id": "dfbfb1f3f4141a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Santuario del fin del mundo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
             }
           },
           {
@@ -291,7 +417,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delake",
+                "query": "dunar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,7 +438,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -410,10 +537,18 @@
   },
   "active": "f0b617ce997a90ef",
   "lastOpenFiles": [
-    "Characters/Thassyr Stats.md",
+    "Characters/Ardyn.md",
     "Sesiones/Sesión 63.md",
-    "Creatures/Frostborn Group Stats.md",
+    "Characters/Character.md",
     "Characters/Dunar Dorin.md",
+    "Mechanics/Downtime.md",
+    "items/Pluma de Musa.md",
+    "items/Darilotio's Book of Rituals.md",
+    "Places/Santuario del fin del mundo.md",
+    "Combates/Combate contra Coverted Troll.md",
+    "Creatures/Converted Goblin. Bone Creaper.md",
+    "Characters/Thassyr Stats.md",
+    "Creatures/Frostborn Group Stats.md",
     "Creatures/Askadar.md",
     "Askadar Stats Phase 2.md",
     "Askadar Stats Phase 1.md",
@@ -428,15 +563,7 @@
     "Darkaler Stats.md",
     "Sesiones/Sesión 62.md",
     "Characters/Player Characters/Delaken.md",
-    "Places/Santuario del fin del mundo.md",
-    "Mechanics/Tirada Divina.md",
-    "Lore/Anillo de Karr.md",
-    "Characters/Balin.md",
-    "Lore/Anillo de Karr y Ardyn.md",
-    "Characters/Barbaros Goliath/Barbaros Goliath.md",
-    "Creatures/Converted Goblin. Bone Creaper.md",
     "Images/tromvas-mapa.png",
-    "Places/Tromvas.md",
     "Jardines Frostborn.png",
     "tabaxi image.png",
     "Pasted image 20260421164528.png",
