@@ -4,388 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4935b6dee0f39a",
+        "id": "3297f97730b382bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f0b617ce997a90ef",
+            "id": "188eabd954d6d3ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 63.md",
+                "file": "Sesiones/Sesión 64.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 63"
+              "title": "Sesión 64"
             }
           },
           {
-            "id": "514468698500b4b3",
+            "id": "2e0a85f9b1baf27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ardyn.md",
+                "file": "Creatures/Frostborn Stats.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ardyn"
+              "title": "Frostborn Stats"
             }
           },
           {
-            "id": "f9876593239b1329",
+            "id": "dc0aa25c4fa0ee78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character.md",
+                "file": "Characters/Orren el putrefacto.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Orren el putrefacto"
             }
           },
           {
-            "id": "54b645e731f5e5a3",
+            "id": "d48aa43f16921ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Dunar Dorin.md",
+                "file": "Characters/Orren el putrefacto.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "23760f055a39b829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Downtime.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Downtime"
-            }
-          },
-          {
-            "id": "89f95d916511b2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "items/Pluma de Musa.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Pluma de Musa"
-            }
-          },
-          {
-            "id": "a24cb9ef63404a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Downtime.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Downtime"
-            }
-          },
-          {
-            "id": "04fa2ca1eb25d06f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Downtime.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Downtime"
-            }
-          },
-          {
-            "id": "dd9d9711c95936d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ardyn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ardyn"
-            }
-          },
-          {
-            "id": "7ad3d8d29bbb1d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Santuario del fin del mundo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "dfbfb1f3f4141a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Santuario del fin del mundo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "1f5c3a0752f1685e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn Group Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn Group Stats"
-            }
-          },
-          {
-            "id": "0ee94ae8d19cddac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Frostborn Group Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frostborn Group Stats"
-            }
-          },
-          {
-            "id": "3af80fb356132b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dunar Dorin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "547572a5a5f59312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dunar Dorin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "d59620b368fe0435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Askadar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar"
-            }
-          },
-          {
-            "id": "e690207def57c42e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Askadar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar"
-            }
-          },
-          {
-            "id": "977efb7b5c7f4900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar Stats Phase 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar Stats Phase 1"
-            }
-          },
-          {
-            "id": "1dbca63b709c7f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar Stats Phase 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar Stats Phase 1"
-            }
-          },
-          {
-            "id": "4f19bc7353b62959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Dunar Dorin.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dunar Dorin"
-            }
-          },
-          {
-            "id": "df4e5c8fdc1eca16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Briella Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Briella Stats"
-            }
-          },
-          {
-            "id": "42ee2488a5b0bb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Brisa Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Brisa Stats"
-            }
-          },
-          {
-            "id": "db378588ee7da5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Mireya Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mireya Stats"
-            }
-          },
-          {
-            "id": "ab423701a053b8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Thassyr Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Thassyr Stats"
-            }
-          },
-          {
-            "id": "8046f9bb86621e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Brisa Stats.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Brisa Stats"
-            }
-          },
-          {
-            "id": "537533ff930cdb7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Darkaler.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Darkaler"
-            }
-          },
-          {
-            "id": "26235c55b1ee82e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar Stats Phase 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar Stats Phase 1"
+              "title": "Orren el putrefacto"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -417,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dunar",
+                "query": "craw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -507,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 63.md",
+                "file": "Characters/Orren el putrefacto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 63"
+              "title": "Outline of Orren el putrefacto"
             }
           }
         ],
@@ -535,10 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0b617ce997a90ef",
+  "active": "2115bdbdaf74cff8",
   "lastOpenFiles": [
-    "Characters/Ardyn.md",
+    "Sesiones/Sesión 64.md",
+    "Lore/Batalla de Vallestad.md",
+    "Mechanics/escuchar la presencia del espiritu del hielo.md",
+    "Creatures/Frostborn.md",
+    "Creatures/Frostborn Stats.md",
+    "Creatures/Askadar.md",
+    "Characters/Orren el putrefacto.md",
     "Sesiones/Sesión 63.md",
+    "Characters/Ardyn.md",
     "Characters/Character.md",
     "Characters/Dunar Dorin.md",
     "Mechanics/Downtime.md",
@@ -549,20 +235,13 @@
     "Creatures/Converted Goblin. Bone Creaper.md",
     "Characters/Thassyr Stats.md",
     "Creatures/Frostborn Group Stats.md",
-    "Creatures/Askadar.md",
     "Askadar Stats Phase 2.md",
     "Askadar Stats Phase 1.md",
     "Characters/Briella Stats.md",
     "Characters/Brisa Stats.md",
-    "Creatures/Frostborn Stats.md",
     "Frostborn Group Stats.md",
-    "Creatures/Frostborn.md",
     "Characters/Mireya Stats.md",
     "Creatures/Darkaler.md",
-    "Characters/brisa_stats.md",
-    "Darkaler Stats.md",
-    "Sesiones/Sesión 62.md",
-    "Characters/Player Characters/Delaken.md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",
