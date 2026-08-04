@@ -29,7 +29,7 @@ Arrancamos en el portal
 Llegamos a otro espacio similar Frostborn, con más Frostborn aún y el resto del grupo. Entre ellos 
 [[Briella]] 
 [[Mireya]] (Dracónida)
-[[Vesper]] Brujo Enano
+[[Vesper Quill]] Brujo Enano
 [[Thassyr]] (Enano) (Dije algo de él?)
 [[Brenn]] humano hombre
 [[Nami]] humano mujer

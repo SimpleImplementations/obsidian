@@ -8,63 +8,175 @@
         "type": "tabs",
         "children": [
           {
-            "id": "188eabd954d6d3ed",
+            "id": "5d99b0b5dc00ac6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 64.md",
+                "file": "Sesiones/Sesión 65.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 64"
+              "title": "Sesión 65"
             }
           },
           {
-            "id": "2e0a85f9b1baf27d",
+            "id": "209a3e112234ccd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Frostborn Stats.md",
+                "file": "Combate En Las Puertas De Tromvas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frostborn Stats"
+              "title": "Combate En Las Puertas De Tromvas"
             }
           },
           {
-            "id": "dc0aa25c4fa0ee78",
+            "id": "b993f4af89deb810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Orren el putrefacto.md",
+                "file": "Characters/Briella Stats.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Orren el putrefacto"
+              "title": "Briella Stats"
             }
           },
           {
-            "id": "d48aa43f16921ddb",
+            "id": "2606343f5cfcee5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Orren el putrefacto.md",
+                "file": "Characters/Vesper Quill.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Orren el putrefacto"
+              "title": "Vesper Quill"
+            }
+          },
+          {
+            "id": "efb5dbea8cad9519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Vesper Quill Stats.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Vesper Quill Stats"
+            }
+          },
+          {
+            "id": "cbc6880332daeed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Santuario del fin del mundo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
+            "id": "145c94d7ba0e05e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ardyn.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ardyn"
+            }
+          },
+          {
+            "id": "38ef14b8a9d1872c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Salto.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "El Salto"
+            }
+          },
+          {
+            "id": "a2dcb0b1da23f867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Santuario del fin del mundo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Santuario del fin del mundo"
+            }
+          },
+          {
+            "id": "abbc0087fe0a7a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate En Las Puertas De Tromvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate En Las Puertas De Tromvas"
+            }
+          },
+          {
+            "id": "3df8144aab5bfd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lingering Injury.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lingering Injury"
+            }
+          },
+          {
+            "id": "795bfa3c74af6be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate Askadar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate Askadar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "craw",
+                "query": "briella",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Orren el putrefacto.md",
+                "file": "Combate En Las Puertas De Tromvas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orren el putrefacto"
+              "title": "Outline of Combate En Las Puertas De Tromvas"
             }
           }
         ],
@@ -214,34 +326,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2115bdbdaf74cff8",
+  "active": "209a3e112234ccd2",
   "lastOpenFiles": [
+    "Sesiones/Sesión 65.md",
+    "Characters/Briella Stats.md",
     "Sesiones/Sesión 64.md",
+    "Characters/Briella.md",
+    "Characters/Vesper Quill.md",
+    "Characters/Vesper Quill Stats.md",
+    "Places/Santuario del fin del mundo.md",
+    "Vesper.md",
+    "El Salto.md",
+    "Characters/Ardyn.md",
+    "Combate En Las Puertas De Tromvas.md",
+    "Lingering Injury.md",
+    "Combate Askadar.md",
+    "Mechanics/Lingering Injury (Frostbite).md",
+    "Characters/Orren el putrefacto.md",
     "Lore/Batalla de Vallestad.md",
     "Mechanics/escuchar la presencia del espiritu del hielo.md",
     "Creatures/Frostborn.md",
     "Creatures/Frostborn Stats.md",
     "Creatures/Askadar.md",
-    "Characters/Orren el putrefacto.md",
     "Sesiones/Sesión 63.md",
-    "Characters/Ardyn.md",
     "Characters/Character.md",
     "Characters/Dunar Dorin.md",
     "Mechanics/Downtime.md",
     "items/Pluma de Musa.md",
     "items/Darilotio's Book of Rituals.md",
-    "Places/Santuario del fin del mundo.md",
-    "Combates/Combate contra Coverted Troll.md",
-    "Creatures/Converted Goblin. Bone Creaper.md",
-    "Characters/Thassyr Stats.md",
-    "Creatures/Frostborn Group Stats.md",
-    "Askadar Stats Phase 2.md",
-    "Askadar Stats Phase 1.md",
-    "Characters/Briella Stats.md",
-    "Characters/Brisa Stats.md",
-    "Frostborn Group Stats.md",
-    "Characters/Mireya Stats.md",
-    "Creatures/Darkaler.md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",

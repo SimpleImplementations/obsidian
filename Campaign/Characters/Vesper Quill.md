@@ -17,4 +17,4 @@ Un enano de ojos oscuros y voz de madera vieja, con la sensación de que algo ve
 
 ## Mecánica
 
-- [[Warlock Tier 1]]
+- [[Vesper Quill Stats]]
