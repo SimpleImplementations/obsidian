@@ -27,3 +27,53 @@
 
 
 
+Enanas
+Astrid Flintvein
+Brynja Ashhammer
+Helga Goldbraid
+Sif Runecarver
+Ingrid Deepforge
+Kara Stonefist
+Eira Frostbeard
+Hilda Coalmantle
+Gudrun Ironroot
+Yrsa Graniteheart
+Disa Copperhand
+Runa Oakshield
+Brenna Silverpick
+Torvi Highdelve
+Frida Strongarm
+Alva Emberforge
+Oddny Mossbeard
+Hlin Firevein
+Skadi Runehammer
+⚒️ Enanos
+Kargan Steelbrow
+Thrain Coalbeard
+Orsik Flinthammer
+Garrik Deepdelver
+Hadrik Stonefury
+Norik Goldvein
+Vondar Ashshield
+Baelor Copperaxe
+Grimnar Blackpick
+Keldor Ironmantle
+Rurik Frostforge
+Malgrim Runebeard
+Brokk Embermaul
+Dorek Stonewarden
+Kazdor Flintshield
+Harbek Forgeborn
+Ulrik Anvilguard
+Morgran Cragfist
+Falgrim Ironoak
+Dolrik Deepstone
+Kromar Hammerfall
+Brundek Moltenbeard
+Varric Rockmaul
+Gundar Silveraxe
+Torbek Granitehelm
+Orgrim Firepick
+Bardek Stoutarm
+Dorn Blackforge
+Hrogar Ironshield

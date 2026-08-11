@@ -13,5 +13,3 @@ _Light Armor, very rare (attunement by druid)_
 **Rootbind.** If reduced to 0 HP by nonmagical physical damage, roots cover you, leaving you unconscious but stable. The roots then wither until regrown. 1 de vida después del minuto
 
 **Regrowth.** Components return after 8 hours in sunlight.
-
-![[verdant-living-armor.png]]

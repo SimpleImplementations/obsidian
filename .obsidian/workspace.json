@@ -1,24 +1,38 @@
 {
   "main": {
-    "id": "f099ec31a996f9e9",
+    "id": "6f2692224cdc45a1",
     "type": "split",
     "children": [
       {
-        "id": "641e2560a6c7a894",
+        "id": "72ec30b20126f295",
         "type": "tabs",
         "children": [
           {
-            "id": "efab25b27cf2445b",
+            "id": "5cdbc1cb447075f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lingering Injury.md",
-                "mode": "preview",
-                "source": true
+                "file": "Campaign/Sesiones/Sesión 66.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Lingering Injury"
+              "title": "Sesión 66"
+            }
+          },
+          {
+            "id": "1a7ba699cee95f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Characters/Dunar Dorin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dunar Dorin"
             }
           }
         ]
@@ -27,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a03e0bb47eb741a1",
+    "id": "c97de86b9c58b1c0",
     "type": "split",
     "children": [
       {
-        "id": "a2f73d5cae283898",
+        "id": "82fd457c146923d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3b353cff00ba9875",
+            "id": "7b3c3af890f8d2a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +64,12 @@
             }
           },
           {
-            "id": "2115bdbdaf74cff8",
+            "id": "d3590acc4ee1bf00",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tromvas",
+                "query": "dunar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,71 +81,75 @@
             }
           },
           {
-            "id": "cd2a43c242cdb24b",
+            "id": "7f8e3122eb0eddfb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 300
   },
   "right": {
-    "id": "6f1ad780388b1abd",
+    "id": "3f2d13b3456b3c4e",
     "type": "split",
     "children": [
       {
-        "id": "5244ba3a2f67bf53",
+        "id": "3ec20a9816fec600",
         "type": "tabs",
         "children": [
           {
-            "id": "b4faf317d1990929",
+            "id": "af27076aea71864b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Balin.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Campaign/Sesiones/Sesión 66.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Balin"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5bf0912a0eec883f",
+            "id": "fe9ebf9ec9b204dd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Balin.md",
+                "file": "Campaign/Sesiones/Sesión 66.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Balin"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e0892440e57fbf69",
+            "id": "d963777857eec509",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -139,12 +157,26 @@
             }
           },
           {
-            "id": "e8259221957efb91",
+            "id": "bcb9520fdc095b2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "852b0c2e8c84970f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lingering Injury.md",
+                "file": "Campaign/Sesiones/Sesión 66.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -153,73 +185,28 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "3b353cff00ba9875",
+  "active": "5cdbc1cb447075f4",
   "lastOpenFiles": [
-    "Combate En Las Puertas De Tromvas.md",
-    "Characters/Player Characters/Aira.md",
-    "Places/Tromvas.md",
-    "Characters/Bulzar.md",
-    "Characters/Balin.md",
-    "items/Fungi Living Armor.md",
-    "Sesiones/Sesión 66.md",
-    "items/Verdant Living Armor.md",
-    "Characters/Thorgar Oakbeard.md",
-    "Lingering Injury.md",
-    "Combate interior de las Puertas.md",
-    "Characters/Carbón.md",
-    "Characters/Brokk Embermaul.md",
-    "Characters/Magda Blackanvil.md",
-    "Sesiones/Sesión 65.md",
-    "Characters/Briella Stats.md",
-    "Sesiones/Sesión 64.md",
-    "Characters/Briella.md",
-    "Characters/Vesper Quill.md",
-    "Characters/Vesper Quill Stats.md",
-    "Places/Santuario del fin del mundo.md",
-    "Vesper.md",
-    "El Salto.md",
-    "Characters/Ardyn.md",
-    "Combate Askadar.md",
-    "Mechanics/Lingering Injury (Frostbite).md",
-    "Images/tromvas-mapa.png",
-    "Jardines Frostborn.png",
-    "tabaxi image.png",
-    "Pasted image 20260421164528.png",
-    "Untitled.base",
-    "Images/Pasted image 20260324182342.png",
-    "Spells",
-    "Images/will-o-wisp-susurros-nieve.png",
-    "Images/Frost Worm.png",
-    "Characters/Barbaros Goliath",
-    "Combates",
-    "Images/Pasted image 20250212000423.png",
-    "Images/Pasted image 20250805050944.png",
-    "Images/tumba-haldor.png",
-    "Templates",
-    "Places/Traslagorn",
-    "Places/Special",
-    "Characters/Player Characters",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.canvas"
+    "Campaign/Characters/Character.md",
+    "Campaign/Sesiones/Sesión 66.md",
+    "Campaign/Characters/Dunar Dorin.md"
   ]
 }

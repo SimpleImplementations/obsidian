@@ -48,6 +48,27 @@ Un hechicero consumido por pactos ajenos: mitad ceniza, mitad espectro, con ojos
 - Talismán de cadenas naranjas vivas enrolladas en su mano
 - Aura de fuego corrompido (calor irregular, ceniza latente)
 
+## Los Cuatro Pactos de Bulzar
+
+- **Ashkar, el Dragón de Ceniza**
+    - **Tipo:** Dragón rojo primordial.
+    - **Dominio:** Fuego y destrucción.
+    - **Precio:** Su cuerpo se consume lentamente.
+- **Nhal'Zereth, el Señor de las Cadenas**
+    - **Tipo:** Archidiablo.
+    - **Dominio:** Pactos y almas.
+    - **Precio:** Las voces de sus víctimas habitan en él.
+- **Vorul, el Rey del Vacío Hambriento**
+    - **Tipo:** Entidad del Far Realm.
+    - **Dominio:** Locura y corrupción.
+    - **Precio:** Pierde fragmentos de su humanidad.
+- **Khar-Malek, el Devorador de Soles**
+    - **Tipo:** Titán caído.
+    - **Dominio:** Ruina, conquista y desesperación.
+    - **Precio:** Alimenta un deseo constante de dominar y destruir.
+
+Los cuatro son entidades antiguas y malignas. Bulzar no les sirve por lealtad: es el recipiente donde sus pactos conviven, luchando entre sí por reclamar su alma.
+
 ## Mecánica
 
 - [[Bulzar Stats]]
