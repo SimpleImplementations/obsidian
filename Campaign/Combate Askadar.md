@@ -28,3 +28,6 @@ Morrick Dain
 [[Thassyr]]
 [[Mireya]]
 [[Anillo de Karr]]
+
+# Disingage de dragon
+Acrobatics para escapar CD 15

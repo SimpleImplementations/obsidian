@@ -3,7 +3,7 @@
 **Initiative** +16 (26)
 
 **AC** 22
-**HP** 183
+**HP** 300
 **Speed** 40 ft., Fly 320 ft., Swim 40 ft.
 
 | | MOD | SAVE | | MOD | SAVE | | MOD | SAVE |

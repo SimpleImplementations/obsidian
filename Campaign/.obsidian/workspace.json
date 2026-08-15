@@ -13,15 +13,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lingering Injury.md",
+                "file": "Sesiones/Sesión 67.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 67"
+            }
+          },
+          {
+            "id": "7c40c616be781f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate en el Interior de Tromvas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lingering Injury"
+              "title": "Combate en el Interior de Tromvas"
+            }
+          },
+          {
+            "id": "7d17eb05661ee764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate Askadar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate Askadar"
+            }
+          },
+          {
+            "id": "c687b771077582a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar Stats Phase 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 2"
+            }
+          },
+          {
+            "id": "44385301ed509e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Askadar Stats Phase 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 1"
+            }
+          },
+          {
+            "id": "a666495155e79577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Askadar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Askadar"
+            }
+          },
+          {
+            "id": "ad545bde8886fd5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Tromvas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tromvas"
+            }
+          },
+          {
+            "id": "5c4a4e36d043a077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate en el Interior de Tromvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate en el Interior de Tromvas"
+            }
+          },
+          {
+            "id": "fb9b8dc412fea676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate En Las Puertas De Tromvas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combate En Las Puertas De Tromvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tromvas",
+                "query": "Ylga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +189,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lingering Injury.md",
+                "file": "Combate en el Interior de Tromvas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,18 +286,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b353cff00ba9875",
+  "active": "7c40c616be781f6f",
   "lastOpenFiles": [
-    "Combate En Las Puertas De Tromvas.md",
-    "Characters/Player Characters/Aira.md",
+    "Places/Tesoros Tromvas.md",
+    "Sesiones/Sesión 67.md",
+    "Creatures/Askadar.md",
     "Places/Tromvas.md",
+    "Combate Askadar.md",
+    "Askadar Stats Phase 2.md",
+    "Askadar Stats Phase 1.md",
+    "Combate en el Interior de Tromvas.md",
+    "Creatures/Defender Drone.md",
+    "Combate En Las Puertas De Tromvas.md",
+    "Lingering Injury.md",
+    "Characters/Player Characters/Aira.md",
     "Characters/Bulzar.md",
     "Characters/Balin.md",
     "items/Fungi Living Armor.md",
     "Sesiones/Sesión 66.md",
     "items/Verdant Living Armor.md",
     "Characters/Thorgar Oakbeard.md",
-    "Lingering Injury.md",
     "Combate interior de las Puertas.md",
     "Characters/Carbón.md",
     "Characters/Brokk Embermaul.md",
@@ -192,14 +314,6 @@
     "Characters/Briella Stats.md",
     "Sesiones/Sesión 64.md",
     "Characters/Briella.md",
-    "Characters/Vesper Quill.md",
-    "Characters/Vesper Quill Stats.md",
-    "Places/Santuario del fin del mundo.md",
-    "Vesper.md",
-    "El Salto.md",
-    "Characters/Ardyn.md",
-    "Combate Askadar.md",
-    "Mechanics/Lingering Injury (Frostbite).md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",

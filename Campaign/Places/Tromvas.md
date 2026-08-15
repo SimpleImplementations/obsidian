@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=pbvjEHbjohI # Parte profunda
 
 [[Underdark]]
 
+[[Tesoros Tromvas]]
+
 Muy al sur de Tromvas hay otra ciudad. [[Cálimba]]. esta comercia más con los [[Frostborn]] y los dragonborn de [[Puerto Tempestad]]
 #### Personajes
 
@@ -55,10 +57,7 @@ se ganó su propio título
 Líder de un bastión cercano a un volcán. Su clan trabaja metales ígneos y doma salamandras. Tiene ambiciones sutiles.
 
 [[Ylga Coinbraid]]  
-**Título:** Maestra del Gremio de Comerciantes  
-Magnate del comercio de mithril, gemas y pólvora. Muy influyente y peligrosa en la política interna del reino.
-
-
+**Título:** Maestra del Gremio
 
 **The Maze (El Laberinto)**  
 Una red mortal de corredores retorcidos y con trampas, diseñada para confundir y retrasar a los intrusos. Solo aquellos guiados por parientes o que porten tokens secretos del Salón pueden esperar sobrevivir sus caminos cambiantes.

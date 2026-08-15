@@ -13,26 +13,194 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sesiones/Sesión 66.md",
+                "file": "Campaign/Sesiones/Sesión 67.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 66"
+              "title": "Sesión 67"
             }
           },
           {
-            "id": "1a7ba699cee95f6c",
+            "id": "a9f4e9c0fb4f450e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Characters/Dunar Dorin.md",
+                "file": "Campaign/Combate Askadar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dunar Dorin"
+              "title": "Combate Askadar"
+            }
+          },
+          {
+            "id": "63024666665464e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
+            }
+          },
+          {
+            "id": "d5f4a619dbd9c965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
+            }
+          },
+          {
+            "id": "ef72430784930bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Creatures/Converted Goblin. Bone Creaper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goblin. Bone Creaper"
+            }
+          },
+          {
+            "id": "675844e4e8b4f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Lore/Batalla de Vallestad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batalla de Vallestad"
+            }
+          },
+          {
+            "id": "891481be69f9ee15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Characters/Briella.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Briella"
+            }
+          },
+          {
+            "id": "8674aebb0cb71b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Places/Tesoros Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tesoros Tromvas"
+            }
+          },
+          {
+            "id": "42c85289a40224b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combate en el Interior de Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate en el Interior de Tromvas"
+            }
+          },
+          {
+            "id": "fd5cdf98ef794789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combate En Las Puertas De Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate En Las Puertas De Tromvas"
+            }
+          },
+          {
+            "id": "31a7d48fbaf816de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combate en el Interior de Tromvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate en el Interior de Tromvas"
+            }
+          },
+          {
+            "id": "d94b957e3ba85656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Askadar Stats Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 2"
+            }
+          },
+          {
+            "id": "4cf38a2a587ce3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Askadar Stats Phase 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Askadar Stats Phase 1"
+            }
+          },
+          {
+            "id": "cf7737246de8b502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/items/Fungi Living Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fungi Living Armor"
             }
           }
         ]
@@ -69,7 +237,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dunar",
+                "query": "guardian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,10 +371,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "5cdbc1cb447075f4",
+  "active": "d3590acc4ee1bf00",
   "lastOpenFiles": [
-    "Campaign/Characters/Character.md",
+    "Campaign/Combate Askadar.md",
+    "Campaign/Sesiones/Sesión 67.md",
+    "Campaign/Combates/Combate contra Coverted Troll.md",
+    "Campaign/Creatures/Converted Goblin. Bone Creaper.md",
+    "Campaign/Lore/Batalla de Vallestad.md",
+    "Campaign/Characters/Briella.md",
+    "Campaign/Places/Tesoros Tromvas.md",
+    "Campaign/Combate en el Interior de Tromvas.md",
+    "Campaign/Combate En Las Puertas De Tromvas.md",
     "Campaign/Sesiones/Sesión 66.md",
-    "Campaign/Characters/Dunar Dorin.md"
+    "Campaign/items/Fungi Living Armor.md",
+    "Campaign/Askadar Stats Phase 2.md",
+    "Campaign/Askadar Stats Phase 1.md",
+    "Campaign/Characters/Dunar Dorin.md",
+    "Campaign/Characters/Character.md"
   ]
 }
