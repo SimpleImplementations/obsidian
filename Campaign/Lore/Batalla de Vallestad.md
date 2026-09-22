@@ -1,4 +1,4 @@
-Nota de repaso: conflicto en torno a [[Vallestad]] y [[Valdebruma]], con apoyo político y militar desde [[Tromvas]] (sin entrar humanos a la ciudad enana). Sesiones recientes: grupo alejado del asedio, camino hacia [[Elaria]] / [[Traslagorn]].
+Nota  de repaso: conflicto en torno a [[Vallestad]] y [[Valdebruma]], con apoyo político y militar desde [[Tromvas]] (sin entrar humanos a la ciudad enana). Sesiones recientes: grupo alejado del asedio, camino hacia [[Elaria]] / [[Traslagorn]].
 
 ## Corte y defensa (humanos, [[Vallestad]])
 

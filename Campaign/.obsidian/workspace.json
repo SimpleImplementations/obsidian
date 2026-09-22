@@ -4,137 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "641e2560a6c7a894",
+        "id": "41f0a12b98d2c596",
         "type": "tabs",
         "children": [
           {
-            "id": "efab25b27cf2445b",
+            "id": "2e8f9647652a2af8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 67.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sesión 67"
-            }
-          },
-          {
-            "id": "7c40c616be781f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate en el Interior de Tromvas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate en el Interior de Tromvas"
-            }
-          },
-          {
-            "id": "7d17eb05661ee764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate Askadar.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate Askadar"
-            }
-          },
-          {
-            "id": "c687b771077582a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar Stats Phase 2.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar Stats Phase 2"
-            }
-          },
-          {
-            "id": "44385301ed509e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Askadar Stats Phase 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar Stats Phase 1"
-            }
-          },
-          {
-            "id": "a666495155e79577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Askadar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Askadar"
-            }
-          },
-          {
-            "id": "ad545bde8886fd5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Tromvas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tromvas"
-            }
-          },
-          {
-            "id": "5c4a4e36d043a077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate en el Interior de Tromvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate en el Interior de Tromvas"
-            }
-          },
-          {
-            "id": "fb9b8dc412fea676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate En Las Puertas De Tromvas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combate En Las Puertas De Tromvas"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,7 +140,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combate en el Interior de Tromvas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -286,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c40c616be781f6f",
+  "active": "3b353cff00ba9875",
   "lastOpenFiles": [
+    "Combate Askadar.md",
     "Places/Tesoros Tromvas.md",
     "Sesiones/Sesión 67.md",
     "Creatures/Askadar.md",
     "Places/Tromvas.md",
-    "Combate Askadar.md",
     "Askadar Stats Phase 2.md",
     "Askadar Stats Phase 1.md",
     "Combate en el Interior de Tromvas.md",

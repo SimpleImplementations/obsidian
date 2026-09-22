@@ -1,4 +1,4 @@
-[[Tromvas]]
+}[[Tromvas]]
 
 ## Aposentos Marlavir
 - Biblioteca personal chica, llena de libros, apuntes y escritos arcanos.
