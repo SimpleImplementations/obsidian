@@ -17,3 +17,5 @@ Uno en el [[Santuario del fin del mundo]]
 Teleporting Circle
 En el [[Santuario del fin del mundo]] está [[El Salto]]
 [[Umbral de Escarcha]]
+
+Valdrias Islas

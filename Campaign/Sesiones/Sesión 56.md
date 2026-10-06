@@ -22,7 +22,7 @@ Musica: Antti Martikainen — _Northern Steel_
 Musica; Ori and the blind forest. recordar que la primera la uso de pivot en Arborea
 Luego llega a una casita de hongo donde está [[Musa]] en forma de Gnoma
 
-[[Ardyn]] al [[Acheron]]: battlefield epico, esqueletos por doquier, columnas de piedra, todo flotando en la nada, una voz que le habla y lo guía por el lugar. La idea es que esta voz de proponga una solución a su pacto con [[Azrakul]], pero no una solución a quedarse con los poderes, eso va a tener que conseguirlo por su cuenta. lo lleva caminando por el lugar. Esqueletos le saltan encima, ve joyas pero no debe agarrarlas, la voz le avisa, el debe hacer caso o se va del plano. Si llega a la Joya final, es una joya gris, que parece que nada vale. Le permitirá castear [[Etherealness]] una vez por short rest. y ahí se lanza una batalla dónde el ve que la piedra se activa y es etereo mientras esqueletos orcos y tiefliengs y humanos pelean y notá allí su invulnerabilidad. 
+[[Ardyn]] al [[Acheron]]: battlefield epico, esqueletos por doquier, columnas de piedra, todo flotando en la nada, una voz que le habla y lo guía por el lugar.[^mordrith] La idea es que esta voz de proponga una solución a su pacto con [[Azrakul]], pero no una solución a quedarse con los poderes, eso va a tener que conseguirlo por su cuenta. lo lleva caminando por el lugar. Esqueletos le saltan encima, ve joyas pero no debe agarrarlas, la voz le avisa, el debe hacer caso o se va del plano. Si llega a la Joya final, es una joya gris, que parece que nada vale. Le permitirá castear [[Etherealness]] una vez por short rest. y ahí se lanza una batalla dónde el ve que la piedra se activa y es etereo mientras esqueletos orcos y tiefliengs y humanos pelean y notá allí su invulnerabilidad. 
 hacer un espacio de pelea minimo para posterior irse de "plano" aunque al estar en el acheron eso podría ser ver las caras de los guerreros que se cruza lo llaman Nightflare
 
 Nightflare
@@ -64,3 +64,5 @@ NOTAS
 [[Odrik]] en valgramoth no pudo responder
 maldivia alguien a quien contactan creo
 katrip alguien a quien contactan creo
+
+[^mordrith]: Más tarde esta entidad quedó nombrada como [[Mordrith]].
