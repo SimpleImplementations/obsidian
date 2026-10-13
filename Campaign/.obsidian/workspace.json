@@ -4,235 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "41f0a12b98d2c596",
+        "id": "014078dcd24aebcd",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8f9647652a2af8",
+            "id": "87cb3027ca7cf196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 72.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 72"
-            }
-          },
-          {
-            "id": "9eb2f428fd2f5f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viaje al plano Astral.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Viaje al plano Astral"
-            }
-          },
-          {
-            "id": "291be002777ef14a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Resurrección de Marlavir.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Resurrección de Marlavir"
-            }
-          },
-          {
-            "id": "8700c6da92beafba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Blob of Annihilation.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Blob of Annihilation"
-            }
-          },
-          {
-            "id": "951edc939a657a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Soldering Construct.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Soldering Construct"
-            }
-          },
-          {
-            "id": "199f2542cd609fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Soldering Construct.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Soldering Construct"
-            }
-          },
-          {
-            "id": "341be08e2dacc389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Resurrección de Marlavir.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Resurrección de Marlavir"
-            }
-          },
-          {
-            "id": "6f2ef9feb788817f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Music.md",
+                "file": "Sesiones/Sesión 73.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Music"
-            }
-          },
-          {
-            "id": "59094c88c7e2bb51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personajes Tromvas Aftermath.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personajes Tromvas Aftermath"
-            }
-          },
-          {
-            "id": "c713c3407d1ac4b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personajes Tromvas Aftermath.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personajes Tromvas Aftermath"
-            }
-          },
-          {
-            "id": "475a57b3b8a19f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personajes Tromvas Aftermath.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personajes Tromvas Aftermath"
-            }
-          },
-          {
-            "id": "bfa9bb837f89a7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 56.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 56"
-            }
-          },
-          {
-            "id": "4bb9c75205f19966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Santuario del fin del mundo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Santuario del fin del mundo"
-            }
-          },
-          {
-            "id": "869011949db23f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Traslagorn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traslagorn"
-            }
-          },
-          {
-            "id": "c14e5c7509399dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personajes Tromvas Aftermath.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personajes Tromvas Aftermath"
-            }
-          },
-          {
-            "id": "250f7c4618c4c79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personajes Tromvas Aftermath.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Personajes Tromvas Aftermath"
+              "title": "Sesión 73"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viaje al plano Astral.md",
+                "file": "Sesiones/Sesión 73.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -383,11 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb2f428fd2f5f68",
+  "active": "87cb3027ca7cf196",
   "lastOpenFiles": [
+    "Characters/Mordrith.md",
+    "Mechanics/Tirada Divina.md",
+    "Characters/Player Characters/Delaken.md",
+    "Valedro.md",
+    "Sesiones/Sesión 73.md",
+    "Viaje al plano Astral.md",
     "Sesiones/Sesión 72.md",
     "Lore/Resurrección de Marlavir.md",
-    "Viaje al plano Astral.md",
     "Creatures/Blob of Annihilation.md",
     "Creatures/Soldering Construct.md",
     "Sesiones/Sesión 71.md",
@@ -398,7 +192,6 @@
     "Personajes Tromvas Aftermath.md",
     "Lagmagnar.md",
     "Characters/Orren Stats.md",
-    "Characters/Mordrith.md",
     "Sesiones/Sesión 56.md",
     "Places/Santuario del fin del mundo.md",
     "mixkit-evil-storm-atmosphere-2404.wav",
@@ -408,10 +201,6 @@
     "Sesiones/Sesión 67.md",
     "Creatures/Askadar.md",
     "Places/Tromvas.md",
-    "Askadar Stats Phase 2.md",
-    "Askadar Stats Phase 1.md",
-    "Combate en el Interior de Tromvas.md",
-    "Creatures/Defender Drone.md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",
