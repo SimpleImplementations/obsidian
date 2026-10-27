@@ -51,4 +51,7 @@ Erevan Galandir
 
 el grupo de [[Eryndor Celestia]] llega después
 
+## Extras
+[[Half Plate Mithral Armor]]
+
 # postmortem
