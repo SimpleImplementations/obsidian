@@ -3,44 +3,36 @@ tags:
   - creature
 ---
 
-> [!infobox|left clean wmed static]
-> # Goblin Minion
->
-> *Small Fey (Goblinoid), Chaotic Neutral*
->
-> | |
-> | - |
->
-> **AC** 12
-> **Initiative** +2 (12)
-> **HP** 7 (2d6)
-> **Speed** 30 ft.
->
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 8 | -1 | -1 | **INT** | 10 | +0 | +0 |
-> | **DEX** | 15 | +2 | +2 | **WIS** | 8 | -1 | -1 |
-> | **CON** | 10 | +0 | +0 | **CHA** | 8 | -1 | -1 |
->
-> **Skills** Stealth +6
-> **Gear** Daggers (3)
-> **Senses** Darkvision 60 ft., Passive Perception 9
-> **Languages** Common, Goblin
-> **CR** 1/8 (XP 25; PB +2)
->
-> | |
-> | - |
->
-> **Habitat**
-> **Treasure**
-
-### Actions
-
-***Dagger.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. *Hit:* 4 (1d4 + 2) Piercing damage.
-
-### Bonus Actions
-
-***Nimble Escape.*** The goblin takes the Disengage or Hide action.
+```statblock
+layout: 5e 2024
+columnWidth: 340
+name: Goblin Minion
+size: Small
+type: Fey
+subtype: Goblinoid
+alignment: Chaotic Neutral
+initiative: "+2 (12)"
+ac: 12
+hp: 7
+hit_dice: "2d6"
+speed: "30 ft."
+stats: [8, 15, 10, 10, 8, 8]
+skillsaves:
+  - stealth: 6
+gear: "Daggers (3)"
+senses: "Darkvision 60 ft., Passive Perception 9"
+languages: "Common, Goblin"
+cr: "1/8"
+cr_detail: "XP 25; PB +2"
+actions:
+  - name: Dagger
+    desc: |-
+      *Melee or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. *Hit:* 4 (1d4 + 2) Piercing damage.
+bonus_actions:
+  - name: Nimble Escape
+    desc: |-
+      The goblin takes the Disengage or Hide action.
+```
 
 ### Subraza: Goblin de las nieves
 
@@ -50,5 +42,5 @@ Los **goblins de las nieves** son astutas criaturas de piel azulada y pelaje gru
 
 Existen algunos que han dominado la magia incluso.
 
-![[goblin-frost.png|250]]
-![[goblin-frost-sorcerer.jpeg|250]]
+[[goblin-frost.png]]
+[[goblin-frost-sorcerer.jpeg]]

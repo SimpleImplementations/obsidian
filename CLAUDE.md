@@ -10,6 +10,7 @@ Antes de crear, mover o reorganizar notas, leer el doc que corresponda en `docs/
 
 - `docs/estructura.md` — qué va en cada carpeta de `Campaign/`, notas nuevas en `Unsorted/`, enlaces y nombres únicos.
 - `docs/sesiones.md` — cómo crear una sesión nueva, el índice y `Camino de la Party`.
+- `docs/statblocks.md` — formato de stat blocks (Fantasy Statblocks, layout `5e 2024`) y reglas para convertir/crear.
 - `docs/git.md` — commits y push.
 - `docs/obsidian-ui.md` — ver qué está abierto en Obsidian y abrir notas (solo si lo pido; nunca cerrar lo abierto).
 

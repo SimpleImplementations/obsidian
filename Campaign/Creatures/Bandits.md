@@ -3,38 +3,29 @@ tags:
   - creature
 ---
 
-> [!infobox|left clean wmed static]
-> # Bandit
->
-> *Medium or Small Humanoid, Neutral*
->
-> | |
-> | - |
->
-> **AC** 12
-> **Initiative** +1 (11)
-> **HP** 11 (2d8 + 2)
-> **Speed** 30 ft.
->
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 11 | +0 | +0 | **INT** | 10 | +0 | +0 |
-> | **DEX** | 12 | +1 | +1 | **WIS** | 10 | +0 | +0 |
-> | **CON** | 12 | +1 | +1 | **CHA** | 10 | +0 | +0 |
->
-> **Gear** Leather Armor, Light Crossbow, Scimitar
-> **Senses** Passive Perception 10
-> **Languages** Common, Thieves' Cant
-> **CR** 1/8 (XP 25; PB +2)
->
-> | |
-> | - |
->
-> **Habitat**
-> **Treasure**
-
-### Actions
-
-***Scimitar.*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing damage.
-
-***Light Crossbow.*** *Ranged Attack Roll:* +3, range 80/320 ft. *Hit:* 5 (1d8 + 1) Piercing damage.
+```statblock
+layout: 5e 2024
+columnWidth: 340
+name: Bandit
+size: Medium or Small
+type: Humanoid
+alignment: Neutral
+initiative: "+1 (11)"
+ac: 12
+hp: 11
+hit_dice: "2d8 + 2"
+speed: "30 ft."
+stats: [11, 12, 12, 10, 10, 10]
+gear: "Leather Armor, Light Crossbow, Scimitar"
+senses: "Passive Perception 10"
+languages: "Common, Thieves' Cant"
+cr: "1/8"
+cr_detail: "XP 25; PB +2"
+actions:
+  - name: Scimitar
+    desc: |-
+      *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing damage.
+  - name: Light Crossbow
+    desc: |-
+      *Ranged Attack Roll:* +3, range 80/320 ft. *Hit:* 5 (1d8 + 1) Piercing damage.
+```

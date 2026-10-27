@@ -4,38 +4,35 @@ tags:
   - stats
 ---
 
-> [!infobox|left clean wmed static]
-> # Mireya
-> *Medium or Small humanoid, sorcerer tier 2*
->
-> | |
-> | - |
->
-> **AC** 16 (con Mage Armor)
-> **HP** 58
-> **Speed** 30 ft.
->
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 8 | -1 | -1 | **INT** | 10 | +0 | +0 |
-> | **DEX** | 16 | +3 | +3 | **WIS** | 12 | +1 | +1 |
-> | **CON** | 16 | +3 | +6 | **CHA** | 18 | +4 | +7 |
-
----
-
-## Acción principal — elegí una
-
-**Opción A: Arcane Spark**
-Ataque de hechizo a distancia. +7 al ataque, rango 120 ft. Daño: **2d8 + 4** de rayo.
-
-**Opción B: Lanzar un spell** *(ver lista abajo)*
-
----
-
-## Bonus Action
-
-**Twinned Spell** *(2/día)*
-Cuando lanza un spell que apunta a un solo objetivo: lo aplica a **dos objetivos** al mismo tiempo dentro del mismo rango.
+```statblock
+layout: 5e 2024
+columnWidth: 340
+name: Mireya
+size: Medium or Small
+type: humanoid
+alignment: sorcerer tier 2
+ac: 16
+ac_class: con Mage Armor
+hp: 58
+speed: "30 ft."
+stats: [8, 16, 16, 10, 12, 18]
+saves:
+  - constitution: 6
+  - charisma: 7
+actions:
+  - name: Acción principal — elegí una
+    desc: ""
+  - name: "Opción A: Arcane Spark"
+    desc: |-
+      Ataque de hechizo a distancia. +7 al ataque, rango 120 ft. Daño: **2d8 + 4** de rayo.
+  - name: "Opción B: Lanzar un spell"
+    desc: |-
+      *(ver lista abajo)*
+bonus_actions:
+  - name: "Twinned Spell *(2/día)*"
+    desc: |-
+      Cuando lanza un spell que apunta a un solo objetivo: lo aplica a **dos objetivos** al mismo tiempo dentro del mismo rango.
+```
 
 ---
 

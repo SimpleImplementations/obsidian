@@ -10,28 +10,42 @@ Hombre de confianza de [[Ulfgar Dientelobo]].
 
 ---
 
-> [!infobox|left clean wmed static]
-> # Dunar Dorin
-> *Enano, Guerrero (Nivel 7)*
->
-> | |
-> | - |
-> **AC** 17 (chain mail)
-> **HP** 60 (8d8 + 24)
-> **Speed** 25 ft.
->
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 18 | +4 | +7 | **INT** | 10 | +0 | +0 |
-> | **DEX** | 13 | +1 | +1 | **WIS** | 12 | +1 | +4 |
-> | **CON** | 16 | +3 | +6 | **CHA** | 10 | +0 | +0 |
->
-> | |
-> | - |
-> **Saving Throws** STR +7, CON +6, WIS +4
-> **Skills** Athletics +7, Perception +4, Survival +4
-> **Senses** passive Perception 14
-> **Languages** Común, Enano
+```statblock
+layout: 5e 2024
+columnWidth: 340
+name: Dunar Dorin
+type: "Enano, Guerrero (Nivel 7)"
+ac: 17
+ac_class: chain mail
+hp: 60
+hit_dice: "8d8 + 24"
+speed: "25 ft."
+stats: [18, 13, 16, 10, 12, 10]
+saves:
+  - strength: 7
+  - constitution: 6
+  - wisdom: 4
+skillsaves:
+  - athletics: 7
+  - perception: 4
+  - survival: 4
+senses: "passive Perception 14"
+languages: "Común, Enano"
+actions:
+  - name: Multiattack
+    desc: |-
+      Dunar hace dos ataques con **Greataxe** o dos ataques con **Longbow**.
+  - name: Greataxe
+    desc: |-
+      *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
+  - name: Longbow
+    desc: |-
+      *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+reactions:
+  - name: Retaliation
+    desc: |-
+      Cuando una criatura a 5 ft de Dunar hace un ataque, Dunar hace un ataque de **Greataxe** contra esa criatura después de que el ataque se resuelva.
+```
 
 ### Perks
 
@@ -40,15 +54,3 @@ Hombre de confianza de [[Ulfgar Dientelobo]].
 ***Extra Attack.*** Dunar hace dos ataques cuando usa su Multiattack.
 
 ***Línea de hierro.*** Dunar tiene ventaja en tiradas o salvaciones para evitar ser empujado, derribado o movido contra su voluntad.
-
-### Acciones
-
-***Multiattack.*** Dunar hace dos ataques con **Greataxe** o dos ataques con **Longbow**.
-
-***Greataxe.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
-
-***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
-
-### Reacción
-
-***Retaliation.*** Cuando una criatura a 5 ft de Dunar hace un ataque, Dunar hace un ataque de **Greataxe** contra esa criatura después de que el ataque se resuelva.
