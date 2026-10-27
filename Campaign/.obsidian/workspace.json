@@ -13,71 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 73.md",
+                "file": "Sesiones/Camino de la Party.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 73"
+              "title": "Camino de la Party"
             }
           },
           {
-            "id": "5c669201bdd9af4d",
+            "id": "346f8562572a4c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Power Word Kill.md",
+                "file": "Sesiones/Sesión 75.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Power Word Kill"
-            }
-          },
-          {
-            "id": "0108917ae1de69ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scrying.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Scrying"
-            }
-          },
-          {
-            "id": "d34d7022c1b2744e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scrying.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Scrying"
-            }
-          },
-          {
-            "id": "997aecab605d46e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scrying.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Scrying"
+              "title": "Sesión 75"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 73.md",
+                "file": "Sesiones/Sesión 75.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,8 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b353cff00ba9875",
+  "active": "346f8562572a4c2a",
   "lastOpenFiles": [
+    "Sesiones/Camino de la Party.md",
+    "Sesiones/Sesión 75.md",
+    "Sesiones/Camino de la Party.md.tmp.1642961.be2e95575fc0",
+    "Sesiones/Sesión 74.md",
+    "Sesiones/Sesión 75.md.tmp.1642961.0cb005ac7a3f",
+    "Sesiones/Sesión 73.md",
     "Places/Templo de Moradin.md",
     "Places/Biblioteca Marlavir.md",
     "Unsorted",
@@ -251,15 +216,11 @@
     "Creatures/Askadar Stats Phase 1.md",
     "Ardyn en Valdrias Islas.md",
     "Spells/Power Word Kill.md",
-    "Sesiones/Sesión 73.md",
     "Scrying.md",
     "Spells/Dream.md",
     "Spells/Sending.md",
-    "Sesiones/Sesión 74.md",
     "Characters/Mordrith.md",
     "Mechanics/Tirada Divina.md",
-    "Characters/Player Characters/Delaken.md",
-    "Valedro.md",
     "mixkit-evil-storm-atmosphere-2404.wav",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
@@ -271,11 +232,9 @@
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Characters/Barbaros Goliath",
-    "Combates",
     "Images/Pasted image 20250212000423.png",
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
-    "Templates",
     "Untitled.canvas"
   ]
 }

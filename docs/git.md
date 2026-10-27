@@ -1,0 +1,4 @@
+- Un solo repo para los dos vaults; rama `main`, remote en GitHub.
+- Commit y push solo cuando lo pida.
+- Mensajes muy simples (p. ej. `updates`, `reorganize vault`).
+- `git add -A` incluye cambios del usuario pendientes y los `workspace.json` de Obsidian; está bien, pero mencionarlo.
