@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "_comment_rollback": "Para sacar el layout dos columnas del infobox: borrá las dos líneas livePreview y defaultViewMode y la coma de la línea anterior."
+  "_comment_rollback": "Para sacar el layout dos columnas del infobox: borrá las dos líneas livePreview y defaultViewMode y la coma de la línea anterior.",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unsorted"
 }

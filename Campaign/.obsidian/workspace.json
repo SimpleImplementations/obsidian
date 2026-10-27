@@ -20,6 +20,62 @@
               "icon": "lucide-file",
               "title": "Sesión 73"
             }
+          },
+          {
+            "id": "5c669201bdd9af4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Power Word Kill.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Power Word Kill"
+            }
+          },
+          {
+            "id": "0108917ae1de69ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrying.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scrying"
+            }
+          },
+          {
+            "id": "d34d7022c1b2744e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrying.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scrying"
+            }
+          },
+          {
+            "id": "997aecab605d46e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrying.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Scrying"
+            }
           }
         ]
       }
@@ -172,35 +228,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87cb3027ca7cf196",
+  "active": "3b353cff00ba9875",
   "lastOpenFiles": [
+    "Places/Templo de Moradin.md",
+    "Places/Biblioteca Marlavir.md",
+    "Unsorted",
+    "Audio/mixkit-evil-storm-atmosphere-2404.wav",
+    "Audio",
+    "Images/mixkit-evil-storm-atmosphere-2404.wav",
+    "Special Notes/Viaje al plano Astral.md",
+    "Special Notes/Personajes Tromvas Aftermath.md",
+    "Special Notes/Ardyn en Valdrias Islas.md",
+    "Characters/Valedro.md",
+    "Spells/Scrying.md",
+    "Mechanics/Lingering Injury.md",
+    "Lore/Lagmagnar.md",
+    "Places/El Salto.md",
+    "Combates/Combate En Las Puertas De Tromvas.md",
+    "Combates/Combate en el Interior de Tromvas.md",
+    "Combates/Combate Askadar.md",
+    "Creatures/Askadar Stats Phase 2.md",
+    "Creatures/Askadar Stats Phase 1.md",
+    "Ardyn en Valdrias Islas.md",
+    "Spells/Power Word Kill.md",
+    "Sesiones/Sesión 73.md",
+    "Scrying.md",
+    "Spells/Dream.md",
+    "Spells/Sending.md",
+    "Sesiones/Sesión 74.md",
     "Characters/Mordrith.md",
     "Mechanics/Tirada Divina.md",
     "Characters/Player Characters/Delaken.md",
     "Valedro.md",
-    "Sesiones/Sesión 73.md",
-    "Viaje al plano Astral.md",
-    "Sesiones/Sesión 72.md",
-    "Lore/Resurrección de Marlavir.md",
-    "Creatures/Blob of Annihilation.md",
-    "Creatures/Soldering Construct.md",
-    "Sesiones/Sesión 71.md",
-    "Tools/Music.md",
-    "Creatures/Tiny Shieldbearer Construct.md",
-    "Sesiones/Sesiones.md",
-    "Sesiones/Sesión 70.md",
-    "Personajes Tromvas Aftermath.md",
-    "Lagmagnar.md",
-    "Characters/Orren Stats.md",
-    "Sesiones/Sesión 56.md",
-    "Places/Santuario del fin del mundo.md",
     "mixkit-evil-storm-atmosphere-2404.wav",
-    "Places/Traslagorn.md",
-    "Combate Askadar.md",
-    "Places/Tesoros Tromvas.md",
-    "Sesiones/Sesión 67.md",
-    "Creatures/Askadar.md",
-    "Places/Tromvas.md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",
@@ -216,10 +276,6 @@
     "Images/Pasted image 20250805050944.png",
     "Images/tumba-haldor.png",
     "Templates",
-    "Places/Traslagorn",
-    "Places/Special",
-    "Characters/Player Characters",
-    "Untitled 2.base",
     "Untitled.canvas"
   ]
 }
