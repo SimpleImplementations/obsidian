@@ -20,8 +20,163 @@
               "icon": "lucide-file",
               "title": "Sesión 75"
             }
+          },
+          {
+            "id": "f3e982fc1b97a0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Creatures/Gulthias Blight.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gulthias Blight"
+            }
+          },
+          {
+            "id": "0cb7fe8813ec3617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
+            }
+          },
+          {
+            "id": "bc672fa4655f42ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Creatures/Converted Goblin. Bone Creaper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goblin. Bone Creaper"
+            }
+          },
+          {
+            "id": "a79fdd2b42e9be7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Combates/Combate contra Coverted Troll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate contra Coverted Troll"
+            }
+          },
+          {
+            "id": "3608c6927769f5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Creatures/Converted Goblin. Bone Creaper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goblin. Bone Creaper"
+            }
+          },
+          {
+            "id": "10b63db90108ae7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Creatures/Converted Goliath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converted Goliath"
+            }
+          },
+          {
+            "id": "01615bb4d83d7896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Lore/Batalla de Vallestad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batalla de Vallestad"
+            }
+          },
+          {
+            "id": "e088325bd9b777e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Characters/Briella.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Briella"
+            }
+          },
+          {
+            "id": "500ff44f32e63feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Unsorted/Cierre de Ardyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cierre de Ardyn"
+            }
+          },
+          {
+            "id": "dd4be9d0cdbcf107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Unsorted/Cierre de Ardyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cierre de Ardyn"
+            }
+          },
+          {
+            "id": "5e284ce1cdd74a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Sesiones/Sesión 72.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 72"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mephit",
+                "query": "converted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +234,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,8 +344,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "e238dce7cee5602d",
+  "active": "f3e982fc1b97a0db",
   "lastOpenFiles": [
+    "Campaign/Sesiones/Sesión 75.md",
+    "Campaign/Creatures/Converted Goblin. Bone Creaper.md",
+    "Campaign/Combates/Combate contra Coverted Troll.md",
+    "Campaign/Creatures/Converted Troll.md",
+    "Campaign/Creatures/Converted Goliath.md",
+    "Campaign/Lore/Batalla de Vallestad.md",
+    "Campaign/Characters/Briella.md",
+    "Campaign/Unsorted/Cierre de Ardyn.md",
+    "Campaign/Sesiones/Sesión 72.md",
+    "Campaign/Sesiones/Sesión 73.md",
     "Campaign/Sesiones/Sesión 74.md",
     "Campaign/Places/Lago Helado.md",
     "Campaign/Sesiones/Sesión 3.md",
@@ -198,24 +364,14 @@
     "Campaign/Sesiones/Sesión 14.md",
     "D&D 5e 2024 Rules/03) Monsters/Lich.md",
     "Untitled.md",
-    "Campaign/Characters/Briella.md",
     "Campaign/Lore/La Manada.md",
     "Campaign/Sesiones/Sesión 17.md",
-    "Campaign/Lore/Batalla de Vallestad.md",
     "Campaign/Sesiones/Sesiones.md",
     "Campaign/Viaje al plano Astral.md",
-    "Campaign/Sesiones/Sesión 73.md",
     "Campaign/Characters/Brisa Stats.md",
     "Campaign/Characters/Brisa Ignar.md",
     "Campaign/Lore/Anillo de Karr.md",
     "Campaign/Mechanics/Tirada Divina.md",
-    "Campaign/Characters/Player Characters/Delaken.md",
-    "Campaign/Sesiones/Sesión 72.md",
-    "Campaign/Characters/Ardyn.md",
-    "Campaign/Characters/Vesper Quill.md",
-    "Campaign/Personajes Tromvas Aftermath.md",
-    "Campaign/Lore/Resurrección de Marlavir.md",
-    "Campaign/Sesiones/Sesión 71.md",
     "Pasted image 20260929193112.png"
   ]
 }

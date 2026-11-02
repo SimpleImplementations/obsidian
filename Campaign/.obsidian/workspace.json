@@ -4,93 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "014078dcd24aebcd",
+        "id": "4b52ccb8ed4eccd2",
         "type": "tabs",
         "children": [
           {
-            "id": "87cb3027ca7cf196",
+            "id": "2b861413c9d77fef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 75.md",
+                "file": "Sesiones/Sesión 76.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 75"
+              "title": "Sesión 76"
             }
           },
           {
-            "id": "fa349fd4e9e3097a",
+            "id": "ee1afe2d1d9012e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsorted/Cierre de Ardyn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cierre de Ardyn"
-            }
-          },
-          {
-            "id": "88f5d1ada7c82c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 73.md",
+                "file": "Creatures/Gulthias Blight.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 73"
+              "title": "Gulthias Blight"
+            }
+          },
+          {
+            "id": "6693fa1deb3d692f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Tree Blight.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tree Blight"
+            }
+          },
+          {
+            "id": "5a5f539688887ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Guerreros Vallestad.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guerreros Vallestad"
+            }
+          },
+          {
+            "id": "f6a014016f5c8c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Enanos Tromvas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Enanos Tromvas"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8b34c2fd99a86836",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07246e41be3ceaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsorted/Nuevos lineamientos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nuevos lineamientos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7ba4449dd28fdd38",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03e3ecc2c7f2aac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Camino de la Party.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Camino de la Party"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsorted/Cierre de Ardyn.md",
+                "file": "Creatures/Gulthias Blight.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,8 +230,24 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "fa349fd4e9e3097a",
+  "active": "ee1afe2d1d9012e1",
   "lastOpenFiles": [
+    "Sesiones/Sesión 76.md",
+    "Creatures/Tree Blight.md",
+    "extras/Aliados Party.pdf",
+    "extras/Aliados Gulthias.pdf",
+    "extras",
+    "Characters/Guerreros Vallestad.md",
+    "Characters/Enanos Tromvas.md",
+    "Characters/Guerreros Enanos grupo.md",
+    "Characters/Hechiceros grupo.md",
+    "Characters/Clerigos grupo.md",
+    "Characters/Hechiceros de Bulzar.md",
+    "Characters/Clerigos Vallestad.md",
+    "Characters/Guerreros Humanos grupo.md",
+    "Characters/sedmxJU3o",
+    "Sesiones/Camino de la Party.md",
+    "Unsorted/Nuevos lineamientos.md",
     "items/Half Plate Mithral Armor.md",
     "Unsorted/Cierre de Ardyn.md.tmp.1642961.c9ecfa2437a4",
     "Sesiones/Sesión 75.md",
@@ -251,8 +255,6 @@
     "Creatures/Gulthias Blight.md",
     "Sesiones/Sesión 73.md",
     "Sesiones/Sesión 74.md",
-    "Unsorted/Nuevos lineamientos.md",
-    "Sesiones/Camino de la Party.md",
     "Creatures/Gulthias Blight.md.tmp.1642961.4b6980bd7c09",
     "Creatures/Needle Blight.md",
     "Creatures/Twig Blight.md",
@@ -263,23 +265,9 @@
     "Creatures/Lich.md",
     "Characters/Carbón.md",
     "Characters/Thassyr Stats.md",
-    "Characters/Vesper Quill Stats.md",
-    "Creatures/Frost Worm Large.md",
-    "Creatures/Converted Troll.md",
-    "Creatures/Converted Yeti.md",
-    "Creatures/Espectros.md",
-    "Characters/Briella Stats.md",
-    "Characters/Dunar Dorin.md",
-    "Creatures/Soldering Construct.md",
-    "Creatures/Askadar Stats Phase 2.md",
     "Creatures/Tiny Shieldbearer Construct.md.tmp.1642961.6f0064fea727",
     "Creatures/Vine Blight.md.tmp.1642961.15fd9e370ed1",
     "Creatures/Commoner.md.tmp.1642961.ddee38a44c13",
-    "Characters/Carbón.md.tmp.1642961.b4ece174b86a",
-    "Creatures/Espectros.md.tmp.1642961.ece398b1510f",
-    "Creatures/Imp.md.tmp.1642961.669c2bf8628d",
-    "Creatures/Frost Spider Gigante.md.tmp.1642961.bee78f086e9e",
-    "Characters/Orren Stats.md",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",

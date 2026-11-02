@@ -36,3 +36,5 @@ bonus_actions:
     desc: |-
       *Dexterity Saving Throw:* DC 17, one creature Grappled by the blight. *Failure:* 19 (3d8 + 6) Piercing damage. *Success:* Half damage.
 ```
+
+[Tree Blight (DnD 2024)](https://www.aidedd.org/monster/tree-blight)

@@ -73,3 +73,7 @@ treasure: "..."
 - Antes de crear, buscar si ya existe una nota con ese nombre (`find Campaign -iname "*nombre*"`); si existe, editarla, no sobrescribirla.
 - Texto copiado del HTML de la página (WebFetch resume; usar `curl`). Debajo del bloque: enlace `[Nombre (DnD 2024)](url)` y la descripción en inglés.
 - Criaturas que la nota invoca o menciona y existen en el vault: enlazar con `[[...]]`.
+
+## Hojas simples para jugadores
+
+Para aliados que manejan los jugadores (p. ej. `Clerigos Vallestad`, `Enanos Tromvas`): **sin bloque `statblock`**: callout `> [!statblocks]` del ITS Theme (marco de stat block), con `# Nombre en inglés` y `---` (con líneas vacías alrededor) entre secciones. Una línea con AC · HP · Speed · Initiative, una tabla con los 6 stats `puntaje (mod)` (el mod es la salvación), un ataque y una habilidad simple, en inglés. Fuera del callout, el tipo y el CR como referencia.

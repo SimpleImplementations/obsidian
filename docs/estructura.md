@@ -26,6 +26,7 @@
 | `Images/` | Solo imágenes |
 | `Audio/` | Audio embebido en sesiones |
 | `Unsorted/` | Notas nuevas sin ordenar |
+| `extras/` | PDFs y archivos para imprimir o dar a los jugadores (p. ej. `Aliados Party.pdf`) |
 
 ## Mover notas
 

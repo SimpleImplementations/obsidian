@@ -25,14 +25,21 @@ Corren al interior de Tromvas, cuando todo parecía que estaba estabilizandose, 
 
 Antes de viajar, grupos se les acercaran para unirseles. 
 
-- Ragnhild de la Escarcha Alta Clériga lider
-- Hildur Vetrstein
-- Solveig Hallmark
+	Gurthar
+	Tarkel enano guerrero
+
+- Ragnid de la Escarcha Alta Clériga lider
+- 
+- Hildur Vetrstein 
+- 
+- Solveig Hallmark 
 
 
-- Torvald Isbrand Guerrero lider
-- Halvar Grimsson
-- Eskil Rimeholt
+- Torvad Isbrand Guerrero lider enanos
+
+- Manso Grimsson  lider humanos 
+- 
+- Eskil Rimeholt 
 
 y 3 d10+10 soldados extras
 
@@ -55,3 +62,6 @@ el grupo de [[Eryndor Celestia]] llega después
 [[Half Plate Mithral Armor]]
 
 # postmortem
+ 
+
+Shield of Missile Attraction
