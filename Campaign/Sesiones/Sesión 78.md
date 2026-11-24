@@ -2,18 +2,10 @@
 
 ### Musica
 Lustmord — Dark Companion (viaje LLL, montañas heladas)
-Kammarheit — A Room Between the Rooms (viaje LLL, silencio total)
-Hildur Guðnadóttir — Turbine Hall (viaje LLL, la podredumbre que avanza)
-Ryuichi Sakamoto & Alva Noto — The Revenant Main Theme (viaje LLL, nieve y muerte)
-Thomas Köner — Permafrost (viaje LLL)
 Ben Salisbury & Geoff Barrow — The Alien (extra siniestra, provisoria)
 Sjellos — Frozen Wastes (interior de las montañas, Aliento de Orren)
-György Ligeti — Lux Aeterna (Aira, Comunidad habla en "nosotros")
-Jóhann Jóhannsson — Heptapod B (Aira, Comunidad discute con ella)
-Ben Salisbury & Geoff Barrow — The Alien (Aira, absorción / estasis)
-Mica Levi — Love (Aira, lo seductor de Comunidad)
-Meredith Monk — Dolmen Music (Aira, lo orgánico y ritual)
 Lorna Shore — Pain Remains (Instrumental) (Ardyn, muerte)
+Lorna Shore — Immortal (Instrumental) (Ardyn, muerte)
 
 ## Inicio
 

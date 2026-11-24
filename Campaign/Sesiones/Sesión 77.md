@@ -1,9 +1,9 @@
-[[Camino de la Party]]
+  [[Camino de la Party]]
 
 ### Musica
 Kammarheit — The Starwheel (viaje onírico)
 Brian Eno — An Ending (Ascent) (viaje onírico, versión tranqui)
-Hans Zimmer — Davy Jones (Ardyn, piratas)
+ (Ardyn, piratas)
 Hans Zimmer — Up Is Down (Ardyn, piratas, pelea)
 
 ## Personajes
@@ -34,7 +34,7 @@ otros:
 Piratas en el muelle de [[Valdrias Islas]], cerca de [[Ardyn]] (de [[Sesión 74]]):
 - Macaña (drogadicto)
 - El niño (pedófilo)
-- Falange (le faltan 3 dedos)
+- Falange (le faltan 3 dedos) azul
 
 #### Guerreros enanos idea
 [[Enanos Tromvas]]

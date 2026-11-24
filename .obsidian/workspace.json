@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6915a3f591088044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Sesiones/Sesión 76.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión 76"
-            }
-          },
-          {
             "id": "1d050b11dd79a112",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Sesión 75"
+            }
+          },
+          {
+            "id": "6915a3f591088044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Sesiones/Sesión 76.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesión 76"
             }
           },
           {
@@ -164,7 +164,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,7 +274,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "da2ce3424efa91d6",
+  "active": "d3590acc4ee1bf00",
   "lastOpenFiles": [
     "Campaign/Places/Orden del Círculo de la nieve.md",
     "Campaign/Characters/Briella.md",
