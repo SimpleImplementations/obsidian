@@ -1,6 +1,6 @@
 ## Sesión nueva
 
-Archivo `Campaign/Sesiones/Sesión <N>.md`. "Limpia" = sin contenido de la sesión anterior, solo este esqueleto (el de las sesiones 71–74, no `Templates/Sesión.md`, que tiene el grupo viejo):
+Archivo `Campaign/Sesiones/Sesión <N>.md`. "Limpia" = sin contenido de la sesión anterior, solo este esqueleto (no `Templates/Sesión.md`, que tiene el grupo viejo):
 
 ```
 [[Camino de la Party]]
@@ -10,18 +10,25 @@ Archivo `Campaign/Sesiones/Sesión <N>.md`. "Limpia" = sin contenido de la sesi�
 ## Inicio
 
 ## Personajes
+Semi NPC:
+[[Delaken]]:
 
 ## Escenas
-Aira:
-Delaken:
-Lucke:
-Ardyn:
-Lairtou:
+#### Círculo de la nieve
+[[Lenzo]]:
+[[Lairtou]]:
+[[Lucke]]:
+
+#### Aira
+[[Aira]]:
+
+#### Ardyn
+[[Ardyn]]:
 
 # postmortem
 ```
 
-Ajustar la lista de Escenas si cambia el grupo.
+Si las escenas se alargan, separarlas en notas propias en `Special Notes/` (`Sesión <N> <Grupo>`, p. ej. `Sesión 78 Aira`), enlazadas desde Escenas; cada una con su `## Time Skip` solo para reglas. Desde la sesión 78 la party va en tres historias separadas (Círculo de la nieve, Aira, Ardyn); Delaken ya no juega y queda como semi NPC. Ajustar las Escenas si cambia el grupo.
 
 ## Índice
 

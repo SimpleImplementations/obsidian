@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 77.md",
+                "file": "Sesiones/Sesión 78.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sesión 77"
+              "title": "Sesión 78"
             }
           }
         ],
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 77.md",
+                "file": "Sesiones/Sesión 78.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,20 +202,36 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2c5eaee83e3c6502",
+  "active": "3b353cff00ba9875",
   "lastOpenFiles": [
+    "Sesiones/Sesión 77.md",
+    "Special Notes/Sesión 78 Aira.md.tmp.369544.14de4907076e",
+    "Sesiones/Sesión 78.md",
+    "Sesiones/Sesión 76.md",
+    "Special Notes/Sesión 78 Círculo de la nieve.md",
+    "Special Notes/Camino a Guarida de Orren.md",
+    "Special Notes/Camino a Guarida de Orren.md.tmp.369544.6331b781b2db",
+    "Special Notes/sedOZRSm3",
+    "Special Notes/Sesión 78 Ardyn.md",
+    "Special Notes/Sesión 78 Ardyn.md.tmp.369544.e11073eaf76e",
+    "Special Notes/Sesión 78 Aira.md",
+    "Special Notes/Sesión 78 Aira.md.tmp.369544.80c4000d3f75",
+    "Special Notes/Sesión 78 Círculo de la nieve.md.tmp.369544.ba8281107676",
+    "Images/mapa-antiguo-norte.png",
+    "Images/tierra-orren-rutas.png",
+    "Places/Tierra de Orren.md",
+    "Places/Tierra de Orren.md.tmp.369544.b01dbc57f81e",
+    "Places/Guarida de Orren.md",
+    "Places/Guarida de Orren.md.tmp.369544.7c6b7e59865a",
     "Creatures/Converted Plesiosaurus.md",
     "Creatures/Converted Ankylosaurus.md",
     "Creatures/Converted Triceratops.md",
     "Creatures/Converted Allosaurus.md",
     "Creatures/Converted Tyrannosaurus Rex.md",
-    "Sesiones/Sesión 76.md",
     "Sesiones/Sesión 75.md",
-    "Sesiones/Sesión 77.md",
     "Creatures/Tree Blight.md",
     "extras/Aliados Party.pdf",
     "extras/Aliados Gulthias.pdf",
-    "extras",
     "Characters/Guerreros Vallestad.md",
     "Characters/Enanos Tromvas.md",
     "Characters/Guerreros Enanos grupo.md",
@@ -224,22 +240,7 @@
     "Characters/Hechiceros de Bulzar.md",
     "Characters/Clerigos Vallestad.md",
     "Characters/Guerreros Humanos grupo.md",
-    "Characters/sedmxJU3o",
     "Sesiones/Camino de la Party.md",
-    "Unsorted/Nuevos lineamientos.md",
-    "items/Half Plate Mithral Armor.md",
-    "Unsorted/Cierre de Ardyn.md.tmp.1642961.c9ecfa2437a4",
-    "Unsorted/Cierre de Ardyn.md",
-    "Creatures/Gulthias Blight.md",
-    "Sesiones/Sesión 73.md",
-    "Sesiones/Sesión 74.md",
-    "Creatures/Gulthias Blight.md.tmp.1642961.4b6980bd7c09",
-    "Creatures/Needle Blight.md",
-    "Creatures/Twig Blight.md",
-    "Creatures/Gulthias Blight.md.tmp.1642961.0907fd1433fb",
-    "Creatures/Tiny Shieldbearer Construct.md.tmp.1642961.6f0064fea727",
-    "Creatures/Vine Blight.md.tmp.1642961.15fd9e370ed1",
-    "Creatures/Commoner.md.tmp.1642961.ddee38a44c13",
     "Images/tromvas-mapa.png",
     "Jardines Frostborn.png",
     "tabaxi image.png",
@@ -248,8 +249,6 @@
     "Images/will-o-wisp-susurros-nieve.png",
     "Images/Frost Worm.png",
     "Images/Pasted image 20250212000423.png",
-    "Images/Pasted image 20250805050944.png",
-    "Images/tumba-haldor.png",
     "Untitled.canvas"
   ]
 }
