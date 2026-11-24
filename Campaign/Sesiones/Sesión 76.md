@@ -30,4 +30,10 @@ otros:
 [[Vine Blight]]
 [[Tree Blight]]
 
+## Recordatorios
+Piratas en el muelle de [[Valdrias Islas]], cerca de [[Ardyn]] (de [[Sesión 74]]):
+- Macaña (drogadicto)
+- El niño (pedófilo)
+- Falange (le faltan 3 dedos)
+
 # postmortem
