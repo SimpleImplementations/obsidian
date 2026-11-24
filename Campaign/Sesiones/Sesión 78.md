@@ -1,3 +1,13 @@
+### Nomenclatura
+- **Mar de Escarcha:** el mar abierto del oeste.
+- **Mar Blanco:** el mar congelado del norte.
+- **Montañas del Norte:** la cordillera.
+- **Bosque del Círculo de la nieve:** la zona alrededor de la Orden (propuesto).
+- **[[Tierra de Orren]]:** la zona de las montañas tomada por Orren.
+- **[[Tierra de Orren#Aliento de Orren|Aliento de Orren]]:** el aire oscuro alucinógeno (lo bautizan así los enanos).
+- **[[Guarida de Orren]]:** las ruinas grises al este de la [[Tumba de Haldor]].
+- **Comunidad:** el hongo / hive mind de Aira (provisorio).
+
 [[Camino de la Party]]
 
 ### Musica
